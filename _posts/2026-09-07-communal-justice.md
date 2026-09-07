@@ -2,7 +2,7 @@
 layout: post
 title:  "Communal Justice"
 
-description: 
+description: "State-run justice relies on a priesthood of strangers and media mobs. Ancestral clans used Dunbar-sized groups for contextual restitution."
 author: "October Talisman"
 tags: [Community, Strangers, Evidence, Behind Closed Doors, Biology, Evidence-Based, Abuse, Authority, Biases, Coercion, Dunbar's Number, Dysfunction]
 ---
