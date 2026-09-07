@@ -91,7 +91,7 @@ How can we leverage the power of the [scientific method]({{ "/guide/first-princi
 
 #### Promoting Critical Thinking
 
-- Instead of the [“hidden curriculum”]({{ "/posts/2026-06-02-Curiosity" | relative_url }}), education systems need to prioritise the development of critical thinking skills. This means teaching people not what to think, but “how” to think: how to evaluate information, identify [bias]({{ "/guide/thinking-for-yourself/cognitive-biases/" | relative_url }}), and engage in reasoned argumentation.
+- Instead of the [“hidden curriculum”]({{ "/posts/2026-09-05-Curiosity" | relative_url }}), education systems need to prioritise the development of critical thinking skills. This means teaching people not what to think, but “how” to think: how to evaluate information, identify [bias]({{ "/guide/thinking-for-yourself/cognitive-biases/" | relative_url }}), and engage in reasoned argumentation.
 - A [society]({{ "/case-studies/society/social-structures/" | relative_url }}) of critical thinkers is less likely to fall prey to misinformation and propaganda and more likely to challenge harmful intersubjective systems.
 
 #### Open and Transparent Dialogue

@@ -166,7 +166,7 @@ A _scientific approach_{: .cool} to counteracting the Certainty Principle demand
 
 - _Cultivate Intellectual Humility:_{: .bullet} Actively encourage individuals to acknowledge the limits of their knowledge, embrace uncertainty, and be open to revising beliefs based on new evidence. Promote the idea that "I don't know" is a sign of intellectual honesty, not weakness.
 
-- _Teach Critical Thinking & Probabilistic Reasoning:_{: .bullet} Implement educational [curricula]({{ "/posts/2026-06-02-Curiosity" | relative_url }}) that explicitly teach critical thinking skills, the scientific method, the nature of evidence, and the importance of [probabilistic thinking]({{ "/glossary/" | relative_url }}#probabilistic-thinking) over absolute certainty.
+- _Teach Critical Thinking & Probabilistic Reasoning:_{: .bullet} Implement educational [curricula]({{ "/posts/2026-09-05-Curiosity" | relative_url }}) that explicitly teach critical thinking skills, the scientific method, the nature of evidence, and the importance of [probabilistic thinking]({{ "/glossary/" | relative_url }}#probabilistic-thinking) over absolute certainty.
 
 - _Value Nuance & Complexity:_{: .bullet} Actively promote public discourse that rewards nuanced arguments, explores multiple perspectives, and resists the temptation of simplistic "either/or" framings, thereby countering the "Simplification Lock-In".
 

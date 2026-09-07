@@ -54,7 +54,7 @@ For 99.5% of our history, learning was not a separate activity confined to a spe
 
 - _Imitation & Observation:_{: .bullet} They watched and mimicked the adults and older peers in their multi-age community, acquiring essential skills organically.
 
-- _Intrinsic Motivation:_{: .bullet} They learned what was relevant to their lives, driven by their own curiosity, not an external [curriculum]({{ "/posts/2026-06-02-Curiosity" | relative_url }}).
+- _Intrinsic Motivation:_{: .bullet} They learned what was relevant to their lives, driven by their own curiosity, not an external [curriculum]({{ "/posts/2026-09-05-Curiosity" | relative_url }}).
 
 - _Autonomy:_{: .bullet} Hunter-gatherer children had immense [freedom]({{ "/glossary/" | relative_url }}#autonomy) to explore, take risks, and direct their own learning.
 
