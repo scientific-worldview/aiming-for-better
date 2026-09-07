@@ -135,3 +135,5 @@ liquid:
   #error_mode: strict
   #strict_variables: true
   #strict_filters: true
+# Add this near the top or bottom of your _config.yml
+google_analytics: G-N5J17B2TPQ
