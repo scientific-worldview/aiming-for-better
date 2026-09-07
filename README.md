@@ -1,2 +1,2 @@
-# aiming-for-truth
+# aiming-for-better
 A Jekyll website
