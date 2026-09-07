@@ -26,7 +26,7 @@ _How did the human animal actually evolve to learn, and how severely does the cu
 
 ### The Ancestral Classroom: Curiosity-Driven Mentorship
 
-In the _ancestral environment_{: .bold} of [the clan]({{ "/case-studies/society/social-structures/the-clan/" | relative_url }}), learning was never a *passive*, forced activity. It was an active, continuous _engagement_{: .bold} with the _real world_{: .cool}, driven primarily by the learner's own hardwired [curiosity]({{ site.baseurl }}{% post_url 2026-06-02-Curiosity %}). 
+In the _ancestral environment_{: .bold} of [the clan]({{ "/case-studies/society/social-structures/the-clan/" | relative_url }}), learning was never a *passive*, forced activity. It was an active, continuous _engagement_{: .bold} with the _real world_{: .cool}, driven primarily by the learner's own hardwired [curiosity]({{ site.baseurl }}{% post_url 2026-09-05-Curiosity %}). 
 
 Historical mentorship and knowledge transmission relied on several [empirical]({{ "/glossary/" | relative_url }}#empirical) mechanisms:
 
