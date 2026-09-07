@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="content-no-sidebar">
+  
+ 
+  <article class="content fade-in" style="{% if page.opq %}--content-bg-alpha: {{ page.opq }};{% endif %}">
+    <header>
+      <h1>{{ page.title }}</h1>
+      {% if page.subtitle %}
+        <p class="subtitle">{{ page.subtitle }}</p>
+      {% endif %}
+    </header>
+    
+    {{ content }}
+    
+    
+  </article>
+</div>

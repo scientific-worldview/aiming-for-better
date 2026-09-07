@@ -1,0 +1,546 @@
+
+
+.navbar {
+  position: sticky;
+  top: 0;
+  background: rgba(255, 255, 255, 0.50);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+  z-index: 1000;
+  transition: all 0.3s ease;
+  
+  &.scrolled {
+    box-shadow: var(--shadow);
+    
+  }
+    
+  
+  &.hidden {
+    transform: translateY(-100%);
+  }
+
+}
+
+
+.nav-container {
+  max-width: 1400px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: var(--spacing-xs) var(--spacing-sm);
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-sm);
+  font-weight: 800;
+  font-size: 1.5rem;
+  color: var(--primary);
+  text-decoration: none;
+  transition: transform 0.3s ease;
+  
+  &:hover {
+    transform: scale(1.05);
+    color: var(--primary);
+  }
+  
+  &::before {
+    content: "🎯";
+    font-size: 2rem;
+    animation: pulse 2s infinite;
+  }
+}
+
+// --- DESKTOP NAVIGATION STYLES ---
+.nav-links { // This targets your original desktop nav list
+  
+  display: flex;
+  list-style: none;
+  gap: var(--spacing-md);
+  align-items: center;
+  
+  li.dropdown {
+  position: relative;
+  }
+
+  a {
+    // I am using the cleaner "underline" hover effect we discussed.
+    color: darkblue;
+    font-weight: 600;
+    padding: var(--spacing-xs) 0;
+    margin: 0 var(--spacing-sm);
+    transition: color 0.3s ease;
+    position: relative;
+    text-decoration: none;
+    
+
+    &::after {
+      content: '';
+      position: absolute;
+      bottom: -4px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 0;
+      height: 2px;
+      background: var(--primary);
+      transition: width 0.3s ease;
+    }
+    
+    &:hover,
+    &.active {
+      font-weight: bold;
+      color: var(--primary);
+      &::after { width: 100%; }
+    }
+  }
+}
+
+/*Dropdown Menu Styles*/
+.dropdown-content {
+  display: none;
+  position: absolute;
+  top: 100%; /* Places it directly below the parent */
+  right: 0;   /* Aligns to the left edge of the parent */
+  margin-top: 8px;
+  padding: 8px;
+  
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+
+  li {
+    margin: 0;
+    padding: 8px 12px;
+    color: var(--dark);
+    font-weight: 500;
+    transition: background-color 0.3s ease;
+
+    &:hover {
+      background-color: rgba(0, 0, 0, 0.05);
+      color: var(--primary);
+    }
+
+    a {
+      text-decoration: none;
+      color: inherit; /* Inherit color from li */
+    }
+  }
+
+}
+
+.dropdown:hover .dropdown-content,
+.dropdown-content:hover {
+  display: block;
+}
+
+.dropdown-content li {
+  display: block;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropbtn {
+  cursor: pointer;
+}
+
+.nav-links a,
+.nav-links .dropdown > a {
+  display: flex;
+  align-items: center;
+  white-space: nowrap; // prevents ▼ dropping
+  gap: 0.25rem;        // separation between text and ▼
+}
+
+/* Existing hamburger styles - keep as is */
+.hamburger {
+  display: none;
+  flex-direction: column;
+  cursor: pointer;
+  gap: 4px;
+  z-index: 1001;
+  
+  span {
+    width: 25px;
+    height: 3px;
+    background: var(--dark);
+    transition: 0.3s;
+  }
+  
+  &.active {
+    span:nth-child(1) {
+      transform: rotate(-45deg) translate(-5px, 6px);
+    }
+    
+    span:nth-child(2) {
+      opacity: 0;
+    }
+    
+    span:nth-child(3) {
+      transform: rotate(45deg) translate(-5px, -6px);
+    }
+  }
+}
+
+/* Mobile Navigation Overlay */
+.mobile-nav-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.99);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px); /* for Safari */
+  z-index: 1000;
+  transform: translateX(-100%);
+  transition: transform 0.3s ease;
+  visibility: hidden;
+  
+  &.active {
+    transform: translateX(0);
+    visibility: visible;
+  }
+}
+
+.mobile-nav-content {
+  height: 100%;
+  padding: 80px 20px 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Tab Headers */
+.mobile-nav-tabs {
+  display: flex;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  margin-bottom: 20px;
+}
+
+.tab-button {
+  flex: 1;
+  background: transparent;
+  border: none;
+  color: rgba(255, 255, 255, 0.7);
+  padding: 15px 10px;
+  font-size: 16px;
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+  transition: all 0.3s ease;
+  
+  &.active {
+    color: white;
+    border-bottom-color: var(--primary, #007bff);
+  }
+  
+  &:hover {
+    color: white;
+  }
+}
+
+/* Tab Content */
+.mobile-tab-content {
+  flex: 1;
+  overflow-y: auto;
+}
+
+.tab-pane {
+  display: none;
+  
+  &.active {
+    display: block;
+  }
+}
+
+/* Mobile Navigation Links */
+.mobile-nav-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  
+  li {
+    margin-bottom: 5px;
+    
+    a {
+      display: block;
+      color: rgba(255, 255, 255, 0.9);
+      text-decoration: none;
+      padding: 15px 0;
+      font-size: 18px;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+      transition: all 0.3s ease;
+      
+      &:hover,
+      &.active {
+        color: white;
+        background: rgba(255, 255, 255, 0.1);
+        padding-left: 10px;
+      }
+    }
+  }
+}
+
+/* Mobile Sidebar Content */
+.mobile-sidebar-content {
+  h4 {
+    color: white;
+    margin-bottom: 20px;
+    font-size: 20px;
+  }
+}
+
+.mobile-sidebar-nav {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  margin-right: 15px;
+  height: 100%;       // You probably have this from a previous step
+  overflow-y: auto;   // And this
+
+  // --- THIS IS THE FIX ---
+  padding-right: 1px; // Add this line!
+  
+  li {
+    margin-bottom: 5px;
+    
+    a {
+      display: block;
+      color: rgba(255, 255, 255, 0.9);
+      text-decoration: none;
+      padding: 12px 0;
+      font-size: 16px;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+      transition: all 0.3s ease;
+      
+      &:hover,
+      &.active {
+        color: white;
+        background: rgba(255, 255, 255, 0.1);
+        padding-left: 10px;
+      }
+    }
+    
+    strong {
+      color: var(--primary, #007bff);
+    }
+  }
+}
+
+.mobile-sidebar-group {
+  h5 {
+    color: var(--primary, #007bff);
+    margin: 20px 0 10px;
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 15px 15px;
+    
+    li {
+      margin-bottom: 3px;
+      
+      a {
+        padding: 8px 0;
+        font-size: 15px;
+        color: rgba(255, 255, 255, 0.8);
+      }
+    }
+  }
+}
+
+
+
+/* Override existing responsive styles that conflict */
+@media (max-width: 768px) {
+  .hamburger {
+    display: flex;
+  }
+  
+  /* Override the old mobile nav styles from responsive.scss */
+  .nav-links {
+    position: static;
+    right: auto;
+    height: auto;
+    width: auto;
+    background: transparent;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding-top: 0;
+    transition: none;
+    box-shadow: none;
+    display: none;
+    
+    &.active {
+      right: auto;
+      display: none;
+    }
+  }
+}
+
+@media (max-width: 1024px) {
+  .hamburger {
+    display: flex;
+  }
+  
+  .nav-links {
+    display: none;
+  }
+}
+
+/* Hide mobile nav on desktop */
+@media (min-width: 1024px) {
+  .mobile-nav-overlay {
+    display: none;
+  }
+  
+  /* Ensure desktop nav works normally */
+  .nav-links {
+    display: flex !important;
+    position: static !important;
+  }
+}
+
+/* =============================================================================
+   -- Sidebar Accordion Styles --
+   ============================================================================= */
+
+/* Style the button that wraps the category heading */
+.sidebar-accordion-toggle {
+  background: none;
+  border: none;
+  padding-bottom: 0.5rem; /* Add some vertical padding for a larger click area */
+  margin: 0;
+  width: 100%;
+  text-align: left;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: inherit; /* Make the text color the same as the rest of the sidebar */
+}
+
+.sidebar-accordion-toggle h4 {
+  margin-bottom: 0; /* The button provides spacing, so the h4 doesn't need it */
+}
+
+/* --- The Core Show/Hide Logic --- */
+.sidebar-group-content {
+  /* Hide the content panels by default */
+  display: none;
+  
+  /* Add some nice indentation for the links inside */
+   
+}
+
+/* When the parent .sidebar-group has the 'is-open' class, show its content */
+.sidebar-group.is-open > .sidebar-group-content {
+  display: block;
+}
+
+
+/* --- Styling the +/- Icon --- */
+.accordion-icon {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  position: relative;
+  transition: transform 0.3s ease-in-out;
+  flex-shrink: 0; /* Prevent the icon from shrinking if the text is long */
+  margin-left: 0.5rem;
+}
+
+/* Create the horizontal and vertical bars of the '+' */
+.accordion-icon::before,
+.accordion-icon::after {
+  content: '';
+  position: absolute;
+  background-color: var(--color-text-main, #2a5501); /* Use your text color variable */
+  left: 50%;
+  top: 50%;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.accordion-icon::before { /* Horizontal bar */
+  height: 2px;
+  width: 100%;
+  transform: translate(-50%, -50%);
+}
+
+.accordion-icon::after { /* Vertical bar */
+  width: 2px;
+  height: 100%;
+  transform: translate(-50%, -50%);
+}
+
+/* 
+ * When a group is open, hide ONLY the vertical bar of the icon in ITS header.
+ * The "> .sidebar-group-header" part is the crucial addition.
+ */
+.sidebar-group.is-open > .sidebar-group-header .accordion-icon::after {
+  opacity: 0;
+}
+
+    
+/* =============================================================================
+   -- Mobile Sidebar Accordion Styles --
+   ============================================================================= */
+
+/* Style the button that wraps the category heading */
+.mobile-accordion-toggle {
+
+  
+  background: none;
+  border: none;
+  padding: 0.75rem 0;
+  margin: 0;
+  width: 100%;
+  text-align: left;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: inherit;
+}
+
+.mobile-accordion-toggle h5 {
+  margin-bottom: 0;
+}
+
+/* Hide the content panels by default */
+.mobile-sidebar-group-content {
+  display: none;
+  padding-left: 1.25rem; /* A slightly larger indent for mobile touch targets */
+}
+
+/* When the parent has the 'is-open' class, show its content */
+.mobile-sidebar-group.is-open > .mobile-sidebar-group-content {
+  display: block;
+}
+
+/* When the toggle button gets the 'icon-minus' class, hide the vertical bar */
+.mobile-accordion-toggle.icon-minus .accordion-icon::after,
+.sidebar-accordion-toggle.icon-minus .accordion-icon::after {
+  opacity: 0;
+}
+
+/*
+ * We can reuse the .accordion-icon styling from the desktop version,
+ * so we don't need to duplicate it unless we want to change its color or size for mobile.
+ * If you need to change it, you can add overriding styles here.
+ * For example, to make the icon white in the mobile overlay:
+ *
+ * .mobile-accordion-toggle .accordion-icon::before,
+ * .mobile-accordion-toggle .accordion-icon::after {
+ *   background-color: #fff;
+ * }
+ */
+
+  

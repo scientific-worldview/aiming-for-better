@@ -1,0 +1,35 @@
+:root {
+  --primary: #f10f0f;
+  --secondary: #004e89;
+  --tertiary: #1c067c;
+  --accent: #00a8cc;
+  --bold: #d87402;
+  --italic: #2d9c01;
+  --dark: #1a1a1a;
+  --light: #f8f9fa;
+  --gray: #6c757d;
+  --gradient: linear-gradient(135deg, #d10f0f 0%, #004e89 100%);
+  
+  --shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  --shadow-hover: 0 20px 40px rgba(0, 0, 0, 0.15);
+  
+  // Typography
+  --font-tertiary: "Comic Sans MS", "Comic Sans", cursive;
+  --font-primary: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-secondary: 'Georgia', 'Times New Roman', serif;
+  --font-size-base: 1rem;
+  --line-height-base: 1.6;
+  
+  // Spacing
+  --spacing-xs: 0.5rem;
+  --spacing-sm: 1rem;
+  --spacing-md: 1.5rem;
+  --spacing-lg: 2rem;
+  --spacing-xl: 3rem;
+  
+  // Breakpoints
+  --breakpoint-sm: 576px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 992px;
+  --breakpoint-xl: 1200px;
+}

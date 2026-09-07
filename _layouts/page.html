@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div class="content-with-sidebar">
+  
+
+  {% include sidebar.html section=page.section %}
+ 
+  
+  
+  <article class="content fade-in" style="{% if page.opq %}--content-bg-alpha: {{ page.opq }};{% endif %}">
+    <header>
+      <h1>{{ page.title }}</h1>
+      {% if page.subtitle %}
+        <p class="subtitle">{{ page.subtitle }}</p>
+      {% endif %}
+    </header>
+    
+    {{ content }}
+    
+    {% include page-navigation.html %}
+  </article>
+</div>

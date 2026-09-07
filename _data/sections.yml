@@ -1,0 +1,15 @@
+guide:
+  title: The Thinking Guide
+  intro: "An introduction to the guide section."
+
+casestudies: 
+  title: Selected Case Studies
+  intro: "Examples of the principles in action."
+
+articles:
+  title: Collected Articles
+  intro: "Further reading and related topics."
+
+blog:
+  title: The Blog
+  intro: "Latest news and updates."

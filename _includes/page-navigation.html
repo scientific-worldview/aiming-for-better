@@ -1,0 +1,67 @@
+{%- comment -%}
+  Definitive Page Navigation
+  - Guarantees the root index.md is always treated as the first page.
+  - Correctly sorts all other pages based on the path numbering.
+{%- endcomment -%}
+
+{%- assign section = page.section -%}
+{%- assign collection = site[section] -%}
+
+{%- if collection and collection.size > 1 -%}
+
+  {% comment %}
+    STEP 1: Build the definitive, correctly ordered "playlist" of pages.
+  {% endcomment %}
+  
+  
+  {%- assign intro_page = collection | where_exp: "item", "item.category == nil" | first -%}
+  
+  
+  {%- assign other_pages_sorted = collection | where_exp: "item", "item.category != nil" | sort: "path" -%}
+  
+  
+  {%- if intro_page -%}
+    {%- assign sorted_playlist = "" | split: "" | push: intro_page -%}
+    {%- assign sorted_playlist = sorted_playlist | concat: other_pages_sorted -%}
+  {%- else -%}
+    {%- assign sorted_playlist = other_pages_sorted -%}
+  {%- endif -%}
+
+  {% comment %}
+    STEP 2: Find the current page in the playlist and get its neighbors.
+    This logic remains the same as it was, as it's correct.
+  {% endcomment %}
+  {%- for item in sorted_playlist -%}
+    {%- if item.url == page.url -%}
+      {%- assign current_index = forloop.index0 -%}
+      {%- break -%}
+    {%- endif -%}
+  {%- endfor -%}
+  
+  {%- if current_index != nil -%}
+    {%- if current_index > 0 -%}
+      {%- assign previous_index = current_index | minus: 1 -%}
+      {%- assign previous_page = sorted_playlist[previous_index] -%}
+    {%- endif -%}
+
+    {%- if current_index < sorted_playlist.size | minus: 1 -%}
+      {%- assign next_index = current_index | plus: 1 -%}
+      {%- assign next_page = sorted_playlist[next_index] -%}
+    {%- endif -%}
+  {%- endif -%}
+  
+  <nav class="page-navigation">
+    {%- if previous_page -%}
+      <a class="nav-prev" href="{{ previous_page.url | relative_url }}">
+        ← {{ previous_page.title }}
+      </a>
+    {%- endif -%}
+    
+    {%- if next_page -%}
+      <a class="nav-next" href="{{ next_page.url | relative_url }}">
+        {{ next_page.title }} →
+      </a>
+    {%- endif -%}
+  </nav>
+
+{%- endif -%}

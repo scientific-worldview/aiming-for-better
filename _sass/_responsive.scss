@@ -1,0 +1,135 @@
+@media screen and (max-width: 600px) {
+
+
+  .cta-button {
+    padding: 20px 8px;
+    font-size: 0.9rem;
+  
+  }
+  .footer-bottom {
+    text-align: center;
+    font-size: 0.9rem;
+    padding-left: 4px;
+    padding-right: 4px;
+    background: rgba(255, 255, 255, 0.9);
+    color: var(--tertiary);
+    border-color: red;
+    border-radius: 2px;
+    margin-left: 12px;
+    margin-right: 12px;
+    width: fit-content;
+    box-shadow: var(--shadow);
+  }
+}
+
+// Mobile styles
+
+@media (max-width: 1024px) {
+
+  
+
+  .nav-links {
+    position: fixed;
+    top: 0;
+    right: -100%;
+    height: 100vh;
+    width: 80%;
+    background: white;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding-top: 5rem;
+    transition: right 0.3s ease;
+    box-shadow: -5px 0 15px rgba(0, 0, 0, 0.1);
+    
+    &.active {
+      right: 0;
+    }
+  }
+  
+ 
+  
+  .content-with-sidebar {
+    grid-template-columns: 1fr;
+    padding: var(--spacing-sm);
+  }
+  
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: -100%;
+    height: 100vh;
+    width: 80%;
+    z-index: 999;
+    transition: left 0.3s ease;
+    border-radius: 0;
+    overflow-y: auto;
+    
+    &.active {
+      left: 0;
+    }
+  }
+  
+  .sidebar-toggle {
+    display: block;
+    position: fixed;
+    top: 100px;
+    left: var(--spacing-sm);
+    background: var(--primary);
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    box-shadow: var(--shadow);
+    cursor: pointer;
+    z-index: 1000;
+    transition: all 0.3s ease;
+    
+    &:hover {
+      transform: scale(1.1);
+    }
+    
+    span {
+      font-size: 1.2rem;
+    }
+  }
+  
+  .content {
+    
+    margin: var(--spacing-sm) 0; 
+    padding: var(--spacing-lg);
+  }
+  
+  .hero {
+    margin: var(--spacing-sm);
+    padding: var(--spacing-xl) var(--spacing-sm);
+  }
+  
+  .section-grid {
+    margin: var(--spacing-sm);
+    grid-template-columns: 1fr;
+  }
+  
+  .page-navigation,
+  .post-navigation {
+    flex-direction: column;
+    gap: var(--spacing-sm);
+    
+    a {
+      text-align: center;
+    }
+  }
+}
+
+
+
+// Large screens
+@media (min-width: 1400px) {
+  .nav-container {
+    padding: var(--spacing-sm) 0;
+  }
+  
+  .content-with-sidebar {
+    grid-template-columns: 300px 1fr;
+  }
+}

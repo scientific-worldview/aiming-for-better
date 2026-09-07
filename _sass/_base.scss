@@ -1,0 +1,450 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;1,700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-padding-top: 112px; /* Adjust this number to the height of your nav bar */
+  scroll-behaviour: smooth; /* Optional: Makes the jump a smooth slide instead of an instant teleport */
+}
+
+body {
+  font-family: var(--font-primary);
+  line-height: var(--line-height-base);
+  color: var(--dark);
+  background: var(--light); // This perfectly handles your base background color fallback
+  
+  // Notice that background-image, size, position, and attachment are gone!
+
+  overflow-x: hidden;
+  
+  &.menu-open,
+  &.sidebar-open {
+    overflow: hidden;
+  }
+}
+
+
+/* --- Visual Controls in Top Nav --- */
+.visual-controls {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-left: auto; /* Pushes it to the right in a flex container */
+
+  .control-btn {
+    background: transparent;
+    border: none;
+    color: var(--dark); /* Adjust to match your top-nav text color */
+    cursor: pointer;
+    padding: 8px;
+    border-radius: 4px;
+    transition: background 0.2s ease, color 0.2s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    &:hover {
+      background: rgba(0, 0, 0, 0.1); /* Subtle hover effect */
+    }
+  }
+
+  /* Hide the shuffle button during normal reading */
+  #btn-shuffle {
+    opacity: 0;
+    pointer-events: none;
+    transform: translateX(10px);
+    transition: all 0.3s ease;
+  }
+}
+
+/* --- The Zen Mode State --- */
+body.zen-mode {
+  
+  /* 1. Fade out the reading content, sidebar, and footer */
+  .main-container, 
+  .sidebar, /* Make sure this matches your sidebar class */
+  footer {
+    opacity: 0 !important;
+    pointer-events: none !important; /* Prevents invisible links from being clicked */
+    transition: opacity 0.5s ease;
+  }
+
+  /* 2. Reveal the Shuffle button in the nav */
+  #btn-shuffle {
+    opacity: 1;
+    pointer-events: auto;
+    transform: translateX(0);
+  }
+
+  /* 3. Give the eye icon an "active" state look */
+  #btn-zen-mode {
+    color: #4CAF50; /* Or whatever your accent color is */
+  }
+}
+
+/* Ensure smooth fade back IN when Zen Mode is disabled */
+.main-container,
+.sidebar,
+footer {
+  transition: opacity 0.5s ease;
+}
+
+
+// Typography
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+  line-height: 1.2;
+  margin-bottom: var(--spacing-sm);
+  
+}
+
+h1 {
+  text-align: center;
+  font-size: 3rem;
+  
+  color: var(--secondary);
+
+  @media (max-width: 768px) {
+    font-size: 2.5rem;
+  }
+
+  @media (max-width: 600px) {
+    font-size: 1.8rem;
+  }
+
+
+}
+
+h2 {
+  text-decoration: underline;
+  color: var(--secondary);
+  font-size: 2rem;
+  margin-bottom: var(--spacing-md);
+  padding-top: var(--spacing-md);
+}
+
+h3 {
+  color: var(--secondary);
+  font-size: 1.5rem;
+  margin-bottom: var(--spacing-sm);
+  padding-top: var(--spacing-sm);
+}
+
+h4 {
+  color: var(--tertiary);
+  font-size: 1.25rem;
+  margin-bottom: var(--spacing-sm);
+  padding-top: var(--spacing-sm);
+  
+}
+
+h6 {
+  color: var(--italic);
+  font-size: 1.0rem;
+  margin-bottom: var(--spacing-sm);
+  padding-top: var(--spacing-sm);
+
+}
+
+strong, i {
+  color: var(--bold);
+  font-weight:750;
+}
+
+u {
+  text-decoration: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: yellow;
+  text-underline-offset: 4px;
+}
+
+em {
+  color: var(--italic);
+  font-weight: 600;
+}
+
+i {
+  color: var(--italic);
+}
+
+em.bore {
+  font-family: var(--font-secondary); 
+  background-color: #cac9bd; 
+  padding: 0 4px;
+  font-style: normal;
+  color: #2b0505; /* Dark text for contrast */
+  letter-spacing: 1px;
+  font-weight: 900;
+  font-size: 1.1rem;
+  
+}
+
+em.cool {
+  font-family: var(--font-primary); 
+  background-color: #0297b9; /* Cool cyan background */
+  padding: 0 4px;
+  font-style: normal;
+  color: #ffffff; /* White text for contrast */
+  font-weight: 700;
+  border-radius: 6px;
+}
+
+em.bullet {
+  background-color: #e9e9dc;
+  color: var(--bold);
+  font-weight: 800;
+  border-bottom: 1px solid yellow;
+  border-radius: 9px;
+}
+
+em.glossary {
+  background-color: black;
+  color: white;
+  font-weight: 900;
+  border-bottom: 3px solid yellow;
+  border-radius: 9px;
+  font-size: 1.4rem;
+  padding-left: 4px;
+  padding-right: 6px;
+  
+}
+
+em.bold {
+  font-family: var(--font-primary); /* Clean, modern sans-serif */
+  background-color: #e9e9dc;
+  color: #ba04f6; 
+  font-style: normal;
+  
+  letter-spacing: 1px;
+  font-weight: 900;
+  border: 1px solid yellow;
+  border-radius: 9px;
+}
+
+/* 1. The Realistic Highlighter */
+em.mark {
+  font-style: normal;
+  font-weight: 800;
+  color: #1a1a1a;
+  /* Creates a slightly skewed background like a real pen stroke */
+  background: linear-gradient(104deg, rgba(255,250,118,1) 0%, rgba(255,236,13,1) 100%);
+  padding: 2px 6px;
+  border-radius: 3px 8px 3px 8px;
+  font-size: 1.1rem;
+}
+
+/* 2. The Subtle Academic */
+em.subtle {
+  font-style: italic;
+  font-weight: 600;
+  color: #ba04f6;
+  background-color: #d6dfe8;
+  padding: 2px 6px;
+  border-left: 4px solid yellow; /* A clean left border instead of a bottom one */
+  border-radius: 0 4px 4px 0;
+}
+
+/* 3. The Hacker/Terminal */
+em.terminal {
+  font-family: 'Courier New', Courier, monospace;
+  font-style: normal;
+  font-weight: bold;
+  color: #00ff00;
+  background-color: #111111;
+  padding: 2px 5px;
+  border: 1px solid #00ff00;
+  border-radius: 3px;
+  
+}
+
+
+/* 5. The Cyberpunk/Neon */
+em.neon {
+  font-style: normal;
+  font-weight: 900;
+  color: #ffffff;
+  background-color: #000000;
+  padding: 0px 6px;
+  border-radius: 4px;
+  /* This creates a glowing text effect */
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #ff00de, 0 0 30px #ff00de;
+  border: 1px solid #ff00de;
+}
+
+/* 6. The Brutalist/Retro */
+em.retro {
+  font-style: normal;
+  font-weight: 900;
+  color: #000000;
+  background-color: #ffaa00;
+  padding: 2px 6px;
+  border: 2px solid #000000;
+  /* A sharp, solid shadow instead of a blurry one */
+  box-shadow: 3px 3px 0px #000000; 
+  text-transform: uppercase;
+  font-size: 1rem;
+  margin-right: 2px;
+}
+
+/* 7. The Danger/Warning Tag */
+em.warn {
+  font-style: italic;
+  font-weight: 800;
+  color: white;
+  background-color: red;
+  padding: 0px 6px;
+  border-radius: 12px; /* Very round pill shape */
+  border: 2px dashed yellow;
+  
+}
+
+
+p {
+  margin-bottom: var(--spacing-sm);
+  color: var(--dark);
+}
+
+p:has(em.mark),
+p:has(em.bold),
+p:has(em.warn) {
+  line-height: 1.7; /* Noticeable breathing room without looking "broken" */
+}
+
+p:has(em.subtle) {
+  line-height: 1.6; /* Noticeable breathing room without looking "broken" */
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  margin: 2rem 0;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15), rgba(0, 0, 0, 0));
+}
+
+a {
+  color: var(--primary);
+  
+  transition: color 0.3s ease;
+  
+  &:hover {
+    color: var(--secondary);
+  }
+}
+
+// Lists
+ul, ol {
+  padding-left: var(--spacing-lg);
+  margin-bottom: var(--spacing-sm);
+  
+  li {
+    margin-bottom: var(--spacing-xs);
+  }
+}
+
+// Images
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+// Code
+code {
+  background: rgba(0, 0, 0, 0.05);
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  font-family: 'Monaco', 'Consolas', monospace;
+  font-size: 0.9em;
+}
+
+pre {
+  background: var(--dark);
+  color: var(--light);
+  padding: var(--spacing-sm);
+  border-radius: 8px;
+  overflow-x: auto;
+  margin-bottom: var(--spacing-sm);
+  
+  code {
+    background: none;
+    padding: 0;
+  }
+}
+
+// Blockquotes
+blockquote {
+  border-left: 4px solid var(--primary);
+  padding-left: var(--spacing-sm);
+  margin: var(--spacing-md) 0;
+  font-style: italic;
+  color: var(--gray);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1em 0;
+  color: rgba(228, 66, 228, 0.8);
+  i {
+    color: rgba(221, 66, 27, 0.8);
+  }
+}
+
+table, th, td {
+  border: 1px solid #ccc;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  
+}
+
+/* =========================================================================
+   HIGHLIGHT TOGGLE OVERRIDES
+   When these classes are added to <html>, they strip the custom styling.
+   ========================================================================= */
+
+// A reusable mixin to completely strip all custom formatting
+@mixin strip-highlight {
+  font-family: inherit !important;
+  background: transparent !important;
+  color: inherit !important;
+  font-style: italic !important; /* Reverts to standard markdown _text_ behaviour */
+  font-weight: inherit !important;
+  padding: 0 !important;
+  border: none !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  text-shadow: none !important;
+  text-transform: none !important;
+  letter-spacing: normal !important;
+}
+
+/* Glossary Definition List Spacing */
+dl dt {
+  margin-top: 1.5em;
+  margin-bottom: 1.2em;
+}
+
+dl dd {
+  margin-bottom: 1.5em; 
+}
+
+html.disable-cool em.cool { @include strip-highlight; }
+html.disable-bullet em.bullet { @include strip-highlight; }
+html.disable-bold em.bold { @include strip-highlight; }
+html.disable-mark em.mark { @include strip-highlight; }
+html.disable-subtle em.subtle { @include strip-highlight; }
+html.disable-terminal em.terminal { @include strip-highlight; }
+html.disable-neon em.neon { @include strip-highlight; }
+html.disable-retro em.retro { @include strip-highlight; }
+html.disable-warn em.warn { @include strip-highlight; }
+
+
+
+

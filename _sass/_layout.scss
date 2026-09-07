@@ -1,0 +1,347 @@
+/* This div creates the full-screen background image */
+.background-image {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  
+}
+
+.main-container {
+  max-width: 1400px;
+  margin: 0 auto;
+  /*min-height: calc(100vh - 80px);*/
+  min-height: fit-content;
+  max-height: fit-content;
+}
+
+.main-container img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.content-with-sidebar {
+  display: grid;
+  grid-template-columns: 280px 1fr;
+  gap: var(--spacing-lg);
+  padding: var(--spacing-lg);
+  width: 100%;
+  box-sizing: border-box;
+
+}
+
+@media (max-width: 1024px) {
+  .content-with-sidebar {
+    grid-template-columns: 1fr; /* Removes the 280px sidebar column on smaller screens */
+  }
+}
+
+.content-no-sidebar {
+ 
+  padding: var(--spacing-lg);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* --- ADD THESE 2 LINES --- */
+  width: 100%;
+  box-sizing: border-box;
+}
+
+
+.content {
+  background: rgba(255, 255, 255, var(--content-bg-alpha, 0.88));
+  border-radius: 20px;
+  padding: var(--spacing-xl);
+  box-shadow: var(--shadow);
+  transition: all 0.3s ease;
+
+  /* --- ADD THESE 3 LINES --- */
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  /* ------------------------- */
+  
+  min-width: 0;
+
+  &:hover {
+    box-shadow: var(--shadow-hover);
+  }
+  
+  &.single-content {
+    margin: var(--spacing-lg);
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.sidebar {
+  background: rgba(255, 255, 255, var(--content-bg-alpha, 0.5));
+  border-radius: 20px;
+  padding: var(--spacing-sm);
+  padding-top: 0;
+  padding-bottom: 0;
+  height: fit-content;
+  position: sticky;
+  top: 0;
+  max-height: 100vh; /* Limit sidebar to viewport height */
+  overflow-y: auto;   /* Enable scrolling when content overflows */
+  /*padding-right: 0.5rem;  Optional: prevents scrollbar from overlapping text */
+  box-shadow: var(--shadow);
+  transition: all 0.3s ease;
+  
+  h3 {
+    color: var(--secondary);
+    /*margin-bottom: var(--spacing-md);*/
+    font-size: 1.3rem;
+    background: var(--gradient);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  h4 {
+    color: var(--secondary);
+    font-size: 1.0rem;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 5px;
+  }
+  
+  a {
+    text-decoration: none;
+    font-size: 0.95rem;
+    background: linear-gradient(135deg, rgba(255, 107, 53, 0.1) 0%, rgba(0, 78, 137, 0.1) 100%);
+    color: darkblue;
+    padding: 0 var(--spacing-sm);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+    display: block;
+    transition: all 0.3s ease;
+    /*border-left: 3px solid;*/
+    
+    &:hover {
+      background: linear-gradient(135deg, rgba(155, 44, 4, 0.329) 0%, rgba(10, 7, 179, 0.459) 100% );
+
+      border-left-color: red;
+      border-left-width: 8px;
+      transform: translate(10px, 0); ;
+    }
+    &.active {
+      font-weight: bold;
+      background: linear-gradient(135deg, rgba(184, 56, 10, 0.253) 0%, rgba(29, 25, 212, 0.356) 100% );
+      
+      border-left-color: var(--primary);
+      border-left-width: 4px;
+      transform: translateX(2px);
+    }
+  }
+}
+
+
+.sidebar-title {
+  font-size: 1.5rem;
+  color: var(--secondary);
+  /*margin-bottom: var(--spacing-xs);*/
+  background: var(--gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.sidebar-group {
+  
+  background: rgba(228, 222, 222, 0.75);
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+  padding: var(--spacing-sm);
+  padding-top: 0;
+  padding-bottom: 0;
+  height: fit-content;
+  
+  box-shadow: var(--shadow);
+  transition: all 0.3s ease;
+}
+
+.sidebar-toggle {
+  display: none;
+}
+
+// Post specific styles
+.post-header {
+  margin-bottom: var(--spacing-xl);
+  padding-bottom: var(--spacing-lg);
+  border-bottom: 2px solid var(--light);
+}
+
+.post-meta {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap; /* <-- ADD THIS LINE */
+  gap: var(--spacing-sm);
+  margin-top: var(--spacing-sm);
+  font-size: 0.9rem;
+  color: var(--gray);
+  
+  time {
+    font-weight: 600;
+  }
+  
+  .author {
+    &::before {
+      content: "•";
+      margin-right: var(--spacing-xs);
+    }
+  }
+}
+
+.tags {
+  display: flex;
+  flex-wrap: wrap; /* <-- ADD THIS LINE */
+  gap: var(--spacing-xs);
+  margin-left: auto;
+  
+  .tag {
+    background: var(--gradient);
+    color: white;
+    padding: 0.2em 0.6em;
+    border-radius: 15px;
+    font-size: 0.8rem;
+    font-weight: 600;
+  }
+}
+
+.post-list {
+  list-style: none;
+  padding: 0;
+  
+  li {
+    margin-bottom: var(--spacing-xs);
+    border-bottom: 1px solid var(--light);
+    padding-bottom: var(--spacing-xs);
+    
+    &:last-child {
+      border-bottom: 2px solid var(--light);
+    }
+    
+    a {
+      color: var(--secondary);
+      font-weight: bold;
+      text-decoration: wavy;
+      
+      &:hover {
+        text-decoration: underline;
+        color: var(--primary);
+      }
+    }
+    
+    .post-title {
+      font-size: 1.5rem;
+      margin-bottom: var(--spacing-xs);
+    }
+    
+    .post-excerpt {
+      color: var(--dark-gray);
+      font-size: 1rem;
+    }
+  }
+}
+
+
+
+/* =========================================================================
+   RESPONSIVE POST CONTENT FIXES
+   Prevents blog posts from breaking the mobile viewport width
+   ========================================================================= */
+
+.post-content {
+  /* 1. Prevent the container itself from exceeding the screen width */
+  max-width: 100%;
+  
+  /* 2. Force incredibly long words or URLs to break onto the next line */
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+
+  font-size: 1.1rem;
+  line-height: 1.7;
+  
+  h2, h3, h4 {
+    margin-top: var(--spacing-xl);
+    margin-bottom: var(--spacing-sm);
+  }
+  
+  p {
+    margin-bottom: var(--spacing-md);
+  }
+
+  /* 3. Ensure images shrink to fit their container */
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block; /* Prevents weird baseline spacing below images */
+  }
+
+  /* 4. Allow code blocks to scroll horizontally instead of stretching the page */
+  pre, code {
+    max-width: 100%;
+    overflow-x: auto;
+  }
+  
+  /* 5. Handle any wide tables that might be in your markdown */
+  table {
+    display: block;
+    max-width: 100%;
+    overflow-x: auto;
+  }
+}
+
+.footer-bottom {
+  text-align: center;
+ 
+  padding-left: 8px;
+  padding-right: 8px;
+  
+  
+
+  background: rgba(255, 255, 255, 0.9);
+
+  color: black;
+ 
+  border-color: red;
+  border-radius: 8px;
+  margin-left: auto;
+  margin-right: auto;
+  width: fit-content;
+  box-shadow: var(--shadow);
+
+}
+
+/* =========================================================================
+   MOBILE GRID FIX
+   Forces the sidebar layout into a single column on tablets and phones
+   ========================================================================= */
+
+@media (max-width: 1024px) {
+  .content-with-sidebar {
+    /* Destroys the 280px ghost column and makes the content full width */
+    grid-template-columns: 1fr !important; 
+    
+    /* Ensures we don't have massive desktop padding squishing the text on mobile */
+    padding: var(--spacing-md) !important; 
+  }
+  
+  /* Ensures the desktop sidebar completely vanishes from the layout engine */
+  .content-with-sidebar .sidebar {
+    display: none !important;
+  }
+}

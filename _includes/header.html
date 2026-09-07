@@ -1,0 +1,111 @@
+<nav class="navbar">
+  <div class="nav-container">
+    <a href="{{ '/' | relative_url }}" class="logo">{{ site.title }}</a>
+    
+    <div class="visual-controls">
+      <button id="btn-shuffle" class="control-btn" aria-label="Shuffle Background" title="Shuffle Background" onclick="window.shuffleBackground()">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <polyline points="16 3 21 3 21 8"></polyline>
+          <line x1="4" y1="20" x2="21" y2="3"></line>
+          <polyline points="21 16 21 21 16 21"></polyline>
+          <line x1="15" y1="15" x2="21" y2="21"></line>
+          <line x1="4" y1="4" x2="9" y2="9"></line>
+        </svg>
+      </button>
+
+      <button id="btn-zen-mode" class="control-btn" aria-label="Toggle Content" title="Hide/Show Content">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
+          <circle cx="12" cy="12" r="3"></circle>
+        </svg>
+      </button>
+    </div>
+    
+    <div class="hamburger" onclick="toggleMobileMenu()">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+    
+    <ul class="nav-links">
+      
+      <li><a href="{{ '/guide/' | relative_url }}" {% if page.url contains '/guide/' %}class="active"{% endif %}>Clear Thinking Guide</a></li>
+      <li><a href="{{ '/case-studies/' | relative_url }}" {% if page.url contains '/case-studies/' %}class="active"{% endif %}>Case Studies</a></li>
+      <li><a href="{{ '/posts/' | relative_url }}" {% if page.url contains '/posts/' or layout == 'post' %}class="active"{% endif %}>Blog Posts</a></li>
+      <li><a href="{{ '/articles/' | relative_url '}}" {% if page.url contains '/articles/' %}class="active"{% endif %}>Site Articles</a></li>
+      <li class="dropdown">
+        <a href="#" class="dropbtn">More &#9662</a> <ul class="dropdown-content">
+          <li><a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Home</a></li>
+          <li><a href="{{ '/mission-statement/' | relative_url }}" {% if page.url == '/mission-statement/' %}class="active"{% endif %}>Mission Statement</a></li>
+          <li><a href="{{ '/vision/' | relative_url }}" {% if page.url == '/vision/' %}class="active"{% endif %}>Vision</a></li>
+          <li><a href="{{ '/settings/' | relative_url }}" {% if page.url == '/settings/' %}class="active"{% endif %}>Settings</a></li>
+          <li><a href="{{ '/artificial-intelligence/' | relative_url }}" {% if page.url == '/artificial-intelligence/' %}class="active"{% endif %}>Artificial Intelligence</a></li>
+          <li><a href="{{ '/glossary/' | relative_url }}" {% if page.url == '/glossary/' %}class="active"{% endif %}>Glossary</a></li>
+          <li><a href="{{ '/contribute/' | relative_url }}" {% if page.url == '/contribute/' %}class="active"{% endif %}>Contribute</a></li>
+          <li><a href="{{ '/licenses/' | relative_url }}" {% if page.url == '/licenses/' %}class="active"{% endif %}>Licences</a></li>
+          <li><a href="{{ '/contact/' | relative_url }}" {% if page.url == '/contact/' %}class="active"{% endif %}>Contact</a></li>
+          <li><a href="{{ '/help/' | relative_url }}" {% if page.url == '/help/' %}class="active"{% endif %}>Help</a></li>
+        </ul>
+      </li>  
+    </ul>
+    
+    <div class="mobile-nav-overlay" id="mobileNavOverlay">
+      <div class="mobile-nav-content">
+        <div class="mobile-nav-tabs">
+          <button class="tab-button active" data-tab-name="main">Main Menu</button>
+          <button class="tab-button" id="sectionTabButton" data-tab-name="section">Thinking Guide</button>
+        </div>
+        
+        <div class="mobile-tab-content">
+          <div class="tab-pane active" id="mainTab">
+            <ul class="mobile-nav-links">
+              <li><a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Home</a></li>
+              <li><a href="#" data-tab-switcher="guide" data-tab-text="Clear Thinking Guide">Thinking Guide</a></li>
+              <li><a href="{{ '/case-studies/' | relative_url }}" {% if page.url contains '/case-studies/' %}class="active"{% endif %}>Case Studies</a></li>
+              <li><a href="#" data-tab-switcher="articles" data-tab-text="Collected Articles">Site Articles</a></li>
+              <li><a href="{{ '/posts/' | relative_url }}" {% if page.url contains '/posts/' or layout == 'post' %}class="active"{% endif %}>Blog Posts</a></li>
+              <li><a href="{{ '/mission-statement/' | relative_url }}" {% if page.url == '/mission-statement/' %}class="active"{% endif %}>Mission Statement</a></li>
+              <li><a href="{{ '/vision/' | relative_url }}" {% if page.url == '/vision/' %}class="active"{% endif %}>Vision</a></li>
+              <li><a href="{{ '/settings/' | relative_url }}" {% if page.url == '/settings/' %}class="active"{% endif %}>Settings</a></li>
+              <li><a href="{{ '/artificial-intelligence/' | relative_url }}" {% if page.url == '/artificial-intelligence/' %}class="active"{% endif %}>Artificial Intelligence</a></li>
+              <li><a href="{{ '/glossary/' | relative_url }}" {% if page.url == '/glossary/' %}class="active"{% endif %}>Glossary</a></li>
+              <li><a href="{{ '/contribute/' | relative_url }}" {% if page.url == '/contribute/' %}class="active"{% endif %}>Contribute</a></li>
+              <li><a href="{{ '/licenses/' | relative_url }}" {% if page.url == '/licenses/' %}class="active"{% endif %}>Licences</a></li>
+              <li><a href="{{ '/contact/' | relative_url }}" {% if page.url == '/contact/' %}class="active"{% endif %}>Contact</a></li>
+              <li><a href="{{ '/help/' | relative_url }}" {% if page.url == '/help/' %}class="active"{% endif %}>Help</a></li>
+            </ul>
+          </div>
+          
+          <div class="tab-pane" id="sectionTab">
+            {% comment %}
+              Define a simple list of the collections we want to generate sidebars for.
+            {% endcomment %}
+            {%- assign collections_with_sidebars = "guide,articles,casestudies" | split: "," -%}
+
+            {%- for section_slug in collections_with_sidebars -%}
+              <div class="section-content-wrapper" data-section-content="{{ section_slug }}" style="display: none;">
+                {%- include mobile-sidebar-content.html section=section_slug -%}
+              </div>
+            {%- endfor -%}
+          </div>
+
+
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const zenButton = document.getElementById('btn-zen-mode');
+    
+    if(zenButton) {
+      zenButton.addEventListener('click', function() {
+        // This toggles the 'zen-mode' class on the body tag
+        document.body.classList.toggle('zen-mode');
+      });
+    }
+  });
+</script>

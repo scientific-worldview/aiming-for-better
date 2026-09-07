@@ -1,0 +1,115 @@
+{% comment %}
+  Definitive Sidebar Logic v6
+  - Guarantees Introduction is always first.
+  - Correctly sorts all other groups by path.
+{% endcomment %}
+
+{%- assign section_name = include.section -%}
+{%- assign collection = site[section_name] -%}
+
+<aside id="sidebar" class="sidebar" data-section="{{ section_name }}" style="{% if page.opq %}--content-bg-alpha: {{ page.opq }};{% endif %}">
+
+  {%- if collection -%}
+    {%- if section_name == "guide" -%}
+      <h3 class="sidebar-title">Clear Thinking Guide</h3>
+
+    {%- elsif section_name == "casestudies" -%}
+      <h3 class="sidebar-title">Case Studies</h3>
+    {%- elsif section_name == "articles" -%}
+      <h3 class="sidebar-title">Collected Articles</h3>
+    {%- else -%}
+      <h3 class="sidebar-title">{{ section_name | replace: '-', ' ' | capitalize }}</h3>
+    {%- endif -%}
+
+    <ul class="sidebar-nav">
+      {% comment %}
+        PART 1: Find and display the Introduction link FIRST.
+      {% endcomment %}
+      {%- assign intro_page = collection | where_exp: "item", "item.category == nil" | first -%}
+      {%- if intro_page -%}
+        <li class="sidebar-group">
+          <h4>Introduction</h4>
+          <ul>
+            <li>
+              <a href="{{ intro_page.url | relative_url }}"
+                 {% if page.url == intro_page.url %}class="active"{% endif %}>
+                {{ intro_page.nav_title | default: intro_page.title }}
+              </a>
+            </li>
+          </ul>
+        </li>
+      {%- endif -%}
+
+      {% comment %}
+        PART 2: Process all OTHER pages with support for nested accordions.
+      {% endcomment %}
+      {%- assign categorized_pages = collection | where_exp: "item", "item.category != nil" | sort: "path" -%}
+      {% comment %} 
+        First, group all categorized pages by their main category.
+      {% endcomment %}  
+      {%- assign grouped_by_main_category = categorized_pages | group_by: "category" -%}
+
+      {%- for group in grouped_by_main_category -%}
+        <li class="sidebar-group">
+          <div class="sidebar-group-header">
+            <button class="sidebar-accordion-toggle" aria-expanded="false">
+              <h4>{{ group.name | replace: '-', ' ' }}</h4>
+              <span class="accordion-icon"></span>
+            </button>
+          </div>
+          <div class="sidebar-group-content" role="region">
+            
+            {% comment %} --- NEW NESTED LOGIC STARTS HERE --- {% endcomment %}
+            {% comment %}
+              Now, group the items within this main category by their sub_category.
+            {% endcomment %}  
+            {%- assign sub_grouped_items = group.items | group_by: "subcategory" -%}
+
+            <ul>
+              {%- for sub_group in sub_grouped_items -%}
+                {% comment %}
+                  If sub_group.name is empty, these pages have NO sub_category.
+                  We just list them directly.
+                {% endcomment %}
+                {%- if sub_group.name == "" or sub_group.name == nil -%}
+                  {%- for item in sub_group.items -%}
+                    <li>
+                      <a href="{{ item.url | relative_url }}" {% if page.url == item.url %}class="active"{% endif %}>
+                        {{ item.nav_title | default: item.title }}
+                      </a>
+                    </li>
+                  {%- endfor -%}
+                {%- else -%}
+                  {% comment %}
+                    This is a nested accordion for a sub-category.
+                    We re-use the same HTML structure.
+                  {% endcomment %}
+                  <li class="sidebar-group is-nested">
+                    <div class="sidebar-group-header">
+                      <button class="sidebar-accordion-toggle" aria-expanded="false">
+                        <h4>{{ sub_group.name }}</h4>
+                        <span class="accordion-icon"></span>
+                      </button>
+                    </div>
+                    <div class="sidebar-group-content" role="region">
+                      <ul>
+                        {%- for item in sub_group.items -%}
+                          <li>
+                            <a href="{{ item.url | relative_url }}" {% if page.url == item.url %}class="active"{% endif %}>
+                              {{ item.nav_title | default: item.title }}
+                            </a>
+                          </li>
+                        {%- endfor -%}
+                      </ul>
+                    </div>
+                  </li>
+                {%- endif -%}
+              {%- endfor -%}
+            </ul>
+          </div>
+        </li>
+      {%- endfor -%}
+
+    </ul>
+  {%- endif -%}
+</aside>

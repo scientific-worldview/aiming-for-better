@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% include head.html %}
+
+  <style>
+    body {
+      background-color: var(--light);
+      
+      {% if page.bg_image %}
+      background-image: url('{{ page.bg_image | relative_url }}');
+      {% endif %}
+      
+      background-size: cover;
+      background-position: 50% 80%;
+      background-attachment: fixed;
+      transition: background-image 0.5s ease-in-out;
+    }
+  </style>
+
+  <script>
+    window.shuffleBackground = function() {
+      const totalImages = 265; 
+      const randomInt = Math.floor(Math.random() * totalImages) + 1;
+      const basePath = '{{ "/assets/images/bg-images/bg-" | relative_url }}';
+      
+      document.body.style.backgroundImage = "url('" + basePath + randomInt + ".webp')";
+    };
+
+    {% unless page.bg_image %}
+    document.addEventListener("DOMContentLoaded", function() {
+      window.shuffleBackground();
+    });
+    {% endunless %}
+  </script>
+</head>
+
+<body data-page-section="{{ page.section }}">
+  {% include header.html %}
+  
+  <main class="main-container">
+    {{ content }}
+  </main>
+  
+  {% include footer.html %}
+  {% include scripts.html %}
+</body>
+</html>

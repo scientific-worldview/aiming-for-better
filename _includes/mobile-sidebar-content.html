@@ -1,0 +1,97 @@
+{% comment %}
+  Definitive Mobile Sidebar Logic
+  - Mirrors the final, working logic from the desktop sidebar.
+  - Guarantees Introduction is always first.
+  - Correctly sorts all other groups by path.
+{% endcomment %}
+
+{%- assign section_name = include.section -%}
+{%- assign collection = site[section_name] -%}
+
+{%- if collection -%}
+  <div class="mobile-sidebar-content" data-section="{{ section_name }}">
+    <h4>{{ section_name | replace: '-', ' ' | capitalize }}</h4>
+    
+    <ul class="mobile-sidebar-nav">
+      
+      {% comment %}
+        PART 1: Find and display the Introduction link FIRST.
+      {% endcomment %}
+      {%- assign intro_page = collection | where_exp: "item", "item.category == nil" | first -%}
+      {%- if intro_page -%}
+        <li class="mobile-sidebar-intro">
+          <a href="{{ intro_page.url | relative_url }}"
+             {% if page.url == intro_page.url %}class="active"{% endif %}>
+            <strong>{{ intro_page.nav_title | default: intro_page.title }}</strong>
+          </a>
+        </li>
+      {%- endif -%}
+
+      {% comment %}
+        PART 2: Process all OTHER pages with support for nested accordions (MOBILE).
+        First for loop, group all categorized pages by their main category.
+      {% endcomment %}
+      {%- assign categorized_pages = collection | where_exp: "item", "item.category != nil" | sort: "path" -%}
+
+      
+      {%- assign grouped_by_main_category = categorized_pages | group_by: "category" -%}
+
+      {%- for group in grouped_by_main_category -%}
+        <li class="mobile-sidebar-group">
+          <div class="mobile-sidebar-group-header">
+            <button class="mobile-accordion-toggle" aria-expanded="false">
+              <h5>{{ group.name | replace: '-', ' ' | capitalize }}</h5>
+              <span class="accordion-icon"></span>
+            </button>
+          </div>
+          <div class="mobile-sidebar-group-content" role="region">
+            {% comment %}
+            Group the items within this main category by their sub_category.
+            {% endcomment %}
+            {%- assign sub_grouped_items = group.items | group_by: "subcategory" -%}
+
+            <ul>
+              {%- for sub_group in sub_grouped_items -%}
+                {%- if sub_group.name == "" or sub_group.name == nil -%}
+                  
+                  {%- for item in sub_group.items -%}
+                    <li>
+                      <a href="{{ item.url | relative_url }}" {% if page.url == item.url %}class="active"{% endif %}>
+                        {{ item.nav_title | default: item.title }}
+                      </a>
+                    </li>
+                  {%- endfor -%}
+                {%- else -%}
+                  {% comment %}
+                  This is a nested accordion for a sub-category.
+                  {% endcomment %}
+                  <li class="mobile-sidebar-group is-nested">
+                    <div class="mobile-sidebar-group-header">
+                      <button class="mobile-accordion-toggle" aria-expanded="false">
+                        <h6>{{ sub_group.name }}</h6> 
+                        <span class="accordion-icon"></span>
+                      </button>
+                    </div>
+                    <div class="mobile-sidebar-group-content" role="region">
+                      <ul>
+                        {%- for item in sub_group.items -%}
+                          <li>
+                            <a href="{{ item.url | relative_url }}" {% if page.url == item.url %}class="active"{% endif %}>
+                              {{ item.nav_title | default: item.title }}
+                            </a>
+                          </li>
+                        {%- endfor -%}
+                      </ul>
+                    </div>
+                  </li>
+                {%- endif -%}
+              {%- endfor -%}
+            </ul>
+          </div>
+        </li>
+      {%- endfor -%}
+    </ul>
+    
+  </div>
+{%- endif -%}
+
