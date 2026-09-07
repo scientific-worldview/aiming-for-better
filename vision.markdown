@@ -31,4 +31,4 @@ For such a _dream_{: .neon} to come true, this future requires a *fundamental sh
 
 By dreaming of such a rational, evidence-based process for thinking to [human behaviour]({{ "/guide/human-history/psychology/" | relative_url }}), we can strip away the comforting illusions of jingoism and archaic traditions. We can dismantle the narratives that divide us into warring tribes and instead build a society grounded in _universal freedom_{: .cool}—freedom for everyone, not just those within a specific in-group.
 
-The _dream_{: .neon} of this site is to help _pioneer_{: .bold} that shift: to encourage a collective awakening where we finally address [the big risks]({{ site.baseurl }}{% post_url 2026-06-03-big-risks %}), challenge the entrenched elites, and _build a sane, rational world_{: .mark}.
+The _dream_{: .neon} of this site is to help _pioneer_{: .bold} that shift: to encourage a collective awakening where we finally address [the big risks]({{ site.baseurl }}{% post_url 2026-09-06-big-risks %}), challenge the entrenched elites, and _build a sane, rational world_{: .mark}.
