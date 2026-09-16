@@ -72,7 +72,7 @@ To understand the [mismatch]({{ "/case-studies/mismatches/" | relative_url }}), 
 
 Understanding our _deep evolutionary story_{: .bold} is not just a fascinating academic exercise; it helps us understanding, navigate (and challenge aspects of?) modern life:
 
-- _The Key to "Mismatches":_{: .bullet} Every modern crisis—from the failures of [The Care System]({{ "/case-studies/society/social-structures/the-care-system/" | relative_url }}) to the exhaustion of [The Attention Economy]({{ "/case-studies/politics/dysfunction/attention/" | relative_url }})—can only be _solved_{: .bold} when viewed against the backdrop of our [Mammalian]({{ "/case-studies/who-we-are/mammalian-care-blueprint/" | relative_url }}) & Primate Foundation. Without this _lens_{: .bold}, *we are just [treating symptoms]({{ "/case-studies/society/normal-living/treating-symptoms/" | relative_url }}).
+- _The Key to "Mismatches":_{: .bullet} Every modern crisis—from the failures of [The Care System]({{ "/case-studies/society/social-structures/the-care-system/" | relative_url }}) to the exhaustion of [The Attention Economy]({{ "/case-studies/politics/dysfunction/attention/" | relative_url }})—can only be _solved_{: .bold} when viewed against the backdrop of our [Mammalian]({{ "/case-studies/who-we-are/mammalian-care-blueprint/" | relative_url }}) & Primate Foundation. Without this _lens_{: .bold}, we are just [treating symptoms]({{ "/case-studies/society/normal-living/treating-symptoms/" | relative_url }}).
 
 - _Empowering Self-Understanding:_{: .bullet} Recognizing the _evolutionary origins_{: .bold} of your own fears, drives, and social anxieties replaces self-judgment with informed [empathy]({{ "/glossary/" | relative_url }}#empathy). You aren't "broken"; *you are just misaligned*.
 

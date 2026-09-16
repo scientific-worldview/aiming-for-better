@@ -80,7 +80,7 @@ Modern legal systems still carry these imprints. Even today:
 - [Minorities]({{ "/case-studies/us-vs-them/majorities-vs-minorities/" | relative_url }}) are disproportionately imprisoned  
 - [Poverty]({{ "/glossary/" | relative_url }}#poverty) is criminalised  
 - Victimless “crimes” are still *punished more* than **white-collar** ones  
-- *State [power]({{ "/case-studies/politics/governance/power/" | relative_url }}) often overrides **restorative solutions**
+- State [power]({{ "/case-studies/politics/governance/power/" | relative_url }}) often overrides **restorative solutions**
 
 ---
 

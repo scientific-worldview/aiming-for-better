@@ -10,7 +10,7 @@ permalink: "/guide/human-history/play-and-sexuality/"
 
 ### Overview
 
-[Play and sexuality]({{ "/glossary/" | relative_url }}#play-and-sexuality) are two of the most deeply rooted aspects of [human nature]({{ "/glossary/" | relative_url }}#human-nature). Both are linked not just to reproduction or childhood—but to _connection, expression, creativity, and [wellbeing]({{ "/glossary/" | relative_url }}#wellbeing).
+[Play and sexuality]({{ "/glossary/" | relative_url }}#play-and-sexuality) are two of the most deeply rooted aspects of [human nature]({{ "/glossary/" | relative_url }}#human-nature). Both are linked not just to reproduction or childhood—but to connection, expression, creativity, and [wellbeing]({{ "/glossary/" | relative_url }}#wellbeing).
 
 Yet across much of the modern world, these domains are heavily _controlled_{: .warn}, _moralised_{: .warn}, or *dismissed*. [Sex]({{ "/glossary/" | relative_url }}#sexuality) is often seen as [taboo]({{ "/glossary/" | relative_url }}#taboo) or commodified. Play is treated as "childish" or "unproductive".
 
@@ -28,7 +28,7 @@ In our _evolutionary past_{: .bold}, sexuality and play were not marginal aspect
 
 - _Play_{: .bullet} was _crucial_{: .bold} in childhood *and* adulthood—for learning, socialising, and creativity  
 - _Sexual Expression_{: .bullet} was *diverse*, not always reproductive, and _not_{: .warn} rigidly policed  
-- Pleasure, laughter, flirtation, and [intimacy]({{ "/glossary/" | relative_url }}#co-regulation) _reinforced trust within [groups]({{ "/case-studies/society/social-structures/the-clan/" | relative_url }})  
+- Pleasure, laughter, flirtation, and [intimacy]({{ "/glossary/" | relative_url }}#co-regulation) reinforced trust within [groups]({{ "/case-studies/society/social-structures/the-clan/" | relative_url }})  
 - Physical touch, grooming, and affection had _biological and emotional benefits_{: .bold}
 
 Sex and play were not *"trivial distractions"* from [survival]({{ "/glossary/" | relative_url }}#survival)—they were _part of survival_{: .bold}, through their role in [mental health]({{ "/case-studies/health/mental-health/" | relative_url }}), **alliance formation**, and **social learning**.
@@ -88,7 +88,7 @@ Science supports what [evolution]({{ "/guide/human-history/evolution/" | relativ
 - Adults who engage in leisure and play show _higher happiness_{: .bold} and _lower stress_{: .bold}  
 - _Sexual Expression_{: .bullet} is correlated with relationship quality, health, and mood  
 - _Shame-based Sexual Education_{: .bullet} *increases risk*, while open, inclusive [education]({{ "/case-studies/society/social-structures/education/" | relative_url }}) improves outcomes  
-- _Repressing or Moralising Desire_{: .bullet} leads to *distress, confusion, and [secrecy]({{ "/glossary/" | relative_url }}#secrecy)—_not_{: .warn} virtue
+- _Repressing or Moralising Desire_{: .bullet} leads to distress, confusion, and [secrecy]({{ "/glossary/" | relative_url }}#secrecy)—_not_{: .warn} virtue
 
 Even in workplaces and schools, introducing humour, flexibility, and playful thinking leads to _better learning and innovation_{: .bold}.
 

@@ -39,7 +39,7 @@ We have built a modern world for "efficient" adults that is toxic to "mammalian"
 
 #### The Stated Need:
 
-- _Recognize the Non-Negotiables:_{: .bullet} Treat love and play as _biological requirements_{: .bold}, not [parenting]({{ "/glossary/" | relative_url }}#intensive-parenting) styles"*.
+- _Recognize the Non-Negotiables:_{: .bullet} Treat love and play as _biological requirements_{: .bold}, not [parenting]({{ "/glossary/" | relative_url }}#intensive-parenting) styles".
 
 - _Audit the Modern Environment:_{: .bullet} _Identify_{: .mark} where "convenience" for adults creates "mismatch" for children.
 
@@ -67,7 +67,7 @@ The role of love, attachment, and play is [highly testable]({{ "/guide/first-pri
 
 - _The "Still Face" Experiment:_{: .bullet} Proving how quickly an infant’s physiology dysregulates when social mirroring is removed.
 
-- _Ethology of Play:_{: .bullet} Studying [play [deprivation]({{ "/glossary/" | relative_url }}#deprivation)] in rats and primates, which consistently results in adults who *cannot navigate* social [hierarchies]({{ "/glossary/" | relative_url }}#hierarchies) or control aggression.
+- _Ethology of Play:_{: .bullet} Studying play [deprivation]({{ "/glossary/" | relative_url }}#deprivation) in rats and primates, which consistently results in adults who *cannot navigate* social [hierarchies]({{ "/glossary/" | relative_url }}#hierarchies) or control aggression.
 
 - _Epigenetics:_{: .bullet} Observing how "licking and grooming" in rats (high-care) actually flips switches in the DNA to create calmer, more resilient offspring.
 
@@ -131,4 +131,4 @@ The "Mummy I'm a Mammal" realisation is a call for a Biological New Deal. If we 
 
 - _The Play Revolution:_{: .bullet} Treat "Recess" and "Free Range Childhood" as a _public health priority_{: .mark}, as vital as clean water.
 
-- _Redirect Resources:_{: .bullet} Lack of love and play can breed damaged adults, a percentage of which will sadly and inevitably end up involved in the [punishment industry]({{ "/case-studies/locked-in/crime-control/" | relative_url }}) (Approx one-third of the prison population grew up in [the care system]({{ "/case-studies/society/social-structures/the-care-system/" | relative_url }}) and it is arguable many others grew up unloved in isolated families). So why not tackle the _root cause_{: .bold}? Instead of endless prison expansion due to repeated [short term](the-least-bad-system/" | relative_url }}#the-rational-voter-mismatch) "tough on crime" cycles, why not *save a huge amount of money* in the **long term** by _ensuring every child gets love and play_{: .mark}?
+- _Redirect Resources:_{: .bullet} Lack of love and play can breed damaged adults, a percentage of which will sadly and inevitably end up involved in the [punishment industry]({{ "/case-studies/locked-in/crime-control/" | relative_url }}) (Approx one-third of the prison population grew up in [the care system]({{ "/case-studies/society/social-structures/the-care-system/" | relative_url }}) and it is arguable many others grew up unloved in isolated families). So why not tackle the _root cause_{: .bold}? Instead of endless prison expansion due to repeated [short term]({{/case-studies/politics/democracy/the-least-bad-system/" | relative_url }}#the-rational-voter-mismatch) "tough on crime" cycles, why not *save a huge amount of money* in the **long term** by _ensuring every child gets love and play_{: .mark}?

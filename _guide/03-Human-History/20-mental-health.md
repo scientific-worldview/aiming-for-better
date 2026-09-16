@@ -27,11 +27,11 @@ Mental [disorders]({{ "/glossary/" | relative_url }}#disorder) are not new — b
 We evolved:
 
 - In **tight-knit bands**, _not_{: .warn} *isolated* [nuclear families]({{ "/case-studies/society/normal-living/family/" | relative_url }}) or [urban anonymity]({{ "/glossary/" | relative_url }}#urbanisation) 
-- With **purpose in [survival]({{ "/glossary/" | relative_url }}#survival), not _bureaucratic busywork_{: .bold} or *consumer anxiety* 
+- With **purpose** in [survival]({{ "/glossary/" | relative_url }}#survival), not _bureaucratic busywork_{: .bold} or *consumer anxiety* 
 - With **physical activity**, not _sedentary routines_{: .bold}  
-- For [co-regulation]({{ "/glossary/" | relative_url }}#co-regulation) and shared emotions**, not *endless self-monitoring* and _atomised existence_{: .bold}
+- For [co-regulation]({{ "/glossary/" | relative_url }}#co-regulation) and **shared emotions**, not *endless self-monitoring* and _atomised existence_{: .bold}
 
-Many modern _“mental illnesses”_{: .bold} are [natural]({{ "/glossary/" | relative_url }}#natural) responses to an unnatural environment_{: .mark}.
+Many modern _“mental illnesses”_{: .bold} are [natural]({{ "/glossary/" | relative_url }}#natural) _responses to an unnatural environment_{: .mark}.
 
 > The problem, then, is *not only in the individual*, but in the **world we’ve built**.
 

@@ -13,7 +13,7 @@ tags: [Evidence, Correlation, Statistics, Authority, Evolution, Fear, Manipulati
 
 **Misuse of** [Correlation and Causation]({{ "/glossary/" | relative_url }}#correlation) – Presenting a correlation between two variables as if one directly causes the other.
 
-- *Example:** *Claiming that increased ice cream sales cause higher drowning rates, when both are actually influenced by hot weather.*
+- _Example:_{: .bullet} *Claiming that increased ice cream sales cause higher drowning rates, when both are actually influenced by hot weather.*
 
 **Anecdotal Evidence Over Data** – Relying on personal stories or isolated cases rather than large-scale, peer-reviewed studies.
 
@@ -63,7 +63,7 @@ tags: [Evidence, Correlation, Statistics, Authority, Evolution, Fear, Manipulati
 
 - _Example:_{: .bullet} *“This chemical is found in rat poison!” without explaining that dosage and context matter.*
 
-**Misuse of [Statistics]({{ "/glossary/" | relative_url }}#statistics) – Using misleading graphs, small sample sizes, or selective statistics to create a false impression.
+**Misuse of** [Statistics]({{ "/glossary/" | relative_url }}#statistics) – Using misleading graphs, small sample sizes, or selective statistics to create a false impression.
 
 - _Example:_{: .bullet} *Presenting a percentage increase (e.g., “100% increase in cases!”) without showing the absolute numbers (e.g., from 1 to 2 cases).*
 

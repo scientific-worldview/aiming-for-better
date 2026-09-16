@@ -90,7 +90,7 @@ Today’s fear isn’t spread with torches—it’s _spread with code_{: .termin
 
 - _Brexit Messaging (2016)_{: .bullet}:
   
-  Emotional appeals and false [statistics]({{ "/glossary/" | relative_url }}#statistics) played on fears of foreign invasion and economic ruin—*overriding complex truths with easy [slogans]({{ "/glossary/" | relative_url }}#slogans).
+  Emotional appeals and false [statistics]({{ "/glossary/" | relative_url }}#statistics) played on fears of foreign invasion and economic ruin—*overriding complex truths* with easy [slogans]({{ "/glossary/" | relative_url }}#slogans).
 
 - _COVID-19 Management_{: .bullet}:
 

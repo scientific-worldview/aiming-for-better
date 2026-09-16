@@ -10,7 +10,7 @@ permalink: "/guide/human-history/work-and-productivity/"
 
 ### Overview
 
-For most of [human history]({{ "/guide/human-history/" | relative_url }}), _work was life_{: .bold}. In small, cooperative bands of hunter-gatherers, activities like foraging, crafting tools, caring for children, or building shelter were [natural]({{ "/glossary/" | relative_url }}#natural) extensions of living*. These tasks were:
+For most of [human history]({{ "/guide/human-history/" | relative_url }}), _work was life_{: .bold}. In small, cooperative bands of hunter-gatherers, activities like foraging, crafting tools, caring for children, or building shelter were [natural]({{ "/glossary/" | relative_url }}#natural) *extensions of living*. These tasks were:
 
 - _Varied_{: .bullet} and responsive to real-time needs  
 - _Collaborative_{: .bullet}, not competitive  
@@ -44,7 +44,7 @@ And eventually, with the rise of industrialism:
 
 This new mode of productivity was not designed around _human needs_{: .bold}—it was built to _serve systems_{: .bold}: agriculture, markets, empires, industries.
 
-> What had once been an adaptive, cooperative effort became a [regulated]({{ "/glossary/" | relative_url }}#regulation) obligation*—and later, **an identity**.
+> What had once been an adaptive, cooperative effort became a [regulated]({{ "/glossary/" | relative_url }}#regulation) *obligation*—and later, **an identity**.
 
 ---
 
@@ -91,7 +91,7 @@ From a [scientific worldview]({{ "/glossary/" | relative_url }}#scientific-world
 - What kinds of work are *compatible with [evolved]({{ "/guide/human-history/evolution/" | relative_url }}) human needs* for movement, purpose, social connection, and rest?  
 - Which tasks are *truly necessary*—and which are artefacts of outdated systems?  
 - Is the structure of modern work [tested]({{ "/guide/first-principles/testability/" | relative_url }}), or simply inherited?  
-- Why do we [pathologise]({{ "/glossary/" | relative_url }}#pathologize) disengagement* from meaningless jobs, rather than questioning the jobs themselves?
+- Why do we [pathologise]({{ "/glossary/" | relative_url }}#pathologize) *disengagement* from meaningless jobs, rather than questioning the jobs themselves?
 
 Humans evolved to *contribute meaningfully*, not mechanically. Our capacities for innovation, [empathy]({{ "/glossary/" | relative_url }}#empathy), [cooperation]({{ "/glossary/" | relative_url }}#cooperation), and play are not best expressed through 8-hour shifts in artificial environments.
 
@@ -109,7 +109,7 @@ To move forward, we don’t need to return to primitive living. We need to use t
 
 _The future of work should be tested—not inherited._{: .subtle}
 
-By [thinking critically]({{ "/guide/thinking-for-yourself/" | relative_url }}), we can choose to build systems that fit humans, rather than _forcing humans to fit systems_{: .bold}. It’s not laziness to resist burnout—*it’s [biology]({{ "/glossary/" | relative_url }}#biology)*. And it’s not nostalgia to want [meaning]({{ "/glossary/" | relative_url }}#meaning) in your labour—*it’s [rational]({{ "/glossary/" | relative_url }}#rational).
+By [thinking critically]({{ "/guide/thinking-for-yourself/" | relative_url }}), we can choose to build systems that fit humans, rather than _forcing humans to fit systems_{: .bold}. It’s not laziness to resist burnout—it’s [biology]({{ "/glossary/" | relative_url }}#biology). And it’s not nostalgia to want [meaning]({{ "/glossary/" | relative_url }}#meaning) in your labour—it’s [rational]({{ "/glossary/" | relative_url }}#rational).
 
 If our current model of work produces disengagement, stress, and [inequality]({{ "/glossary/" | relative_url }}#inequality), the scientific response is not to medicate the worker, but to _rethink the system_{: .bold}.
 

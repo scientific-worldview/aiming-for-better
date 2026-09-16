@@ -42,7 +42,7 @@ _Almost never are they told that disbelief is an option._{: .subtle}
 
 History [education]({{ "/case-studies/society/social-structures/education/" | relative_url }}) often reflects nationalist or [ideological]({{ "/glossary/" | relative_url }}#ideology) [bias]({{ "/guide/thinking-for-yourself/cognitive-biases/" | relative_url }}).
 
-- _UK_{: .bullet}: The British Empire may be described as a [civilising mission], *omitting* its _violence_{: .warn} and [exploitation]({{ "/glossary/" | relative_url }}#exploitation).
+- _UK_{: .bullet}: The British Empire may be described as a [civilising mission]({{ "/case-studies/pseudoscience/colonial-administrations/" | relative_url }}), *omitting* its _violence_{: .warn} and [exploitation]({{ "/glossary/" | relative_url }}#exploitation).
 - _US_{: .bullet}: The _genocide_{: .warn} of indigenous peoples and the legacy of [slavery]({{ "/glossary/" | relative_url }}#slavery) are often sanitised.
 
 Even the scientific canon has been distorted:

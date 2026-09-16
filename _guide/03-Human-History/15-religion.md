@@ -129,7 +129,7 @@ Religious [narratives]({{ "/case-studies/narratives/" | relative_url }}) often d
 
 Today, many societies are becoming less religious. But the _human needs_{: .bold} once filled by religion—*moral guidance, shared rituals, identity, and awe*—**still remain**.
 
-A _scientific worldviewg_{: .bold} doesn’t seek to erase these needs. It aims to _meet them more honestly_{: .mark}:
+A _scientific worldview_{: .bold} doesn’t seek to erase these needs. It aims to _meet them more honestly_{: .mark}:
 
 - Ethics grounded in [wellbeing]({{ "/glossary/" | relative_url }}#wellbeing) and [harm reduction]({{ "/glossary/" | relative_url }}#harm-reduction).
 - Community built on **shared values**, not shared _delusions_{: .warn}.

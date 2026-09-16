@@ -54,7 +54,9 @@ Today, this [evolutionary mismatch]({{ "/case-studies/mismatches/" | relative_ur
 
 - **The Educational System** frequently rewards _rote_{: .warn} memorization of the "correct" answers rather than the critical process of questioning them.
 
-In the modern world, outsourcing your thinking to [the herd]({{ "/glossary/" | relative_url }}#the-herd) is easy, comforting, and constantly rewarded. [Intellectual humility]({{ "/guide/thinking-for-yourself/intellectual-humility/" | relative_url }}) requires overriding your own biology.{: .subtle}
+In the modern world, outsourcing your thinking to [the herd]({{ "/glossary/" | relative_url }}#the-herd) is easy, comforting, and constantly rewarded.
+
+_Intellectual humility requires overriding your own biology._{: .subtle}
 
 ---
 
@@ -82,7 +84,7 @@ How do we build this habit?
 
 #### Seek Disconfirmation
 
-Instead of asking, "How can I prove I am right?", train yourself to ask, "What evidence would it take to prove I am wrong?" If the answer is "nothing," you are dealing with [religious]({{ "/glossary/" | relative_url }}#religion) or secular _faith_{: .warn}, not [rational]({{ "/glossary/" | relative_url }}#rational) thought_{: .bold}.
+Instead of asking, "How can I prove I am right?", train yourself to ask, "What evidence would it take to prove I am wrong?" If the answer is "nothing," you are dealing with [religious]({{ "/glossary/" | relative_url }}#religion) or secular _faith_{: .warn}, not [rational]({{ "/glossary/" | relative_url }}#rational) thought.
 
 #### Embrace Nuance and Probability
 
@@ -100,4 +102,4 @@ We evolved to be certain, to be tribal, and to be safe. But we also evolved with
 
 Certainty builds static, fragile institutions that eventually collapse under the weight of reality. Intellectual humility builds [science]({{ "/guide/first-principles/testability/" | relative_url }}), progress, and genuine [human flourishing]({{ "/glossary/" | relative_url }}#human-flourishing).
 
-To be truly rational is to remain a permanent student of reality.{: .subtle}
+_To be truly rational is to remain a permanent student of reality._{: .subtle}

@@ -16,7 +16,7 @@ This was our [natural]({{ "/glossary/" | relative_url }}#natural) state.
 
 ![Transition]({{ "/assets/images/guide/human-history/transition.webp" | | relative_url }})
 
-Then, in what amounts to a blink in [evolutionary]({{ "/guide/human-history/" | relative_url }}) time—roughly **10,000 years ago** (*agriculture*) and **5000 years ago** (*civilaisations*) — [everything changed]({{ "/glossary/" | relative_url }}#agricultural-transition).
+Then, in what amounts to a blink in [evolutionary]({{ "/guide/human-history/" | relative_url }}) time—roughly **10,000 years ago** (*agriculture*) and **5000 years ago** (*civilisations*) — [everything changed]({{ "/glossary/" | relative_url }}#agricultural-transition).
 
 ---
 
@@ -26,7 +26,7 @@ With the rise of agriculture came a radical transformation of human life:
 
 - *Permanent* settlements  
 - Food **surpluses** and population booms  
-- Social [hierarchies]({{ "/glossary/" | relative_url }}#hierarchies) and [power]({{ "/case-studies/politics/governance/power/" | relative_url }}) structures**  
+- Social [hierarchies]({{ "/glossary/" | relative_url }}#hierarchies) and [power]({{ "/case-studies/politics/governance/power/" | relative_url }}) structures
 - *Specialised roles* and rigid **gender divisions**
 - **Accumulated wealth** and **property ownership**  
 

@@ -10,7 +10,7 @@ tags: [Narratives, Evidence, Religion, Survival, Worldview, Meaning, Natural, Ra
 
 ### Introduction
 
-What is the most fundamental conflic in the modern world? It is not Left vs. Right, [religion]({{ "/glossary/" | relative_url }}#religion) vs. atheism, or one nation against another. These are merely [symptoms]({{ "/case-studies/society/normal-living/treating-symptoms/" | relative_url }}). The real battle is happening inside our own heads. It is a clash between _two profoundly different_{: .mark} _operating systems_{: .terminal} _for the human mind_{: .mark}.
+What is the most fundamental conflict in the modern world? It is not Left vs. Right, [religion]({{ "/glossary/" | relative_url }}#religion) vs. atheism, or one nation against another. These are merely [symptoms]({{ "/case-studies/society/normal-living/treating-symptoms/" | relative_url }}). The real battle is happening inside our own heads. It is a clash between _two profoundly different_{: .mark} _operating systems_{: .terminal} _for the human mind_{: .mark}.
 
 Understanding this conflict is *the key* to [thinking clearly]({{ "/guide/" | relative_url }}).
 

@@ -18,7 +18,7 @@ The [mass media]({{ "/glossary/" | relative_url }}#mass-media) presents itself a
 
 ### Evolutionary Brains in a Modern World
 
-Human [brains]({{ "/case-studies/who-we-are/brain/" | relative_url }}) [evolved]({{ "/guide/human-history/evolution/" | relative_url }}) in *small, cooperative [groups]({{ "/case-studies/society/social-structures/the-clan/" | relative_url }}) where information was *direct, local, relevant and often verifiable*. Trust was built through *face-to-face interactions*. Stories were preserved via collective memory, not **mass distribution**.
+Human [brains]({{ "/case-studies/who-we-are/brain/" | relative_url }}) [evolved]({{ "/guide/human-history/evolution/" | relative_url }}) in *small, cooperative* [groups]({{ "/case-studies/society/social-structures/the-clan/" | relative_url }}) where information was *direct, local, relevant and often verifiable*. Trust was built through *face-to-face interactions*. Stories were preserved via collective memory, not **mass distribution**.
 
 But in today’s world, we’re bombarded with _industrial-scale messaging_{: .bold}—abstract, global, and often untestable. Yes, we get facts about what's happening in the world, mostly reliable. But along the way, the brain’s _evolved instincts_{: .bold} for trust, danger, group loyalty, and storytelling are now [exploited]({{ "/glossary/" | relative_url }}#exploitation) by [powerful narratives]({{ "/case-studies/narratives/" | relative_url }}) we cannot verify firsthand. Wired for ancestral conditions, our brains struggle to discern *what's true*, *who to trust*, and *what matters*.
 
@@ -40,7 +40,7 @@ With the [Transition]({{ "/guide/human-history/agricultural-transition/" | relat
 - Borders, flags, and money became [sacred symbols]({{ "/glossary/" | relative_url }}#sacred).
 - [Religion]({{ "/glossary/" | relative_url }}#religion) and ritual held empires together.
 
-[Mass media]({{ "/case-studies/locked-in/mass-media/" | relative_url }}) simply inherited this legacy: *constructing [consensus]({{ "/glossary/" | relative_url }}#consensus) to stabilise systems*. What people now call “truth” is often just _widely accepted narrative_{: .bold}.
+[Mass media]({{ "/case-studies/locked-in/mass-media/" | relative_url }}) simply inherited this legacy: *constructing* [consensus]({{ "/glossary/" | relative_url }}#consensus) *to stabilise systems*. What people now call “truth” is often just _widely accepted narrative_{: .bold}.
 
 But mass consensus ≠ [objective]({{ "/guide/first-principles/intersubjective/" | relative_url }}) reality.
 
@@ -58,7 +58,7 @@ These are not grounded in nature. They are _manufactured_{: .warn} through repet
 
 ![Propaganda]({{ "/assets/images/guide/human-history/propaganda.webp" | | relative_url }})
 
-What is **"[normal]({{ "/guide/human-history/natural-vs-normal/" | relative_url }})"** is often just what has been _successfully normalised_{: .bold}.
+What is "[normal]({{ "/guide/human-history/natural-vs-normal/" | relative_url }})" is often just what has been _successfully normalised_{: .bold}.
 
 This matters because humans are _highly conformist_{: .bold}. Once something appears widespread, we’re *likely to adopt it*—even if it’s _harmful_{: .warn} or _false_{: .warn}.
 

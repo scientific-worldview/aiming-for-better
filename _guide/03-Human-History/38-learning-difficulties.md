@@ -89,7 +89,7 @@ A diagnosis can provide:
 - _Relief_{: .bullet}: It explains why a child struggles.
 - _Support_{: .bullet}: It may unlock *access to help*.
 - _Recognition_{: .bullet}: It *validates* that a child isn’t lazy or unintelligent.
-- _Customers_{: .bullet}: It provides *salary and [status]({{ "/case-studies/society/sociology/status/" | relative_url }}) to the ever-expanding [therapy industry]({{ "/guide/human-history/therapy-culture/" | relative_url }}).
+- _Customers_{: .bullet}: It provides *salary* and [status]({{ "/case-studies/society/sociology/status/" | relative_url }}) to the ever-expanding [therapy industry]({{ "/guide/human-history/therapy-culture/" | relative_url }}).
 
 But labels also come with costs:
 

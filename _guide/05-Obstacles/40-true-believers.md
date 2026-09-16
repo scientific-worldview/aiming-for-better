@@ -97,7 +97,7 @@ When their work *is* science, that’s great, and long may it continue. But too 
 
 ### The Two Cultures Problem
 
-C. P. Snow described the divide between the sciences and the humanities as [[The Two Cultures]({{ "/articles/science/two-cultures/" | relative_url }})].
+C. P. Snow described the divide between the sciences and the humanities as [The Two Cultures]({{ "/articles/science/two-cultures/" | relative_url }}).
 
 While bridging that divide is valuable, a recurring problem arises when certain areas of the humanities *adopt the tone and [authority]({{ "/glossary/" | relative_url }}#authority) of science without its methods*. The result is an overconfident, jargon-laden belief system, immune to falsification, presented as if it were empirical fact.
 

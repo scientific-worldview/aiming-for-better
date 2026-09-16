@@ -27,9 +27,9 @@ For the _vast majority of human history_{: .bold}, our ancestors lived in *small
 Features of ancestral family life included:
 
 - _Shared childcare_{: .bullet} among extended kin and trusted non-relatives  
-- _Flexible pair bonds_{: .bullet}, not _lifelong [monogamy]({{ "/glossary/" | relative_url }}#monogamy) as a fixed _ideal_{: .neon}  
+- _Flexible pair bonds_{: .bullet}, not lifelong [monogamy]({{ "/glossary/" | relative_url }}#monogamy) as a *fixed ideal* 
 - _Group living_{: .bullet}, with *blurred lines* between family, community, and tribe  
-- _Social learning_{: .bullet} through observation of _multiple [role models]({{ "/glossary/" | relative_url }}#role-models)  
+- _Social learning_{: .bullet} through observation of multiple [role models]({{ "/glossary/" | relative_url }}#role-models)  
 
 This broader, _distributed approach to rearing and support_{: .mark} was _more resilient_{: .bold}, more _adaptive to change_{: .bold}, and **better aligned** with *human emotional and cognitive development*.
 
@@ -48,7 +48,7 @@ _From an [evolutionary]({{ "/guide/human-history/" | relative_url }}) perspectiv
 
 Over time, this evolved into _the modern nuclear family_{: .bold}: *isolated, self-contained, economically independent*.
 
-This shift was _not_{: .warn} based on _psychological research_{: .bold} or _developmental science_{: .bold}—it was shaped by *economic pressures*, [religious]({{ "/glossary/" | relative_url }}#religion) institutions*, and [legal systems]({{ "/case-studies/law/theory/" | relative_url }}). The structure became **"normal"** not because it was [tested]({{ "/guide/first-principles/testability/" | relative_url }}), but because it was *convenient for new forms of governance, taxation, and control*.
+This shift was _not_{: .warn} based on _psychological research_{: .bold} or _developmental science_{: .bold}—it was shaped by *economic pressures*, [religious]({{ "/glossary/" | relative_url }}#religion) institutions, and [legal systems]({{ "/case-studies/law/theory/" | relative_url }}). The structure became **"normal"** not because it was [tested]({{ "/guide/first-principles/testability/" | relative_url }}), but because it was *convenient* for new forms of governance, taxation, and **control**.
 
 _The family became a unit of labour, reproduction, and [obedience]({{ "/glossary/" | relative_url }}#obedience)—not necessarily [wellbeing]({{ "/glossary/" | relative_url }}#wellbeing)._{: .subtle}
 
@@ -121,7 +121,7 @@ If family is meant to _support wellbeing_{: .bold}, its structure should be [tes
 
 ### Looking Ahead: Redesigning Kinship
 
-We now have _tools_{: .bold} that *previous societies didn’t*: _evidence, psychology, neuroscience, [sociology]({{ "/case-studies/society/sociology/" | relative_url }}). We can:
+We now have _tools_{: .bold} that *previous societies didn’t*: evidence, psychology, neuroscience, [sociology]({{ "/case-studies/society/sociology/" | relative_url }}). We can:
 
 - _Analyse Outcomes_{: .bullet} across *different cultures* and family models  
 - _Understand_{: .bullet} how *social bonds* affect *long-term wellbeing* 

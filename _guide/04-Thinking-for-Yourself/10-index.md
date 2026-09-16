@@ -14,7 +14,7 @@ _Critical Thinking_{: .bold} is more than just spotting flaws in other people’
 
 ![Critical-Thinking]({{ "/assets/images/guide/thinking/thinking.webp" | | relative_url }})
 
-In this section, we’ll explore what it really means to _“think for yourself”_{: .bold} within the framework of a scientific and evidence-based [pp4]({{ "/glossary/" | relative_url }}#scientific-worldview). This doesn’t mean rejecting expert opinion or established knowledge — it means approaching them with _healthy curiosity_{: .bold}, asking the right questions, and _checking whether claims hold up under scrutiny_{: .mark}.
+In this section, we’ll explore what it really means to _“think for yourself”_{: .bold} within the framework of a scientific and evidence-based [scientific worldview]({{ "/glossary/" | relative_url }}#scientific-worldview). This doesn’t mean rejecting expert opinion or established knowledge — it means approaching them with _healthy curiosity_{: .bold}, asking the right questions, and _checking whether claims hold up under scrutiny_{: .mark}.
 
 ---
 

@@ -36,7 +36,7 @@ Why? Because our [brains]({{ "/case-studies/who-we-are/brain/" | relative_url }}
 
 - _Extreme Poverty Has Plummeted_{: .bullet}  
   
-  In 1800, 85% of humans lived in _extreme [poverty]({{ "/glossary/" | relative_url }}#poverty). Now? Fewer than 10%. Market access, global trade, and infrastructure—not miracles—lifted billions out of misery.
+  In 1800, 85% of humans lived in extreme [poverty]({{ "/glossary/" | relative_url }}#poverty). Now? Fewer than 10%. Market access, global trade, and infrastructure—not miracles—lifted billions out of misery.
 
 - _Child Mortality Has Fallen Off a Cliff_{: .bullet}  
   

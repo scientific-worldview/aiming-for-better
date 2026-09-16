@@ -56,7 +56,7 @@ To be credible, psychological theories should be:
 Much of what we now call "[normal]({{ "/guide/human-history/natural-vs-normal/" | relative_url }})" behaviour or [mental health]({{ "/case-studies/health/mental-health/" | relative_url }}) is shaped by the [Agricultural Transition]({{ "/guide/human-history/agricultural-transition/" | relative_url }})—the shift from [natural]({{ "/glossary/" | relative_url }}#natural) forager lifestyles to post-agricultural, hierarchical, institutional life. For example:
 
 - Attention patterns suited for dynamic, natural environments now _clash_{: .warn} with *classroom rigidity* and *screen-based work*.
-- _Cooperative instincts_{: .bold} built for *kin groups and [reciprocity]({{ "/glossary/" | relative_url }}#reciprocity) are _distorted_{: .warn} in anonymous, competitive economies.
+- _Cooperative instincts_{: .bold} built for kin groups and [reciprocity]({{ "/glossary/" | relative_url }}#reciprocity) are _distorted_{: .warn} in anonymous, competitive economies.
 - Emotional regulation developed through close relationships and play is often _neglected_{: .warn} in [nuclear families]({{ "/case-studies/society/normal-living/family/" | relative_url }}) or [institutional care]({{ "/case-studies/society/social-structures/the-care-system/" | relative_url }}).
 
 What appears as [dysfunction]({{ "/glossary/" | relative_url }}#dysfunction) in modern contexts may reflect *normal responses to abnormal environments*.
@@ -79,7 +79,7 @@ These fields treat the mind not as a blank slate—or a cultural invention—but
 
 ### Epigenetics: Nature *and* Nurture
 
-Old debates between nature and nurture are now obsolete. Modern science shows that [the two interact]({{ "/case-studies/who-we-are/genetics/" | relative_url }})) constantly:
+Old debates between nature and nurture are now obsolete. Modern science shows that [the two interact]({{ "/case-studies/who-we-are/genetics/" | relative_url }}) constantly:
 
 - _Gene expression is dynamic_{: .bullet} – Trauma, stress, [nutrition]({{ "/case-studies/health/diet/" | relative_url }}), and nurturing environments can _switch genes on or off_{: .bold}.
 - _Transgenerational effects_{: .bullet} – Experiences (e.g. famine, violence, [poverty]({{ "/glossary/" | relative_url }}#poverty)) can *affect future generations biologically*.

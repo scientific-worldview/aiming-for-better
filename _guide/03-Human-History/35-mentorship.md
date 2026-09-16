@@ -57,13 +57,13 @@ _In this sense, formal schooling was never just about knowledge. It was about se
 
 The *contrast* between our evolutionary _baseline_{: .bold} and the modern educational lock-in reveals a profound [evolutionary mismatch]({{ "/case-studies/mismatches/" | relative_url }}). _What we consider "normal" is deeply unnatural to the human brain_{: .mark}.
 
-- _Biological Movement vs. Sedentary Coercion:_{: .bold} Sitting still for several hours *directly* _violates_{: .warn} a developing human's *biological need* for _movement_{: .cool}.
+- _Biological Movement vs. Sedentary Coercion:_{: .bullet} Sitting still for several hours *directly* _violates_{: .warn} a developing human's *biological need* for _movement_{: .cool}.
  
 _Mentorship was active; schooling is static._{: .subtle}
 
-- _Inquiry vs. Rote Memorisation:_{: .bold} Mentorship relied on *asking questions* about the _real world_{: .cool}. Modern schooling relies on memorising abstract rules often devoid of *emotional* or *practical* _context_{: .bold}.
-- _Collaboration vs. Artificial Competition:_{: .bold} Mentorship fostered group _cohesion_{: .cool}. Standardized _testing_{: .bold} and arbitrary _grading_{: .bold} systems _isolate_{: .warn} individuals and generate *chronic anxiety*.
-- _Organic Discipline vs. The Hidden Curriculum:_{: .bold} _Mentorship_{: .cool} taught *respect* through [reciprocal]({{ "/glossary/" | relative_url }}#reciprocity) bonds. Schooling _teaches children how to navigate artificial power_{: .mark}:
+- _Inquiry vs. Rote Memorisation:_{: .bullet} Mentorship relied on *asking questions* about the _real world_{: .cool}. Modern schooling relies on memorising abstract rules often devoid of *emotional* or *practical* _context_{: .bold}.
+- _Collaboration vs. Artificial Competition:_{: .bullet} Mentorship fostered group _cohesion_{: .cool}. Standardized _testing_{: .bold} and arbitrary _grading_{: .bold} systems _isolate_{: .warn} individuals and generate *chronic anxiety*.
+- _Organic Discipline vs. The Hidden Curriculum:_{: .bullet} _Mentorship_{: .cool} taught *respect* through [reciprocal]({{ "/glossary/" | relative_url }}#reciprocity) bonds. Schooling _teaches children how to navigate artificial power_{: .mark}:
 
 _Sit down. Line up. Don't speak unless called upon. Accept the hierarchy._{: .subtle}
 

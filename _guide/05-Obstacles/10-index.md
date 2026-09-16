@@ -48,11 +48,11 @@ Some are blunt — [laws]({{ "/case-studies/law/theory/" | relative_url }}) or [
 
 For most of post [Agricultural Transition]({{ "/guide/human-history/agricultural-transition/" | relative_url }}) history, questioning the dominant [story]({{ "/case-studies/narratives/" | relative_url }}) wasn’t just frowned upon — *it could be fatal*.
 
-From blasphemy laws to political purges, societies have often treated _independent thought_{: .bold} as *a threat to stability or [power]({{ "/case-studies/politics/governance/power/" | relative_url }}).
+From blasphemy laws to political purges, societies have often treated _independent thought_{: .bold} as a threat to stability or [power]({{ "/case-studies/politics/governance/power/" | relative_url }}).
 
 While the penalties may be softer today in many countries, *the basic pressures remain*.
 
-Careers, reputations, and social belonging can still hinge on [saying the “right” things]({{ "/glossary/" | relative_url }}#saying-the-right-things) .bold}.
+Careers, reputations, and social belonging can still hinge on [saying the “right” things]({{ "/glossary/" | relative_url }}#saying-the-right-things).
 
 ---
 

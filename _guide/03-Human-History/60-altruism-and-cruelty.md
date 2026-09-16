@@ -24,14 +24,14 @@ What do altruism and cruelty really mean in [human history]({{ "/guide/human-his
 
 Across our _evolutionary history_{: .bold}, both altruism and cruelty had [survival implications]({{ "/glossary/" | relative_url }}#survival-implications).
 
-- Altruism helped [groups]({{ "/case-studies/society/social-structures/the-clan/" | relative_url }}) thrive. Mutual aid, [empathy]({{ "/glossary/" | relative_url }}#empathy), and fairness **increased chances of group [survival]({{ "/glossary/" | relative_url }}#survival).  
+- Altruism helped [groups]({{ "/case-studies/society/social-structures/the-clan/" | relative_url }}) thrive. Mutual aid, [empathy]({{ "/glossary/" | relative_url }}#empathy), and fairness **increased chances** of group [survival]({{ "/glossary/" | relative_url }}#survival).  
 - Cruelty—like domination or punishment—sometimes served **short-term enforcement or control**, especially in [parent]({{ "/glossary/" | relative_url }}#parental-ownership)–child dynamics or between competing individuals.
 
 But [evolution]({{ "/guide/human-history/evolution/" | relative_url }}) doesn’t prescribe *"what should be"*. It just explains *what was selected for*. Some traits—like altruism—offered _long-term group benefits_{: .bold}. Others—like [coercion]({{ "/glossary/" | relative_url }}#coercion) or aggression—may have been *tolerated in the short term*, especially when they didn’t endanger the group.
 
 _What matters is what the group allowed, not what one individual tried to do._{: .subtle}
 
-In _tightly knit_{: .cool} hunter-gatherer groups, cruelty had *limited room to flourish*. There were _too many eyes watching_{: .bold}. Problems were handled collectively, and individuals—*especially [children]({{ "/glossary/" | relative_url }}#role-of-children)—weren’t _isolated_{: .warn} [behind closed doors]({{ "/glossary/" | relative_url }}#behind-closed-doors).
+In _tightly knit_{: .cool} hunter-gatherer groups, cruelty had *limited room to flourish*. There were _too many eyes watching_{: .bold}. Problems were handled collectively, and individuals—especially [children]({{ "/glossary/" | relative_url }}#role-of-children)—weren’t _isolated_{: .warn} [behind closed doors]({{ "/glossary/" | relative_url }}#behind-closed-doors).
 
 ---
 
@@ -92,7 +92,7 @@ We are told the nuclear family is the safest place for children. But is it?
 - It is where *most harm to children actually occurs*—not on the street, not by "strangers", but at home  
 - It is *where women, children, and elderly are most vulnerable*, often unable to leave  
 - _Economic Dependence_{: .bullet} _ties_{: .warn} individuals to homes that may not be safe  
-- Ideas like *“respect your parents”* or [obey]({{ "/glossary/" | relative_url }}#obedience) your elders”* make it hard to question [authority]({{ "/glossary/" | relative_url }}#authority)  
+- Ideas like *“respect your parents”* or [obey]({{ "/glossary/" | relative_url }}#obedience) your elders” make it hard to question [authority]({{ "/glossary/" | relative_url }}#authority)  
 - Loyalty to one [narrative]({{ "/case-studies/narratives/" | relative_url }})—*one version of "the truth*"—can **force silence**, even in cases of clear mistreatment
 
 ![Cruelty]({{ "/assets/images/guide/human-history/cruel.webp" | | relative_url }})

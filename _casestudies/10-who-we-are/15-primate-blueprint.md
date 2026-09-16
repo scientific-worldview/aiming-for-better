@@ -97,7 +97,7 @@ How do we know this isn't just "just-so" storytelling? To understand "Who We Are
 
 - _Genomics:_{: .bullet} Analyzing the 99% of genes we share that *influence* _social behaviors_{: .bold} across the primate family.
 
-- Anthropology:_{: .bullet} Finding universal human behaviours—from gift-giving to status-seeking—that reflect ancient primate patterns in every culture on Earth.
+- _Anthropology:_{: .bullet} Finding universal human behaviours—from gift-giving to status-seeking—that reflect ancient primate patterns in every culture on Earth.
 
 #### Objective vs. Intersubjective
 
