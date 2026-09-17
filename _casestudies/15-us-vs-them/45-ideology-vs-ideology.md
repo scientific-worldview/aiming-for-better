@@ -72,7 +72,7 @@ When we analyse the structures they built, the family resemblance is undeniable.
 
 - _The Promise of Utopia:_{: .bullet} Both *justified* their horrific present-day actions by *promising* a glorious, utopian future that was always just over the horizon.
 
-The objective consequence was the same: the complete _annihilation_{: .warn} of _individual [liberty]({{ "/case-studies/law/pragmatic/liberty/" | relative_url }}) and the state-sponsored _murder_{: .warn} of *tens of millions* of **human beings**.
+The objective consequence was the same: the complete _annihilation_{: .warn} of individual [liberty]({{ "/case-studies/law/pragmatic/liberty/" | relative_url }}) and the state-sponsored _murder_{: .warn} of *tens of millions* of **human beings**.
 
 ---
 
@@ -80,7 +80,7 @@ The objective consequence was the same: the complete _annihilation_{: .warn} of 
 
 Both Fascism and Communism are extreme and pathological expressions of a deep human instinct: [tribalism]({{ "/case-studies/politics/political-dynamics/tribalism/" | relative_url }}). They are both a [mismatch]({{ "/case-studies/mismatches/" | relative_url }}) on a terrifying scale.
 
-They _hijack_{: .warn} our _evolved desire_{: .bold} to [belong to a group]({{ "/case-studies/us-vs-them/" | relative_url }}) and [weaponise]({{ "/glossary/" | relative_url }}#weaponise) it. They take the [natural]({{ "/guide/human-history/natural-vs-normal/" | relative_url }}) loyalty* we feel for our small kin-group and demand we apply it to an enormous, abstract collective—**"The Race"** or **"The Class"**.
+They _hijack_{: .warn} our _evolved desire_{: .bold} to [belong to a group]({{ "/case-studies/us-vs-them/" | relative_url }}) and [weaponise]({{ "/glossary/" | relative_url }}#weaponise) it. They take the [natural]({{ "/guide/human-history/natural-vs-normal/" | relative_url }}) loyalty we feel for our small kin-group and demand we apply it to an enormous, abstract collective—**"The Race"** or **"The Class"**.
 
 In doing so, they demand the surrender of _individual conscience_{: .bold} to the *will of the group*. "Good" is no longer about individual actions or [universal principles]({{ "/guide/first-principles/" | relative_url }}); "good" is whatever serves the Party, the Nation, or the Revolution. This is the moral logic that allows ordinary people to participate in extraordinary [cruelty]({{ "/guide/human-history/altruism-and-cruelty/" | relative_url }}).
 

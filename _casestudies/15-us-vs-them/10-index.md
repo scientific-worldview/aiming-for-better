@@ -14,7 +14,7 @@ Long before we built cities, invented writing, or conceived of nations and relig
 
 ![Us vs. Them]({{ "/assets/images/casestudies/us-vs-them/divide.webp" | relative_url }})
 
-This isn't just a "learned* [behaviour]({{ "/guide/human-history/psychology/" | relative_url }}); it's a profound aspect of our [Primate Blueprint]({{ "/case-studies/who-we-are/primate-blueprint/" | relative_url }}) and deeply wired into our [Evolved Brain]({{ "/case-studies/who-we-are/brain/" | relative_url }}). Our brains are incredibly efficient at social categorization, quickly identifying cues that signal belonging or otherness. The in-group provides *safety*, *identity*, and *shared purpose* – a **vital anchor** in a complex world. The out-group, by contrast, can be perceived as a source of competition, a threat, or simply _"not us"_{: .bold}. This primal divide, *honed over millions of years of tribal existence*, was incredibly _adaptive_{: .bold} for our species' survival. It allowed our ancestors to quickly identify allies and potential adversaries, fostering [cooperation]({{ "/glossary/" | relative_url }}#cooperation) within [the group]({{ "/case-studies/society/social-structures/the-clan/" | relative_url }}) while maintaining _vigilance_{: .bold} towards outsiders.
+This isn't just a "learned" [behaviour]({{ "/guide/human-history/psychology/" | relative_url }}); it's a profound aspect of our [Primate Blueprint]({{ "/case-studies/who-we-are/primate-blueprint/" | relative_url }}) and deeply wired into our [Evolved Brain]({{ "/case-studies/who-we-are/brain/" | relative_url }}). Our brains are incredibly efficient at social categorization, quickly identifying cues that signal belonging or otherness. The in-group provides *safety*, *identity*, and *shared purpose* – a **vital anchor** in a complex world. The out-group, by contrast, can be perceived as a source of competition, a threat, or simply _"not us"_{: .bold}. This primal divide, *honed over millions of years of tribal existence*, was incredibly _adaptive_{: .bold} for our species' survival. It allowed our ancestors to quickly identify allies and potential adversaries, fostering [cooperation]({{ "/glossary/" | relative_url }}#cooperation) within [the group]({{ "/case-studies/society/social-structures/the-clan/" | relative_url }}) while maintaining _vigilance_{: .bold} towards outsiders.
 
 ### Why This Matters: From Survival to Slaughter
 
@@ -22,7 +22,7 @@ The problem arises when this ancient, adaptive instinct confronts the complexiti
 
 - _Shared Belief Systems:_{: .bullet} Religious *doctrines*, political *ideologies*, moral *codes*.
 
-- _National Identity:_{: .bullet} The _"imagined community"_{: .bold} of the [[nation-state]({{ "/glossary/" | relative_url }}#nation-state)].
+- _National Identity:_{: .bullet} The _"imagined community"_{: .bold} of the [nation-state]({{ "/glossary/" | relative_url }}#nation-state).
 
 - _Social Groupings:_{: .bullet} Race, class, gender, subculture, online communities.
 
@@ -36,11 +36,11 @@ This series will *critically examine* some of the ways our ancient in-group/out-
 
 We will explore:
 
-- _Myth vs. Myth:_{: .bullet} A deconstruction of the meta-clash between differing [dogmatic beliefs]({{ "/glossary/" | relative_url }}#beliefs) (as opposed to _evidential inquiry_{: .bold}), and the "virtuous-sounding" language that fuels these conflicts, proposing [rational]({{ "/glossary/" | relative_url }}#rational) virtues_{: .bold} as an antidote.
+- _Myth vs. Myth:_{: .bullet} A deconstruction of the meta-clash between differing [dogmatic beliefs]({{ "/glossary/" | relative_url }}#beliefs) (as opposed to _evidential inquiry_{: .bold}), and the "virtuous-sounding" language that fuels these conflicts, proposing [rational]({{ "/glossary/" | relative_url }}#rational) _virtues_{: .bold} as an antidote.
 
 - _Religion vs. Religion:_{: .bullet} Examining how [absolute certainty]({{ "/glossary/" | relative_url }}#certainty) in "the one true path to God" leads to brutal, existential struggles, using historical conflicts like **The Crusades** and **The Wars of Reformation** as a lens for understanding *tribal warfare* mechanics.
 
-- _Nation vs. Nation:_{: .bullet} Investigating how the _"imagined community"_{: .bold} of the [Nation-State] becomes a new tribe, demanding absolute loyalty and leading to catastrophic conflicts like World War I, demonstrating the ancient tribal instinct scaled up.
+- _Nation vs. Nation:_{: .bullet} Investigating how the _"imagined community"_{: .bold} of the [Nation-State]({{ "/case-studies/politics/miscelleneous/nation-state/" | relative_url }}) becomes a new tribe, demanding absolute loyalty and leading to catastrophic conflicts like World War I, demonstrating the ancient tribal instinct scaled up.
 
 - _Mob vs. Minority:_{: .bullet} Challenging the romantic ideal of "majority rule" by exploring the objective consequences of unchecked majority [power]({{ "/case-studies/politics/governance/power/" | relative_url }}), and the rational mechanisms needed to protect [minorities]({{ "/case-studies/us-vs-them/majorities-vs-minorities/" | relative_url }}) from the *passions of the mob*.
 

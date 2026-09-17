@@ -38,7 +38,7 @@ The "ancient hatred" was not ancient at all. _It was a modern, colonial creation
 
 #### Testability
 
-Can we [test]({{ "/guide/first-principles/testability/" | relative_url }}) the claims of the genocidal narrative? Yes. The claim that the Tutsi were a *"foreign race"* of "invaders* can be tested against the historical, linguistic, and genetic evidence, all of which show a deeply intertwined and *shared heritage*. The claim that they were plotting to exterminate the Hutu was an unfalsifiable *conspiracy theory*.
+Can we [test]({{ "/guide/first-principles/testability/" | relative_url }}) the claims of the genocidal narrative? Yes. The claim that the Tutsi were a *"foreign race"* of "invaders" can be tested against the historical, linguistic, and genetic evidence, all of which show a deeply intertwined and *shared heritage*. The claim that they were plotting to exterminate the Hutu was an unfalsifiable *conspiracy theory*.
 
 #### Objective vs. Intersubjective
 

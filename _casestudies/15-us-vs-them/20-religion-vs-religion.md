@@ -26,7 +26,7 @@ This case study will not analyse the doctrines of Christianity or Islam. Instead
 
 Let's *set aside* the spiritual and metaphysical claims of these religions. From a [clean slate]({{ "/guide/clean-slate/" | relative_url }}), [scientific perspective]({{ "/guide/first-principles/scientific-method/" | relative_url }}), what is the _social function_{: .bold} of a large-scale, organized religion?
 
-- _It is a Tribal Identifier:_{: .bullet} Before the rise of [[the Nation-State]({{ "/glossary/" | relative_url }}#nation-state)], your religion was your primary large-scale tribal marker. It told you who was in your _in-group_{: .bold} ("Us", *the faithful*) and who was in the _out-group_{: .bold} ("Them", *the unbelievers*).
+- _It is a Tribal Identifier:_{: .bullet} Before the rise of [the Nation-State]({{ "/glossary/" | relative_url }}#nation-state), your religion was your primary large-scale tribal marker. It told you who was in your _in-group_{: .bold} ("Us", *the faithful*) and who was in the _out-group_{: .bold} ("Them", *the unbelievers*).
 
 - _It is a Tool for Mobilisation:_{: .bullet} It provides a powerful, pre-packaged [narrative]({{ "/case-studies/narratives/" | relative_url }}) for *justifying conflict*. A war is no longer a grubby dispute over land or trade routes; it is a Holy War, a [sacred]({{ "/glossary/" | relative_url }}#sacred) duty commanded by God himself.
 
