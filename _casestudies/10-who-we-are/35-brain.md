@@ -87,7 +87,7 @@ Claims about human behaviour must be grounded in biological realities, [testable
 
 - _Objective:_{: .bullet} Amygdala activation, dopamine receptor density, and measurable cognitive fatigue. These are physical [facts]({{ "/guide/first-principles/correct-answers/" | relative_url }}).
 
-- _Intersubjective:_{: .bullet} The feeling of [burnout]({{ "/glossary/" | relative_url }}#burnout)," the subjective experience of anxiety, or the narrative of "losing control". These feelings are real, but they are the [symptoms]({{ "/case-studies/society/normal-living/treating-symptoms/" | relative_url }}) of the objective biological overload happening beneath the surface.
+- _Intersubjective:_{: .bullet} The feeling of "[burnout]({{ "/glossary/" | relative_url }}#burnout)," the subjective experience of anxiety, or the narrative of "losing control". These feelings are real, but they are the [symptoms]({{ "/case-studies/society/normal-living/treating-symptoms/" | relative_url }}) of the objective biological overload happening beneath the surface.
 
 #### Only EVIDENCE Matters
 
@@ -109,7 +109,7 @@ When we force an ancient brain to live in a modern world, the friction produces 
 
 - _Reward System Hijacking:_{: .bullet} The dopamine pathway evolved to motivate us to forage for scarce rewards (like finding a berry bush). Today, it is overstimulated by frictionless, engineered rewards—slot machines, infinite scrolls, and notifications. This leads to compulsive use and a diminished baseline of motivation for long-term, difficult goals.
 
-- _Social Cognitive Overload (The Dunbar Crash):_{: .bullet} A brain adapted to track the reputations of roughly 150 familiar faces cannot process the constant exposure to thousands of anonymous, often hostile, digital avatars. The result is emotional *withdrawal*, toxic [tribalism]({{ "/case-studies/politics/political-dynamics/tribalism/" | relative_url }}), and a *collapse of [empathy]({{ "/glossary/" | relative_url }}#empathy).
+- _Social Cognitive Overload (The Dunbar Crash):_{: .bullet} A brain adapted to track the reputations of roughly 150 familiar faces cannot process the constant exposure to thousands of anonymous, often hostile, digital avatars. The result is emotional *withdrawal*, toxic [tribalism]({{ "/case-studies/politics/political-dynamics/tribalism/" | relative_url }}), and a *collapse* of [empathy]({{ "/glossary/" | relative_url }}#empathy).
 
 - _Bias Amplification:_{: .bullet} Cognitive shortcuts ([heuristics]({{ "/glossary/" | relative_url }}#heuristics)) evolved to _save energy_{: .bold} and make _fast decisions_{: .bold}. Modern algorithms [weaponise]({{ "/glossary/" | relative_url }}#weaponise) these shortcuts, feeding us confirmation bias and [locking]({{ "/case-studies/locked-in/" | relative_url }}) us into [echo chambers]({{ "/case-studies/politics/dysfunction/echo-chambers/" | relative_url }}) that destroy [critical thinking]({{ "/guide/thinking-for-yourself/" | relative_url }}).
 
@@ -121,7 +121,7 @@ These outcomes are not moral failures or "weak character". They are the predicta
 
 ### Step 4: Human History and the Design Imperative
 
-[Human history]({{ "/guide/human-history/" | relative_url }}) is increasingly defined by a growing gap between what our brains evolved to do and what our [culture]({{ "/glossary/" | relative_url }}#culture) demands of them. We have built environments that obsess over efficiency, scale, and engagement metrics, *at the expense of neurological [well-being]({{ "/glossary/" | relative_url }}#wellbeing).
+[Human history]({{ "/guide/human-history/" | relative_url }}) is increasingly defined by a growing gap between what our brains evolved to do and what our [culture]({{ "/glossary/" | relative_url }}#culture) demands of them. We have built environments that obsess over efficiency, scale, and engagement metrics, *at the expense* of neurological [well-being]({{ "/glossary/" | relative_url }}#wellbeing).
 
 This creates a clear responsibility: we must transition from _exploiting_{: .warn} [human nature]({{ "/glossary/" | relative_url }}#human-nature) to _accommodating_{: .bold} it; to design institutions, technologies, and cultures that *account for biological reality rather than deny it*.
 

@@ -26,7 +26,7 @@ Recognising the biological foundations of sexuality does not mean surrendering t
 
 Human mating strategies did not appear out of thin air; they are a *complex patchwork* of _evolutionary adaptations_{: .bold}:
 
-- [Mammalian]({{ "/case-studies/who-we-are/mammalian-care-blueprint/" | relative_url }}) Foundations (200+ Million Years Ago):_{: .bullet} Mammals [evolved]({{ "/guide/human-history/evolution/" | relative_url }}) internal fertilization, pregnancy, and lactation. This massive biological cost selected for intense emotional attachment and behavioral investment in offspring.
+- [Mammalian]({{ "/case-studies/who-we-are/mammalian-care-blueprint/" | relative_url }}) _Foundations (200+ Million Years Ago):_{: .bullet} Mammals [evolved]({{ "/guide/human-history/evolution/" | relative_url }}) internal fertilization, pregnancy, and lactation. This massive biological cost selected for intense emotional attachment and behavioral investment in offspring.
 
 - _Primate Sociality & Kin Selection:_{: .bullet} Primate societies introduced complex sexual selection. Crucially, sex evolved to be about _more than just conception_{: .bold}. In species like bonobos, sexual behaviour is a primary tool for play, social bonding, tension reduction, and alliance-building. Furthermore, the [survival]({{ "/glossary/" | relative_url }}#survival) of the gene involves not just direct reproduction but also [Kin Selection]({{ "/glossary/" | relative_url }}#kin-selection), whereby individuals who did not directly reproduce could still ensure their genes survived by nurturing, [mentoring]({{ "/guide/human-history/mentorship/" | relative_url }}) and protecting communal offspring (*alloparenting*).
 

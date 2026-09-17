@@ -25,7 +25,7 @@ Human uniqueness didn't appear overnight. It was a compounding snowball of innov
 
 - _Early Stone Tools (≈2.6 Million Years Ago):_{: .bullet} _The First Design_{: .bold}. Tools shifted from being *incidental* (a rock you happen to find) to *intentional* (a rock you shape for a future purpose). This was the birth of _foresight_{: .mark}.
 
-- _Fire Control (≈1 Million Years Ago):_{: .bullet} _Outsourcing Digestion_{: .bold}. Cooking broke down calories externally, meaning we could *shrink our gut* and *reallocate* that massive energy budget to *growing a massive [v]({{ "/case-studies/who-we-are/brain/" | relative_url }}). Fire also *extended the day*, creating the first shared "hearth" for storytelling.
+- _Fire Control (≈1 Million Years Ago):_{: .bullet} _Outsourcing Digestion_{: .bold}. Cooking broke down calories externally, meaning we could *shrink our gut* and *reallocate* that massive energy budget to growing a massive [brain]({{ "/case-studies/who-we-are/brain/" | relative_url }}). Fire also *extended the day*, creating the first shared "hearth" for storytelling.
 
 - _Symbolic Thought and Language (≈70,000–30,000 Years Ago):_{: .bullet} _The Networked Brain_{: .bold}. Fully developed language allowed us to share not just "Where is the lion?" but **"What does the lion represent?"** Culture itself became cumulative. We *no longer started each generation from scratch*; we stood on the shoulders of our ancestors.
 
@@ -100,13 +100,13 @@ When human-specific capacities operate far beyond the 150-person [tribes]({{ "/c
 
 - _Tools That Exceed Wisdom:_{: .bullet} Our tool-making has graduated from hand-axes to artificial intelligence and synthetic biology. Our **capacity to destroy** now vastly outstrips _our evolved capacity for foresight and restraint_{: .mark}.
 
-- _Cultural Rigidity:_{: .bullet} The same culture that enables _rapid learning_{: .bold} can *freeze outdated [norms]({{ "/case-studies/society/sociology/norms/" | relative_url }}) into [dogma]({{ "/glossary/" | relative_url }}#dogma). We lock ourselves into _cages of our own design_{: .bold}, prioritizing the *stability of the "system"* over the *[survival]({{ "/glossary/" | relative_url }}#survival) of the people* in it.
+- _Cultural Rigidity:_{: .bullet} The same culture that enables _rapid learning_{: .bold} can *freeze outdated* [norms]({{ "/case-studies/society/sociology/norms/" | relative_url }}) into [dogma]({{ "/glossary/" | relative_url }}#dogma). We lock ourselves into _cages of our own design_{: .bold}, prioritizing the *stability of the "system"* over the [survival]({{ "/glossary/" | relative_url }}#survival) of the people in it.
 
 ---
 
 ### Step 4: Human History – The Need for Conscious Stewardship
 
-The [history]({{ "/guide/human-history/" | relative_url }}) of humanity is the history of a species trying to _survive its own success_{: .bold}. We are no longer *adapting to the [natural]({{ "/guide/human-history/natural-vs-normal/" | relative_url }}) world*; we are desperately trying to *adapt to the artificial world we engineered*.
+The [history]({{ "/guide/human-history/" | relative_url }}) of humanity is the history of a species trying to _survive its own success_{: .bold}. We are no longer *adapting to the* [natural]({{ "/guide/human-history/natural-vs-normal/" | relative_url }}) *world*; we are desperately trying to *adapt to the artificial world we engineered*.
 
 The central mismatch of modern humanity is this: We are navigating a supersonic, globally networked jet using the social and emotional instrument panel of a horse-drawn carriage.
 
@@ -122,7 +122,7 @@ Humanity’s unique capacities—language, the prefrontal imagination, and cumul
 
 Unchecked, this amplifier produces:
 
-- Entrenched, **evidence-blind [beliefs]({{ "/glossary/" | relative_url }}#beliefs)
+- Entrenched, **evidence-blind** [beliefs]({{ "/glossary/" | relative_url }}#beliefs)
 
 - Runaway **technological risks**
 
