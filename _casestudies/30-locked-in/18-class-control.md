@@ -16,7 +16,7 @@ The [narrative]({{ "/case-studies/narratives/" | relative_url }}) that supported
 
 ![Feudalism]({{ "/assets/images/casestudies/lock-ins/servitude.webp" | relative_url }})
 
-Unlike the Praetorian Guard, this was not a [lock-in]({{ "/case-studies/locked-in/" | relative_url }}) maintained by a single elite unit. The Feudal System was a far more profound and resilient structural _Lock-In_{: .neon}. The very architecture of the economy, the [law]({{ "/case-studies/law/theory/" | relative_url }}), and the dominant religious narrative worked in perfect harmony to create a *self-perpetuating fortress of [inequality]({{ "/glossary/" | relative_url }}#inequality), holding progress, social mobility, and individual [liberty]({{ "/case-studies/law/pragmatic/liberty/" | relative_url }}) hostage for _centuries_{: .warn}.
+Unlike the Praetorian Guard, this was not a [lock-in]({{ "/case-studies/locked-in/" | relative_url }}) maintained by a single elite unit. The Feudal System was a far more profound and resilient structural _Lock-In_{: .neon}. The very architecture of the economy, the [law]({{ "/case-studies/law/theory/" | relative_url }}), and the dominant religious narrative worked in perfect harmony to create a *self-perpetuating fortress* of [inequality]({{ "/glossary/" | relative_url }}#inequality), holding progress, social mobility, and individual [liberty]({{ "/case-studies/law/pragmatic/liberty/" | relative_url }}) hostage for _centuries_{: .warn}.
 
 ---
 

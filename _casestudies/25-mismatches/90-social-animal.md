@@ -36,7 +36,7 @@ For over 99.5% of human history, humans lived in a state of profound _social imm
 
 - _Constant Social Contact:_{: .bullet} You were rarely alone unless you chose to be. *You lived, worked, and slept in close proximity to a network of kin and trusted allies.*
 
-- _Interdependence:_{: .bullet} [Survival]({{ "/glossary/" | relative_url }}#survival) was a team sport.* Your [well-being]({{ "/glossary/" | relative_url }}#wellbeing) was inextricably linked to the well-being of your group, and theirs to yours. _Mutual aid was a necessity._{: .mark}
+- _Interdependence:_{: .bullet} [Survival]({{ "/glossary/" | relative_url }}#survival) was *a team sport.* Your [well-being]({{ "/glossary/" | relative_url }}#wellbeing) was inextricably linked to the well-being of your group, and theirs to yours. _Mutual aid was a necessity._{: .mark}
 
 - _Shared Caregiving (Alloparenting):_{: .bullet} As explored in the [Nuclear Family]({{ "/case-studies/society/normal-living/family/" | relative_url }}), the burden of childcare was *distributed across the entire community*.
 

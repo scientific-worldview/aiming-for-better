@@ -106,4 +106,4 @@ A [scientific worldview]({{ "/glossary/" | relative_url }}#scientific-worldview)
 
 _The goal is not to have no choices, but to have the wisdom to know which choices matter._{: .subtle}
 
-A [rational]({{ "/glossary/" | relative_url }}#rational) and fulfilling life* in the modern world is not found in _endlessly_{: .warn} maximizing your options, but in gratefully satisficing with _the ones that truly contribute to your well-being._{: .mark}
+A [rational]({{ "/glossary/" | relative_url }}#rational) and fulfilling life in the modern world is not found in _endlessly_{: .warn} maximizing your options, but in gratefully satisficing with _the ones that truly contribute to your well-being._{: .mark}

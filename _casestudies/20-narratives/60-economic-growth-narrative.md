@@ -21,7 +21,7 @@ We do not deny the incredible achievements of the economic growth of the last tw
 
 _But as a singular, all-consuming goal, is this narrative still fit for purpose?_{: .subtle}
 
-The _Scientific Worldview_{: .neon} *does not accept any goal on faith*. It demands that we measure our progress against the ultimate benchmark: _human and planetary [well-being]({{ "/glossary/" | relative_url }}#wellbeing). This case study will contrast these two approaches. *The question is not whether [prosperity]({{ "/glossary/" | relative_url }}#prosperity) is good*. The question is: Is the relentless, single-minded pursuit of GDP growth a [rational]({{ "/glossary/" | relative_url }}#rational) path to a [flourishing]({{ "/glossary/" | relative_url }}#human-flourishing) society, or is it a dangerous obsession with a _flawed metric_{: .warn} that is leading us toward _systemic crises_{: .warn}?
+The _Scientific Worldview_{: .neon} *does not accept any goal on faith*. It demands that we measure our progress against the ultimate benchmark: human and planetary [well-being]({{ "/glossary/" | relative_url }}#wellbeing). This case study will contrast these two approaches. *The question is not whether* [prosperity]({{ "/glossary/" | relative_url }}#prosperity) *is good*. The question is: Is the relentless, single-minded pursuit of GDP growth a [rational]({{ "/glossary/" | relative_url }}#rational) path to a [flourishing]({{ "/glossary/" | relative_url }}#human-flourishing) society, or is it a dangerous obsession with a _flawed metric_{: .warn} that is leading us toward _systemic crises_{: .warn}?
 
 ---
 
@@ -39,7 +39,7 @@ From a [clean slate]({{ "/guide/clean-slate/" | relative_url }}), human-centric 
 
 #### Testability
 
-Can we [test]({{ "/guide/first-principles/testability/" | relative_url }}) the claim that **"a rising GDP is the ultimate measure of progress"**? Yes, absolutely. We can objectively measure whether rising GDP correlates with improvements in other crucial metrics, such as _happiness levels_{: .cool}, [h]({{ "/case-studies/health/mental-health/" | relative_url }}), _environmental quality_{: .cool}, and _social cohesion_{: .cool}.
+Can we [test]({{ "/guide/first-principles/testability/" | relative_url }}) the claim that **"a rising GDP is the ultimate measure of progress"**? Yes, absolutely. We can objectively measure whether rising GDP correlates with improvements in other crucial metrics, such as _happiness levels_{: .cool}, [mental health]({{ "/case-studies/health/mental-health/" | relative_url }}), _environmental quality_{: .cool}, and _social cohesion_{: .cool}.
 
 #### Objective vs. Intersubjective
 

@@ -46,7 +46,7 @@ _This is our evolutionary baseline: a world where play was the free, risky, and 
 
 #### Testability
 
-Yes, we can [test]({{ "/guide/first-principles/testability/" | relative_url }}) the effects of play. We can conduct longitudinal studies that correlate the amount of free, unstructured play in early childhood with later-life outcomes, such as [mental health]({{ "/case-studies/health/mental-health/" | relative_url }}), creativity, and social skills. We can also measure the effects of "play [deprivation]({{ "/glossary/" | relative_url }}#deprivation) in animal studies, which consistently show it leads to _maladjusted adults_{: .warn}.
+Yes, we can [test]({{ "/guide/first-principles/testability/" | relative_url }}) the effects of play. We can conduct longitudinal studies that correlate the amount of free, unstructured play in early childhood with later-life outcomes, such as [mental health]({{ "/case-studies/health/mental-health/" | relative_url }}), creativity, and social skills. We can also measure the effects of "play [deprivation]({{ "/glossary/" | relative_url }}#deprivation)" in animal studies, which consistently show it leads to _maladjusted adults_{: .warn}.
 
 #### Objective vs. Intersubjective
 
@@ -96,7 +96,7 @@ If we had to get it right, as if the long-term health and competence of the next
 
 The evidence is clear: The modern [suppression]({{ "/glossary/" | relative_url }}#suppression) of free, unstructured, and risky play is a _developmental disaster_{: .warn}. It is a **"well-intentioned"** but _profoundly misguided experiment_{: .warn} that is making children more anxious, less creative, and less resilient.
 
-A [scientific worldview]({{ "/glossary/" | relative_url }}#scientific-worldview) does not ask us to abandon supervision or to be reckless with children's safety. It asks for a [rational]({{ "/glossary/" | relative_url }}#rational), evidence-based rebalancing that trusts in the power of our _evolved [human nature]({{ "/glossary/" | relative_url }}#human-nature).
+A [scientific worldview]({{ "/glossary/" | relative_url }}#scientific-worldview) does not ask us to abandon supervision or to be reckless with children's safety. It asks for a [rational]({{ "/glossary/" | relative_url }}#rational), evidence-based rebalancing that trusts in the power of our evolved [human nature]({{ "/glossary/" | relative_url }}#human-nature).
 
 - _Prioritise Unstructured Time:_{: .bullet} We must consciously fight against the culture of the over-scheduled child. We must recognise that hours of free, imaginative play are not "wasted time"; _they are the most important work of childhood_{: .mark}.
 

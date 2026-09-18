@@ -21,7 +21,7 @@ In the early Roman Empire, the Praetorian Guard was the ultimate symbol of the E
 
 But over time, this shield became a sword, and then a throne. The *protectors* became the _kingmakers_{: .bold}. The Praetorian Guard is the classic and brutal historical example of the _Lock-In Effect_{: .neon}. They were an [institution]({{ "/case-studies/locked-in/institutional-control/" | relative_url }}) created by a new political [narrative]({{ "/case-studies/narratives/" | relative_url }})—the rule of a single Emperor—whose own survival, wealth, and [power]({{ "/case-studies/politics/governance/power/" | relative_url }}) became so deeply tied to that narrative that _they would burn the world down rather than allow a return to the old system_{: .mark}.
 
-This case study will explore how the Guard's _vested interest_{: .bold} held the Roman Empire hostage, demonstrating the simplest and most ruthless form of lock-in: _[brute force]({{ "/glossary/" | relative_url }}#brute-force)_{: .warn}.
+This case study will explore how the Guard's _vested interest_{: .bold} held the Roman Empire hostage, demonstrating the simplest and most ruthless form of lock-in: [brute force]({{ "/glossary/" | relative_url }}#brute-force).
 
 ---
 
@@ -72,7 +72,7 @@ This created a Lock-In Effect with *measurable consequences*:
 
 - _The Prevention of Reform:_{: .bullet} The existence of this powerful, armed body in Rome made any thought of returning to the old Republic impossible. Even if the Senate and the people had desired a return to the old ways, they were _held hostage_{: .warn} by a military force of 9,000 elite soldiers whose *entire existence* **depended** on the _Imperial System_{: .bold}. They were the _ultimate veto power_{: .cool} on *political reform*.
 
-- _The Auction of the Empire:_{: .bullet} The most infamous example of the lock-in came in 193 AD, the **"Year of the Five Emperors"**. After murdering Emperor Pertinax, the Praetorian Guard literally *auctioned off* the Roman Empire to the highest bidder. Two wealthy senators, Didius Julianus and Sulpicianus, bid against each other, offering ever-larger sums to the soldiers. Didius Julianus won, paying a staggering amoun for the throne. He lasted 66 days before he too was killed.
+- _The Auction of the Empire:_{: .bullet} The most infamous example of the lock-in came in 193 AD, the **"Year of the Five Emperors"**. After murdering Emperor Pertinax, the Praetorian Guard literally *auctioned off* the Roman Empire to the highest bidder. Two wealthy senators, Didius Julianus and Sulpicianus, bid against each other, offering ever-larger sums to the soldiers. Didius Julianus won, paying a staggering amount for the throne. He lasted 66 days before he too was killed.
 
 ---
 

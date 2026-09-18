@@ -62,9 +62,9 @@ _What systems actually foster the most effective and willing cooperation?_{: .su
 
 ---
 
-### Step 3: Identify the Objective Consequences - The Rupture of the [Agricultural Transition]({{ "/guide/human-history/agricultural-transition/" | relative_url }})
+### Step 3: Identify the Objective Consequences - The Rupture of the Agricultural Transition
 
-The move to large, anonymous agricultural societies made the reputation-based system _unworkable_{: .warn}. You couldn't track the reputation of 10,000 strangers. This created a crisis of social control, which [civilisation]({{ "/glossary/" | relative_url }}#civilisations) **"solved"** by inventing new, _top-down technologies of [power]({{ "/case-studies/politics/governance/power/" | relative_url }}).
+The move to large, anonymous agricultural societies made the reputation-based system _unworkable_{: .warn}. You couldn't track the reputation of 10,000 strangers. This created a crisis of social control, which [civilisation]({{ "/glossary/" | relative_url }}#civilisations) **"solved"** by inventing new, top-down technologies of [power]({{ "/case-studies/politics/governance/power/" | relative_url }}).
 
 - _The Invention of "Big Gods":_{: .bullet} As societies grew, the concept of small, local [spirits]({{ "/glossary/" | relative_url }}#agency-detection) was often replaced by powerful, omniscient "Big Gods" who were **always watching!** This was a brilliant cultural innovation—*"CCTV in the sky"*—that re-created the feeling of being monitored, enforcing morality among strangers.
 

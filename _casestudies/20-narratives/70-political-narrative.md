@@ -102,7 +102,7 @@ Our [brains]({{ "/case-studies/who-we-are/brain/" | relative_url }}) are not equ
 
 If we had to get it right, as if the future of a functional, free, and _reality-based_{: .bold} [society]({{ "/case-studies/society/social-structures/" | relative_url }}) depended on it—*because it does*—what would our conclusion be?
 
-The Political Narrative and its central tool, the vote, are **essential for a free society**. But their domain is not absolute. A [rational]({{ "/glossary/" | relative_url }}#rational) and just [society] must have the courage to _draw a clear boundary_{: .mark} between the questions that are subject to public opinion and the facts that are not.
+The Political Narrative and its central tool, the vote, are **essential for a free society**. But their domain is not absolute. A [rational]({{ "/glossary/" | relative_url }}#rational) and just [society]({{ "/case-studies/society/social-structures/" | relative_url }}) must have the courage to _draw a clear boundary_{: .mark} between the questions that are subject to public opinion and the facts that are not.
 
 - _Fundamental Rights Are Not Up for a Vote:_{: .bullet} A core set of individual rights—[free speech]({{ "/case-studies/politics/miscelleneous/free-speech/" | relative_url }}), privacy, bodily [autonomy]({{ "/glossary/" | relative_url }}#autonomy), equality before the law—must be constitutionally protected and placed beyond the reach of a temporary majority. A majority cannot vote to make a minority a second-class citizen. This is the firewall against the _tyranny_{: .warn} of the majority.
 

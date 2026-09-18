@@ -128,14 +128,14 @@ A _scientific worldview_{: .bold} demands a more cautious, [evidence-based]({{ "
 
 ## Final Thought
 
-Neurodiversity is real, and some children do face **genuine** cognitive challenges that require understanding and support. But we must be careful:
+Neurodiversity is real, and some children do face **genuine** cognitive challenges that require understanding and support. When this is the case, help is essential. But we must differentiate between genuine cognitive impairment and simply being unable to conform to modern "normals". We always must be careful:
 
-_A system that creates the problem cannot be trusted to define the solution._{: .subtle}
+_Can a system that creates the problem be trusted to define the solution?_{: .subtle}
 
-Instead of asking, **“What’s wrong with this child?”**, we should ask, *“What kind of system pathologises normal variation?”*
+Instead of asking, **“What’s wrong with this child?”**, should we ask, *“What kind of system pathologises normal variation?”*
 
-A _scientific worldview_{: .bold} pushes us to see difference not as defect—but as a signal that _something deeper needs to change_{: .mark}.
+A _scientific worldview_{: .bold} pushes us to see difference (rather than impairment) not as defect—but as a signal that _something deeper needs to change_{: .mark}.
 
-This project rejects the [medicalisation]({{ "/glossary/" | relative_url }}#medicalisation) of _natural diversity_{: .bold}.
+This project rejects the [medicalisation]({{ "/glossary/" | relative_url }}#medicalisation) of _natural diversity_{: .bold}. "Treatment" should only ever be for **genuine"" cognitive impairment, and even then it must be credible and evidence-based.
 
-Every child should be able to say (or sing!): _"I am what I am, I am my own special creation"._{: .mark}
+Every diverse child should be able to say (or sing!): _"I am what I am, I am my own special creation"._{: .mark}

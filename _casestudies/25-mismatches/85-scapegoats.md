@@ -26,7 +26,7 @@ _Can understanding the [evolutionary]({{ "/guide/human-history/" | relative_url 
 
 Let's set aside the complex politics of modern prejudice. We start by looking at the world our [brains]({{ "/case-studies/who-we-are/brain/" | relative_url }}) were designed for: a world of small, competing hunter-gatherer bands.
 
-In this ancestral environment, a degree of [out-group]({{ "/case-studies/us-vs-them/" | relative_url }}) suspicion was a [rational]({{ "/glossary/" | relative_url }}#rational) [survival]({{ "/glossary/" | relative_url }}#survival) strategy_{: .bold}.
+In this ancestral environment, a degree of [out-group]({{ "/case-studies/us-vs-them/" | relative_url }}) suspicion was a [rational]({{ "/glossary/" | relative_url }}#rational) [survival]({{ "/glossary/" | relative_url }}#survival) _strategy_{: .bold}.
 
 - _The "Us vs. Them" Instinct:_{: .bullet} Our ancestors lived in a world of finite resources. A neighboring band was not just a group of strangers; they were *direct competitors* for food, water, and territory.
 
@@ -92,4 +92,4 @@ A _Scientific Worldview_{: .neon} does not deny this instinct exists. It insists
 
 We may never eliminate the **"us vs. them"** instinct from our primate brains.
 
-_But with a commitment to reason, evidence, and the [nn]({{ "/glossary/" | relative_url }}#protection-and-protectors) of individual rights, we can choose to build a society that starves this inner demon rather than feeding it._{: .subtle}
+_But with a commitment to reason, evidence, and the [protection]({{ "/glossary/" | relative_url }}#protection-and-protectors) of individual rights, we can choose to build a society that starves this inner demon rather than feeding it._{: .subtle}

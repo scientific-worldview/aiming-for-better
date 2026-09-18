@@ -10,7 +10,7 @@ tags: [Natural, Evidence, Mismatches, Mindfulness, Psychology, Theory, Anthropol
 
 ### Overview: Our Relationship with Time
 
-What time is it? For [modern humans]({{ "/glossary/" | relative_url }}#modern-humans-homo-sapiens), this is one of the most important questions of the day. Our lives are governed by an invisible, relentless, and all-powerful force: **[clock time]({{ "/glossary/" | relative_url }}#clock-time)**. We wake to an alarm, commute at a set hour, work in scheduled blocks, eat at designated mealtimes, and cram our leisure into the remaining minutes. Our days are measured, divided, and optimized with a precision down to the second.
+What time is it? For [modern humans]({{ "/glossary/" | relative_url }}#modern-humans-homo-sapiens), this is one of the most important questions of the day. Our lives are governed by an invisible, relentless, and all-powerful force: [clock time]({{ "/glossary/" | relative_url }}#clock-time). We wake to an alarm, commute at a set hour, work in scheduled blocks, eat at designated mealtimes, and cram our leisure into the remaining minutes. Our days are measured, divided, and optimized with a precision down to the second.
 
 ![time]({{ "/assets/images/casestudies/mismatches/clocktime.webp" | relative_url }})
 
@@ -72,7 +72,7 @@ The [Agricultural Transition]({{ "/guide/human-history/agricultural-transition/"
 
 - _The Future Overwhelms the Present:_{: .bullet} A modern economy demands constant long-term planning, debt, and investment. This forces our minds out of the present and into a constant state of _anxiety_{: .warn} about a future that has not yet happened.
 
-The objective consequences of this shift are a core part of the modern [mental health]({{ "/case-studies/health/mental-health/" | relative_url }}) crisis_{: .warn}:
+The objective consequences of this shift are a core part of the modern [mental health]({{ "/case-studies/health/mental-health/" | relative_url }}) _crisis_{: .warn}:
 
 - _Chronic "Time Scarcity":_{: .bullet} The pervasive feeling of never having enough time, of constantly being in a hurry, is a primary source of _modern stress_{: .warn}.
 

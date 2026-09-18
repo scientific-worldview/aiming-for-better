@@ -28,7 +28,7 @@ This case study will contrast these two approaches. The question is not whether 
 
 Let's set aside our modern legal system of courts, prisons, and sentencing guidelines. We start by asking: *How did our species evolve to handle wrongdoing?*
 
-In our ancestral, small-group environment, "justice" was a tool for group [survival]({{ "/glossary/" | relative_url }}#survival). It was not primarily about inflicting a penalty; it was about _restoring social harmony and ensuring future [cooperation]({{ "/glossary/" | relative_url }}#cooperation).
+In our ancestral, small-group environment, "justice" was a tool for group [survival]({{ "/glossary/" | relative_url }}#survival). It was not primarily about inflicting a penalty; it was about restoring social harmony and ensuring future [cooperation]({{ "/glossary/" | relative_url }}#cooperation).
 
 - _Reciprocity & Reputation:_{: .bullet} A member who _cheated_{: .warn} or harmed another would suffer a social cost—loss of trust, ostracism—which was a *devastating* consequence in a small band.
 

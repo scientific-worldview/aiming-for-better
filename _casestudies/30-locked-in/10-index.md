@@ -75,7 +75,7 @@ When a _locked-in_{: .neon} system is confronted with a rational, evidence-based
 
 _This is the ultimate defence mechanism._{: .subtle}
 
-It allows the system to _dismiss_{: .warn} any and all criticism without ever having to *confront the [uncomfortable facts]({{ "/glossary/" | relative_url }}#uncomfortable-truths).
+It allows the system to _dismiss_{: .warn} any and all criticism without ever having to *confront* the [uncomfortable facts]({{ "/glossary/" | relative_url }}#uncomfortable-truths).
 
 ---
 
