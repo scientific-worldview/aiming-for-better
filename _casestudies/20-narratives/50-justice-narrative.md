@@ -101,3 +101,13 @@ A [scientific worldview]({{ "/glossary/" | relative_url }}#scientific-worldview)
 _This is not a "soft on crime" approach. It is a "smart on crime" approach._{: .subtle}
 
 It is a commitment to replacing the politically charged narrative of "punishment" with the cold, hard, and ultimately more effective logic of _what the evidence shows will actually make us all safer_{: .mark}.
+
+### Useful Links
+
+[Howard League for Penal Reform](https://howardleague.org/){:target="_blank" rel="noopener"}
+
+[Prison Reform Trust](https://prisonreformtrust.org.uk/){:target="_blank" rel="noopener"}
+
+[Liberty](https://www.libertyhumanrights.org.uk/){:target="_blank" rel="noopener"}
+
+

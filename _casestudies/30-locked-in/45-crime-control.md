@@ -66,7 +66,7 @@ The **"tough on crime"** narrative has built a massive, self-sustaining _industr
 
 - _Supporting Industries:_{: .bullet} A vast network of businesses profits from the system: companies that provide food services to prisons, telephone services, electronic monitoring ankle-tags, and surveillance technology. They all have a _vested interest_{: .bold} in the continuation and expansion of the *carceral state*.
 
-An absence of "offenders" would mean the absence of a job._{: .mark}
+_An absence of "offenders" would mean the absence of a job._{: .mark}
 
 - _The Political Lock-In:_{: .bullet} *"Tough on crime"* is an easy and effective political [slogan]({{ "/glossary/" | relative_url }}#slogans). Politicians from both the Left and Right [fear]({{ "/glossary/" | relative_url }}#fear) being labeled *"soft on crime"*. This creates a _political ratchet effect_{: .bold}, where it is always _safer_{: .cool} to propose harsher penalties, even when the evidence shows they are _ineffective_{: .warn}.
 
@@ -92,21 +92,21 @@ When these reforms are proposed, the vested interests of the _punishment industr
 
 The modern **Punishment Industry**, with its vast bureaucracies and for-profit _motives_{: .warn}, is a profound [mismatch]({{ "/case-studies/mismatches/" | relative_url }}) with the way our species is [evolved]({{ "/guide/human-history/evolution/" | relative_url }}) to *manage anti-social* [behaviour]({{ "/guide/human-history/psychology/" | relative_url }}). The _lock-in_{: .neon} is powerful precisely because the industry it protects is so profoundly _unnatural_{: .warn}.
 
-- _The Mismatch of Interest (Community Survival vs. Industry Profit):_{: .bullet} For over 99.5% of our [history]({{ "/guide/human-history/" | relative_url }}), the _"vested interest"_{: .bold} in dealing with a wrongdoer was held by *the entire community*. The goal was to resolve the conflict, repair the harm, and restore the person to a productive role as quickly as possible, because every individual was valuable to [the group's]({{ "/case-studies/society/social-structures/the-clan/" | relative_url }}) [survival]({{ "/glossary/" | relative_url }}#survival). The Punishment Industry has *a completely different* vested interest: its own _profit and perpetuation_{: .warn}. It does not benefit when _crime is solved_{: .cool} or when an offender is _successfully reintegrated_{: .cool}. It benefits from a steady and predictable supply of **"criminals"** to process, police, imprison and "supervise". This is a direct, structural _conflict of interest_{: .warn} with the [wellbeing]({{ "/glossary/" | relative_url }}#wellbeing) of society_{: .cool}.
+- _The Mismatch of Interest (Community Survival vs. Industry Profit):_{: .bullet} For over 99.5% of our [history]({{ "/guide/human-history/" | relative_url }}), the _"vested interest"_{: .bold} in dealing with a wrongdoer was held by *the entire community*. The goal was to resolve the conflict, repair the harm, and restore the person to a productive role as quickly as possible, because every individual was valuable to [the group's]({{ "/case-studies/society/social-structures/the-clan/" | relative_url }}) [survival]({{ "/glossary/" | relative_url }}#survival). The Punishment Industry has *a completely different* vested interest: its own _profit and perpetuation_{: .warn}. It does not benefit when _crime is solved_{: .cool} or when an offender is _successfully reintegrated_{: .cool}. It benefits from a steady and predictable supply of **"criminals"** to process, police, imprison and "supervise". This is a direct, structural _conflict of interest_{: .warn} with the [wellbeing]({{ "/glossary/" | relative_url }}#wellbeing) of society.
 
 - _The Mismatch of Method (Social Sanction vs. Impersonal Caging):_{: .bullet} Our [brains]({{ "/case-studies/who-we-are/brain/" | relative_url }}) are designed to respond to _social sanctions_{: .bold}—gossip, [shame]({{ "/glossary/" | relative_url }}#shame), temporary ostracism. These tools are powerful because they threaten our deepest evolved need: _belonging_{: .mark}. The modern system replaces this nuanced, social process with the _crude_{: .warn}, _impersonal_{: .warn}, and biologically baffling act of caging a person in a concrete box for years, often surrounded by other anti-social individuals.
  
 _This method does not trigger our evolved mechanisms for remorse and reintegration; it often triggers our survival instincts for aggression and tribal loyalty (prison gangs)._{: .subtle}
 
-- _The Mismatch of Knowledge (Local vs. Bureaucratic):_{: .bullet} In our ancestral environment, the _"judges"_{: .bold} were the *community itself*, possessing deep, lifelong knowledge of the individuals involved. The modern Punishment Industry is a vast, [anonymous bureaucracy] that makes *life-altering decisions* based on [standardized]({{ "/glossary/" | relative_url }}#standardisation) reports, risk-assessment algorithms, and brief, formal interactions. It is a system that has an immense amount of data but almost _no real human knowledge_{: .warn}.
+- _The Mismatch of Knowledge (Local vs. Bureaucratic):_{: .bullet} In our ancestral environment, the _"judges"_{: .bold} were the *community itself*, possessing deep, lifelong knowledge of the individuals involved. The modern Punishment Industry is a vast, [anonymous bureaucracy]({{ "/case-studies/politics/bureaucratic-machine/" | relative_url }}) that makes *life-altering decisions* based on [standardized]({{ "/glossary/" | relative_url }}#standardisation) reports, risk-assessment algorithms, and brief, formal interactions. It is a system that has an immense amount of data but almost _no real human knowledge_{: .warn}.
 
-The entire **Punishment Industry** is a civilized construct designed to manage the problems of an anonymous mass society. But it has become *a [locked-in]({{ "/case-studies/locked-in/" | relative_url }}) system* that is fundamentally at odds with our [evolved psychology]({{ "/guide/human-history/psychology/" | relative_url }}) of justice, creating a _cycle of failure_{: .warn} that it then presents as the *justification* for its own expansion!
+The entire **Punishment Industry** is a civilized construct designed to manage the problems of an anonymous mass society. But it has become a [locked-in]({{ "/case-studies/locked-in/" | relative_url }}) system that is fundamentally at odds with our [evolved psychology]({{ "/guide/human-history/psychology/" | relative_url }}) of justice, creating a _cycle of failure_{: .warn} that it then presents as the *justification* for its own expansion!
 
 ---
 
 ## Conclusion: A Verdict on a Failed System
 
-The story of the _punishment industry_{: .bold} is a textbook case of a modern, bureaucratic lock-in_{: .neon}. It shows how a *plausible but flawed* narrative can create a massive institutional structure whose own self-preservation becomes a primary obstacle to [rational progress]({{ "/glossary/" | relative_url }}#rational).
+The story of the _punishment industry_{: .bold} is a textbook case of a modern, bureaucratic _lock-in_{: .neon}. It shows how a *plausible but flawed* narrative can create a massive institutional structure whose own self-preservation becomes a primary obstacle to [rational progress]({{ "/glossary/" | relative_url }}#rational).
 
 - _The System is Not Designed to Solve the Problem:_{: .bullet} The Punishment Industry is not designed to eliminate crime. It is designed to _manage crime_{: .warn} in a way that justifies its own continued existence and expansion.
 
@@ -117,3 +117,11 @@ The story of the _punishment industry_{: .bold} is a textbook case of a modern, 
 A _scientific worldview_{: .neon} demands we ask a simple question: **What is the goal?** If the goal is to build the largest and most expensive punishment system in the world, then the current model is a stunning success.
 
 But if the goal is to create _the safest possible society_{: .mark} in the most *cost-effective and humane way*, then the evidence is clear: the Punishment Industry is a catastrophic failure, and we must have *the courage to dismantle the lock-in* and build a system that is actually *designed to work*.
+
+### Useful Links
+
+[Howard League for Penal Reform](https://howardleague.org/){:target="_blank" rel="noopener"}
+
+[Prison Reform Trust](https://prisonreformtrust.org.uk/){:target="_blank" rel="noopener"}
+
+[Liberty](https://www.libertyhumanrights.org.uk/){:target="_blank" rel="noopener"}

@@ -44,7 +44,7 @@ The core claims of the Church's narrative (the existence of God, heaven, hell, t
 
 #### Objective vs. Intersubjective
 
-- _Objective:_{: .bullet} The fact that the Inquisition _tortured and executed_{: .warn} a specific individual, like Giordano Bruno, for his "heretical beliefs" is an [objective]({{ "/guide/first-principles/intersubjective/" | relative_url }}), historical event_{: .bold}.
+- _Objective:_{: .bullet} The fact that the Inquisition _tortured and executed_{: .warn} a specific individual, like Giordano Bruno, for his "heretical beliefs" is an [objective]({{ "/guide/first-principles/intersubjective/" | relative_url }}), _historical event_{: .bold}.
 
 - _Intersubjective:_{: .bullet} The Church's narrative that Bruno's soul was in *mortal peril* and that his execution was a just act to protect the spiritual purity of Christendom is a powerful [intersubjective]({{ "/guide/first-principles/intersubjective/" | relative_url }}) _belief_{: .bold}.
 
@@ -58,7 +58,7 @@ We must reject the Church's self-serving justification and look at the [evidence
 
 The Inquisition created a lock-in far more powerful than the Praetorians could have ever imagined. It controlled not just the body, but the mind.
 
-- _The Eradication of Dissent:_{: .bullet} The Inquisition's primary function was to hunt down and eliminate any thought that deviated from _official Church [doctrine]({{ "/glossary/" | relative_url }}#doctrine). This included other Christian sects (like the Cathars), suspected witches, and, crucially, early scientists whose findings *contradicted scripture*.
+- _The Eradication of Dissent:_{: .bullet} The Inquisition's primary function was to hunt down and eliminate any thought that deviated from official Church [doctrine]({{ "/glossary/" | relative_url }}#doctrine). This included other Christian sects (like the Cathars), suspected witches, and, crucially, early scientists whose findings *contradicted scripture*.
 
 - _The Tool of Torture:_{: .bullet} The Inquisition normalized the use of _systematic torture_{: .warn} to extract "confessions". This was not random brutality; it was a *bureaucratic process*. The goal was to force the heretic to admit their error and repent, thus validating the Church's authority, before they were punished.
 

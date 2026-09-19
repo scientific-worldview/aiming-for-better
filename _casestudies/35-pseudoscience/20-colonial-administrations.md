@@ -84,7 +84,7 @@ _It responded with brutal force, censorship, and political imprisonment, fightin
 
 ### Step 4: Reflect on Human History - The Great Mismatch
 
-The entire colonial project, justified by the _pseudoscience_{: .neon} of race, was a profound and violent [mismatch]({{ "/case-studies/mismatches/" | relative_url }}) on multiple levels, clashing with our _shared [human nature]({{ "/glossary/" | relative_url }}#human-nature).
+The entire colonial project, justified by the _pseudoscience_{: .neon} of race, was a profound and violent [mismatch]({{ "/case-studies/mismatches/" | relative_url }}) on multiple levels, clashing with our shared [human nature]({{ "/glossary/" | relative_url }}#human-nature).
 
 - _The Mismatch of Tribalism and Scale:_{: .bullet} Our [brains]({{ "/case-studies/who-we-are/brain/" | relative_url }}) [evolved]({{ "/guide/human-history/evolution/" | relative_url }}) with a powerful instinct for in-group loyalty and out-group suspicion, adapted for *small-group competition*. Colonialism took this ancient, primal instinct and scaled it up to a global, industrial level. The colonizers used this ["us vs. them"]({{ "/case-studies/us-vs-them/" | relative_url }}) wiring to _frame_{: .warn} the entire planet in terms of a superior "in-group" (themselves) and a vast, dehumanized "out-group" (the colonized). The pseudoscience of race was the narrative *invented* to justify this catastrophic scaling of our most primitive tribal instincts.
 
@@ -110,6 +110,6 @@ _It shows how even a seemingly benevolent narrative can serve a brutal purpose._
 
 - _The Lock-In Creates Its Own Reality:_{: .bullet} The colonial system actively _created the conditions that "proved" its own narrative_{: .mark}. By destroying local political structures, economies, and educational systems, it created a dependency that colonial administrators could then point to as *"proof"* that the native population was not "ready" for self-rule.
 
-The legacy of this lock-in is still with us today, in the arbitrary borders that plague post-colonial nations, in the economic inequalities that persist between the global North and South, and in the racist ideologies that were created to justify it. Even in 1994 it caused [mass slaughter]({{ "/case-studies/us-vs-them/race-vs-race/" | relative_url }}). It is *a permanent and devastating warning* of how a powerful narrative, when fused with economic and military power, can lock not just one nation, but the entire world, into _a system of profound [injustice]({{ "/glossary/" | relative_url }}#justice-and-injustice).
+The legacy of this lock-in is still with us today, in the arbitrary borders that plague post-colonial nations, in the economic inequalities that persist between the global North and South, and in the racist ideologies that were created to justify it. Even in 1994 it caused [mass slaughter]({{ "/case-studies/us-vs-them/race-vs-race/" | relative_url }}). It is *a permanent and devastating warning* of how a powerful narrative, when fused with economic and military power, can lock not just one nation, but the entire world, into *a system of profound* [injustice]({{ "/glossary/" | relative_url }}#justice-and-injustice).
 
 > *A system of profound injustice* is what you get if you are not prepared to **question relentlessly** and **dissent**.

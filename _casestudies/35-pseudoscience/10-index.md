@@ -48,7 +48,7 @@ This creates a powerful, *self-sealing system*. The "science" justifies the inst
 
 In the case studies that follow, we will examine this **Pseudoscience Lock-In** across different historical and modern contexts. We will explore:
 
-- _Colonial Administrations:_{: .bullet} How the _pseudoscience_{: .neon} of "scientific racism" was used to create racial [hierarchies]({{ "/glossary/" | relative_url }}#hierarchies) that *justified colonial rule and [exploitation]({{ "/glossary/" | relative_url }}#exploitation).
+- _Colonial Administrations:_{: .bullet} How the _pseudoscience_{: .neon} of "scientific racism" was used to create racial [hierarchies]({{ "/glossary/" | relative_url }}#hierarchies) that *justified colonial rule* and [exploitation]({{ "/glossary/" | relative_url }}#exploitation).
 
 - _The Eugenics Movement:_{: .bullet} How *flawed interpretations of genetics* were used to **"prove"** the inferiority of certain groups, leading to forced sterilisation and racist immigration [laws]({{ "/case-studies/law/theory/" | relative_url }}).
 

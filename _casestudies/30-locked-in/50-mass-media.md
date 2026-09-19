@@ -12,9 +12,9 @@ tags: [Fear, Evidence, Narratives, Biases, Lock-Ins, Rational, Bad News, Democra
 
 What is the purpose of the news media? The public narrative, the one taught in civics classes and proudly proclaimed by journalists themselves, is _a noble one_{: .bold}: to *inform the public*, to *hold [power]({{ "/case-studies/politics/governance/power/" | relative_url }}) to account*, and to be the _"Fourth Estate"_{: .cool}—a watchdog that guards [democracy]({{ "/case-studies/politics/democracy/" | relative_url }}).
 
-For much of the 20th century, this [narrative][]({{ "/case-studies/narratives/" | relative_url }}) had *a basis in reality*. A handful of trusted newspapers and broadcast networks did, at their best, strive for a degree of *objectivity and public service*. But in the 21st century, **this model has shattered**.
+For much of the 20th century, this [narrative]({{ "/case-studies/narratives/" | relative_url }}) had *a basis in reality*. A handful of trusted newspapers and broadcast networks did, at their best, strive for a degree of *objectivity and public service*. But in the 21st century, **this model has shattered**.
 
-The modern Mainstream Media Industry is no longer primarily in *the business of information*. It is in *the business of* [attention]({{ "/case-studies/politics/dysfunction/attention/" | relative_url }}). This has created a powerful bureaucratic and industrial _Lock-In_{: .neon}. The entire economic and professional structure of the modern media now has a profound **vested interest** in a [narrative]({{ "/case-studies/narratives/" | relative_url }}) that is fundamentally at odds with a _scientific worldview_{: .neon}: a narrative of *constant crisis*, *tribal conflict*, and *emotional [outrage]({{ "/case-studies/politics/political-dynamics/moral-outrage/" | relative_url }}).
+The modern Mainstream Media Industry is no longer primarily in *the business of information*. It is in *the business of* [attention]({{ "/case-studies/politics/dysfunction/attention/" | relative_url }}). This has created a powerful bureaucratic and industrial _Lock-In_{: .neon}. The entire economic and professional structure of the modern media now has a profound **vested interest** in a [narrative]({{ "/case-studies/narratives/" | relative_url }}) that is fundamentally at odds with a _scientific worldview_{: .neon}: a narrative of *constant crisis*, *tribal conflict*, and emotional [outrage]({{ "/case-studies/politics/political-dynamics/moral-outrage/" | relative_url }}).
 
 ![Media]({{ "/assets/images/casestudies/lock-ins/mmedia.webp" | relative_url }})
 
@@ -50,7 +50,7 @@ Yes, we can [test]({{ "/guide/first-principles/testability/" | relative_url }}) 
 
 #### Only EVIDENCE Matters
 
-We must reject the media's self-proclaimed status as "objective arbiters of truth" and look at the [evidence][]({{ "/guide/first-principles/evidence/" | relative_url }}) of their output. Does their product primarily consist of nuanced, evidence-based analysis, or emotionally charged, conflict-driven narratives? What do they prioritise, what do they ignore?
+We must reject the media's self-proclaimed status as "objective arbiters of truth" and look at the [evidence]({{ "/guide/first-principles/evidence/" | relative_url }}) of their output. Does their product primarily consist of nuanced, evidence-based analysis, or emotionally charged, conflict-driven narratives? What do they prioritise, what do they ignore?
 
 ---
 
