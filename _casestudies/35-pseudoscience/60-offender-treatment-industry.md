@@ -27,7 +27,7 @@ This case study will argue that this modern, so-called "scientific" approach to 
 
 The idea of "fixing" the criminal is not a new one. The methods have simply evolved alongside our dominant [intersubjective]({{ "/guide/first-principles/intersubjective/" | relative_url }}) [narratives]({{ "/case-studies/narratives/" | relative_url }}).
 
-- _The Religious Model (18th-19th Centuries):_{: .bullet} The first great wave of prison reform, driven by religious groups like the Quakers, was based on a [narrative]({{ "/case-studies/narratives/" | relative_url }}) of [sin]({{ "/glossary/" | relative_url }}#sin) and salvation_{: .bold}. The first "penitentiaries" (from the word "penitence") were designed for solitary confinement, silence, and Bible study. The goal was to force the _sinner_{: .bold} to confront their soul and achieve moral and religious _redemption_{: .cool}.
+- _The Religious Model (18th-19th Centuries):_{: .bullet} The first great wave of prison reform, driven by religious groups like the Quakers, was based on a [narrative]({{ "/case-studies/narratives/" | relative_url }}) of [sin]({{ "/glossary/" | relative_url }}#sin) and _salvation_{: .bold}. The first "penitentiaries" (from the word "penitence") were designed for solitary confinement, silence, and Bible study. The goal was to force the _sinner_{: .bold} to confront their soul and achieve moral and religious _redemption_{: .cool}.
 
 - _The Disciplinary Model (19th Century):_{: .bullet} The rise of the factory and the army created a new ideal: the disciplined, obedient individual. The prison was redesigned as a machine for _instilling discipline_{: .bold} through *rigid timetables*, *constant surveillance* (like Jeremy Bentham's "Panopticon"), and *repetitive labour*. The goal was to remold the _chaotic individual_{: .bold} into a compliant, productive _citizen_{: .cool}.
 
@@ -63,7 +63,7 @@ Let's set aside the therapeutic jargon and the official reports. We start with a
 
 #### Testability
 
-Yes, the effectiveness of these programmes is [highly testable]({{ "/guide/first-principles/testability/" | relative_url }}). We can—*and must*!—conduct rigourous, randomized controlled trials to compare the re-offending rates of offenders who complete a programme with a matched group who do not.
+Yes, the effectiveness of these programmes is [highly testable]({{ "/guide/first-principles/testability/" | relative_url }}). We can—*and must!*—conduct rigourous, randomized controlled trials to compare the re-offending rates of offenders who complete a programme with a matched group who do not.
 
 #### Objective vs. Intersubjective
 
@@ -121,11 +121,11 @@ The industry's solution is abstract, psychological intervention—group therapy,
 
 #### The Mismatch of Justice (Punishment vs. Restoration)
 
-As explored previously, our _evolved sense of [justice]({{ "/glossary/" | relative_url }}#justice-and-injustice) is deeply *social and restorative*.
+As explored previously, our _evolved_{: .bold} sense of [justice]({{ "/glossary/" | relative_url }}#justice-and-injustice) is deeply *social and restorative*.
 
 _Its goal is to repair the tear in the social fabric._{: .subtle}
 
-- _The Civilized Mismatch:_{: .bullet} The Offender Treatment Industry operates as an adjunct to a punitive, carceral system. It is a layer of *pseudoscientific gloss* applied to _the fundamentally unnatural act of caging a social primate in isolation_{: .mark}. The programmes are often delivered in a [coercive]({{ "/glossary/" | relative_url }}#coercion), artificial environment* that is completely _divorced_{: .warn} from the real-world _community_{: .bold} where the harm occurred and where the offender must eventually learn to live.
+- _The Civilized Mismatch:_{: .bullet} The Offender Treatment Industry operates as an adjunct to a punitive, carceral system. It is a layer of *pseudoscientific gloss* applied to _the fundamentally unnatural act of caging a social primate in isolation_{: .mark}. The programmes are often delivered in a [coercive]({{ "/glossary/" | relative_url }}#coercion), *artificial environment* that is completely _divorced_{: .warn} from the real-world _community_{: .bold} where the harm occurred and where the offender must eventually learn to live.
 
 ---
 

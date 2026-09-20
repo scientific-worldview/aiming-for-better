@@ -89,7 +89,7 @@ A _scientific worldview_{: .neon} does not require us to ridicule Plato. It requ
 
 - _Recognise the Metaphor:_{: .bullet} The Allegory of the Cave is still a powerful metaphor for the _human condition_{: .bold}—our struggle to move from _ignorance_{: .warn} and _illusion_{: .warn} to a clearer, more evidence-based understanding of the world. *We can and should use it as a literary tool.*
 
-- _Insist on the Boundary:_{: .bullet} We must, however, ruthlessly insist that it is _only a metaphor_{: .bold}. The moment it is treated as a literal map of reality, it becomes a dangerous piece of [dogma]({{ "/glossary/" | relative_url }}#dogma) that justifies authoritarianism and _devalues the only world we have any evidence for_{: .mark}: **this one**.
+- _Insist on the Boundary:_{: .bullet} We must, however, ruthlessly insist that it is _only a metaphor_{: .bold}. The moment it is treated as a literal map of reality, it becomes a dangerous piece of [dogma]({{ "/glossary/" | relative_url }}#dogma) that justifies authoritarianism and _devalues the only world we have any evidence for:_{: .mark} **this one**.
 
 Plato's great contribution was in teaching us the importance of asking "Why?".
 

@@ -31,10 +31,6 @@ _Let's separate the man from the monument._{: .subtle}
 
 - _The Idol ("The Philosopher"):_{: .bullet} For over 1,500 years after his death, Aristotle was known in Europe simply as “The Philosopher”. His writings, rediscovered and endorsed by medieval Islamic and Christian scholars, became deeply embedded within universities, theology, and natural philosophy, _giving his ideas an authority that shaped European thought for centuries_{: .mark}.
 
-#### Testability vs. Authority
-
-Aristotle's own method, at its best, was abeval Christian and Islamic scholars, were treated as _the final word_{: .bold} on almost every subject. His system became the _"unquestionable"_{: .warn} foundation of all knowledge.
-
 > We must analyse these two things separately: *the brilliant but fallible scientist, and the infallible idol he was turned into*.
 
 ---
@@ -43,7 +39,7 @@ Aristotle's own method, at its best, was abeval Christian and Islamic scholars, 
 
 #### Testability vs. Authority
 
-Aristotle's own method, at its best, was about _observation and [testing_{: .bold}. The]({{ "/guide/first-principles/testability/" | relative_url }}) Aristotelian dogma that followed was the opposite. It was a system of argument from authority. A proposition was considered true not because of [new evidence]({{ "/guide/first-principles/evidence/" | relative_url }}), but simply because Aristotle had said so. _This is the antithesis of the scientific method_{: .mark}.
+Aristotle's own method, at its best, was about observation and [testing]({{ "/guide/first-principles/testability/" | relative_url }}). The Aristotelian dogma that followed was the opposite. It was a system of argument from authority. A proposition was considered true not because of [new evidence]({{ "/guide/first-principles/evidence/" | relative_url }}), but simply because Aristotle had said so. _This is the antithesis of the scientific method_{: .mark}.
 
 #### Objective vs. Intersubjective
 

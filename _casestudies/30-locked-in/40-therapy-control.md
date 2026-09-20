@@ -116,6 +116,8 @@ We must stop pouring all of our resources into trying to **"fix"** millions of i
 
 _The goal is not to build a society where everyone is in therapy, but to build a society where fewer people need it._{: .subtle}
 
+**See Also:** [Therapy Culture]({{ "/guide/human-history/therapy-culture/" | relative_url }})
+
 ---
 
 _Note on "profound social isolation":_{: .subtle}

@@ -69,7 +69,7 @@ The state and the medical industry are [treating the symptoms]({{ "/case-studies
 
 - To separate _genuine_{: .cool}, _measurable_{: .bold} biological diseases (like Alzheimer's or schizophrenia) from the **pseudoscientific medicalisation** of [evolutionary mismatches]({{ "/case-studies/mismatches/" | relative_url }}).
 - To demand physical [evidence]({{ "/guide/first-principles/evidence/" | relative_url }}) before labeling a natural human behaviour as a "disorder."
-- To _stop_{: .warn} using **"clinical language"** to enforce [obedience]({{ "/glossary/" | relative_url }}#obedience) to *unnatural societal structures* and **socially constructed**[norms]({{ "/case-studies/society/sociology/norms/" | relative_url }}).
+- To _stop_{: .warn} using **"clinical language"** to enforce [obedience]({{ "/glossary/" | relative_url }}#obedience) to *unnatural societal structures* and **socially constructed** [norms]({{ "/case-studies/society/sociology/norms/" | relative_url }}).
 
 #### The Prevailing Narratives
 
@@ -91,7 +91,7 @@ If you have diabetes, a doctor can test your blood sugar. If you have cancer, a 
 
 In contrast, the vast majority of conditions in the DSM (Diagnostic and Statistical Manual) and the ICD (International Classification of Diseases) possess _zero_{: .warn} biological markers. There is no blood test for "Oppositional Defiant Disorder". There is no brain scan for "Major Depressive Disorder". 
 
-The DSM is, in many respects, _pseudoscientific bullshit_{: .warn}. It is a _catalogue_{: .bold} of *socially inconvenient behaviours* voted on by committees of psychiatrists. It medicalises grief by putting a time limit on mourning before it becomes a "disorder". It medicalises childhood by labeling a young boy's *biological need* to move and play as "ADHD," _demanding he be drugged so he can sit quietly in an artificial classroom_{: .mark}.
+The DSM is, in many respects, _pseudoscientific bullshit_{: .warn}. It is a _catalogue_{: .bold} of *socially inconvenient behaviours* voted on by committees of psychiatrists. It medicalises grief by putting a time limit on mourning before it becomes a "disorder". It medicalises childhood by [labeling]({{ "/glossary/" | relative_url }}#labeling) a young boy's *biological need* to move and play as "ADHD," _demanding he be drugged so he can sit quietly in an artificial classroom_{: .mark}.
 
 #### Objective vs. Intersubjective
 
@@ -118,7 +118,7 @@ Millions of people are **prescribed SSRIs** and heavy psychotropics to *numb the
 
 We place children with *developing brains* into **highly unnatural**, sedentary, high-stakes testing environments. When their biology rebels, we diagnose them with "disorders" and prescribe powerful amphetamines, actively stunting their [evolving capacity]({{ "/glossary/" | relative_url }}#evolving-capacity). Is this not [abuse and neglect]({{ "/case-studies/society/normal-living/neglect-and-abuse/" | relative_url }})?
 
-#### Erosion of Agency({{ "/case-studies/society/normal-living/neglect-and-abuse/" | relative_url }})
+#### Erosion of Agency
 
 By telling perfectly healthy humans that they have a **"broken brain"** or a "chemical imbalance", we strip them of their [empirical]({{ "/glossary/" | relative_url }}#empirical) reality. They stop trying to change their **toxic** _environment_{: .warn} because _they believe the defect lies within themselves_{: .mark}.
 
@@ -189,3 +189,5 @@ When an oncologist biopsies a tumour or a surgeon removes a burst appendix, they
 _We do not need to discard the laboratory; we need to protect it from pseudoscience._{: .subtle} 
 
 Achieving intellectual [emancipation]({{ "/glossary/" | relative_url }}#emancipation) means we must *fiercely celebrate* the brilliant scientists and doctors who cure actual biological diseases, while remaining **eternally vigilant** against _the institutions that attempt to pathologise the human condition_{: .mark}.
+
+We turn next to another shameful episode in the history of modern psychology; and it's an _industry_{: .warn} that _still endures_{: .mark}.

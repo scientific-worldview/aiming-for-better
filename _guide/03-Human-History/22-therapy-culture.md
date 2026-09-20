@@ -124,3 +124,5 @@ A _scientific and evidence-based approach_{: .mark} invites us to reimagine [men
 The goal is not to fix people to fit the system.
 
 > But to *examine the system itself*.
+
+**See Also:** [Therapy-Control Lock-In]({{ "/case-studies/locked-in/therapy-control/" | relative_url }})

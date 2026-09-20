@@ -14,11 +14,11 @@ In the 1980s and 1990s, *a dark and terrifying story gripped the Western world*.
 
 The _heroes_{: .bold} of this [narrative]({{ "/case-studies/narratives/" | relative_url }}) were [a new wave of therapists]({{ "/guide/human-history/therapy-culture/" | relative_url }}) who claimed to possess the *special techniques*—hypnosis, guided imagery, and suggestive questioning—needed to "recover" these lost memories and expose the truth.
 
-This was the _"Recovered Memory"_{: .bold} movement. It was not a _scientific breakthrough_{: .neon}; it was *a modern-day [witch-hunt]({{ "/glossary/" | relative_url }}#witch-trials). This case study will explore how a dangerous and completely [unscientific therapeutic model]({{ "/case-studies/locked-in/therapy-control/" | relative_url }}) created a devastating _Pseudoscience Lock-In_{: .bold}.
+This was the _"Recovered Memory"_{: .bold} movement. It was not a _scientific breakthrough_{: .neon}; it was *a modern-day* [witch-hunt]({{ "/glossary/" | relative_url }}#witch-trials). This case study will explore how a dangerous and completely [unscientific therapeutic model]({{ "/case-studies/locked-in/therapy-control/" | relative_url }}) created a devastating _Pseudoscience Lock-In_{: .bold}.
 
 ![Recovered Memories]({{ "/assets/images/casestudies/ps/rec-mem.webp" | relative_url }})
 
-> It demonstrates how *"a professional class"*, armed with *a powerful and unfalsifiable narrative*, can create a [moral panic]({{ "/case-studies/politics/dysfunction/moral-panics/" | relative_url }}) that destroys innocent lives, tears families apart, and results in _one of the most shameful episodes in the history of modern [psychology]({{ "/guide/human-history/psychology/" | relative_url }}).
+> It demonstrates how *"a professional class"*, armed with *a powerful and unfalsifiable narrative*, can create a [moral panic]({{ "/case-studies/politics/dysfunction/moral-panics/" | relative_url }}) that destroys innocent lives, tears families apart, and results in _one of the most shameful episodes in the history of modern_{: .mark} [psychology]({{ "/guide/human-history/psychology/" | relative_url }}).
 
 ---
 
@@ -62,7 +62,7 @@ _This is the definition of abandoning the [scientific method]({{ "/guide/first-p
 
 The Recovered Memory narrative created a powerful and toxic _lock-in_{: .neon}.
 
-- _The Therapeutic Vested Interest:_{: .bullet} A class of therapists built entire careers, wrote bestselling books, and became _famous "experts"_{: .bold} based on this model. Their professional and financial success was *entirely dependent* on the narrative being true. To question it was to threaten their livelihood and identity. (As we have explored, this incentive applies to many [secular priesthood]({{ "/guide/obstacles/secular-priesthood/" | relative_url }}) professionals: social workers, probation officers, and the offender treatment industry explored in the next page.)
+- _The Therapeutic Vested Interest:_{: .bullet} A class of therapists built entire careers, wrote bestselling books, and became _famous "experts"_{: .bold} based on this model. Their professional and financial success was *entirely dependent* on the narrative being true. To question it was to threaten their livelihood and identity. (As we have explored, this incentive applies to many [secular priesthood]({{ "/guide/obstacles/secular-priesthood/" | relative_url }}) professionals: social workers, probation officers, and the offender treatment industry explored in a later page.)
 
 - _The "Patient" as a [True Believer]({{ "/guide/obstacles/true-believers/" | relative_url }}):_{: .bullet} Once a client was convinced by their therapist that they were a _"survivor"_{: .bold}, they became deeply invested in the narrative. It provided a simple, powerful *explanation for all their life's problems*. To doubt the memories would be to plunge *back into confusion* and to betray the therapist who had *"saved" them*.
 
@@ -96,7 +96,7 @@ The "Recovered Memory" **hysteria** was not just a failure of therapeutic _ethic
 
   - _The Civilized Mismatch:_{: .bullet} The "Recovered Memory" movement took place in the most isolated and suggestible environment imaginable: the sealed, private room of a therapist's office. In this dyad, the therapist became the sole, trusted [authority]({{ "/glossary/" | relative_url }}#authority), validating and amplifying the client's emerging "memories" without _any_{: .warn} external, objective verification. This created a perfect feedback loop for the *creation* of elaborate, detailed, and entirely false narratives.
 
-The "Recovered Memory" movement was **a disease of a [civilisation]({{ "/glossary/" | relative_url }}#civilisations) that had *forgotten how its own mind works*. It took an intuitive but completely false, mechanistic model of memory and turned it into a _pseudoscientific_{: .bold} weapon, with *devastating consequences*. It was a catastrophic failure to understand that _our memory is not a machine for recording the past, but a storyteller for navigating the future._{: .mark}
+The "Recovered Memory" movement was **a disease of** [civilisation]({{ "/glossary/" | relative_url }}#civilisations) that had *forgotten how its own mind works*. It took an intuitive but completely false, mechanistic model of memory and turned it into a _pseudoscientific_{: .bold} weapon, with *devastating consequences*. It was a catastrophic failure to understand that _our memory is not a machine for recording the past, but a storyteller for navigating the future._{: .mark}
 
 ![Recovered Memories]({{ "/assets/images/casestudies/ps/hypnosis.webp" | relative_url }})
 
@@ -104,7 +104,7 @@ The "Recovered Memory" movement was **a disease of a [civilisation]({{ "/glossar
 
 ## Conclusion: A Verdict on the Danger of Unfalsifiable "Truths"
 
-The story of the Recovered Memory **hysteria** is a devastating modern example of a _Pseudoscience [Lock-In]({{ "/case-studies/locked-in/" | relative_url }}).
+The story of the Recovered Memory **hysteria** is a devastating modern example of a _Pseudoscience_{: .neon} [Lock-In]({{ "/case-studies/locked-in/" | relative_url }}).
 
 - _It Was Built on an Unfalsifiable Premise:_{: .bullet} The core of the system was a perfect, closed loop. If a patient didn't "recover" a memory, it was a sign of their _"denial"_{: .warn}. If a family denied the accusations, it was *"proof"* of their guilt and part of the cover-up. *There was no way to prove the narrative false.*
 
@@ -114,8 +114,6 @@ The story of the Recovered Memory **hysteria** is a devastating modern example o
 
 A true _scientific worldview_{: .neon} would have approached this with *extreme caution*. It would have demanded rigorous, external corroboration for any "recovered" memory. It would have acknowledged the profound unreliability of memory under suggestion. It would have prioritized the foundational legal principle of "innocent until proven guilty" over the _therapeutic narrative_{: .bold} of "believe the survivor, no matter what".
 
-The Recovered Memory movement is a permanent, painful reminder that _good intentions are not enough_{: .mark}. When a professional class, armed with a powerful and pseudoscientific narrative, **abandons the [principles]({{ "/guide/first-principles/" | relative_url }}) of *evidence*, *skepticism*, and *falsifiability*, the result is not healing.
+The Recovered Memory movement is a permanent, painful reminder that _good intentions are not enough_{: .mark}. When a professional class, armed with a powerful and pseudoscientific narrative, **abandons** the [principles]({{ "/guide/first-principles/" | relative_url }}) of *evidence*, *skepticism*, and *falsifiability*, the result is not healing.
 
 _It is a modern-day witch-hunt._{: .subtle}
-
-We turn next to another shameful episode in the history of modern psychology; and it's an _industry_{: .warn} that *still endures*.

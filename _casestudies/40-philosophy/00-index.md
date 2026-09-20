@@ -71,16 +71,16 @@ In the case studies and articles that follow, we will apply this evidence-based 
 
 - We will explore how brilliant but pre-scientific metaphors, like Plato's *World of Forms*, created a powerful but _misleading_{: .warn} "mind over matter" tradition in Western thought.
 
-- We will see how even the greatest [empirical]({{ "/glossary/" | relative_url }}#empirical) thinkers, like Aristotle, can be turned into tyrannical idols whose [authority]({{ "/glossary/" | relative_url }}#authority) is used to stifle scientific progress for centuries_{: .mark}.
+- We will see how even the greatest [empirical]({{ "/glossary/" | relative_url }}#empirical) thinkers, like Aristotle, can be turned into tyrannical idols whose [authority]({{ "/glossary/" | relative_url }}#authority) is used to _stifle scientific progress for centuries_{: .mark}.
 
 - We will dissect the Christian Synthesis, showing how geniuses like Augustine and Aquinas brilliantly fused Greek philosophy with [religious]({{ "/glossary/" | relative_url }}#religion) dogma to create a powerful, [locked-in]({{ "/case-studies/locked-in/" | relative_url }}) intellectual fortress.
 
-- We will follow Descartes as he attempts to [wipe the slate clean]{{ "/guide/clean-slate/" | relative_url }} with _radical doubt_{: .warn}, only to fall into the _Rationalist Trap_{: .bold} of trying to build reality from pure thought alone.
+- We will follow Descartes as he attempts to [wipe the slate clean]({{ "/guide/clean-slate/" | relative_url }}) with _radical doubt_{: .warn}, only to fall into the _Rationalist Trap_{: .bold} of trying to build reality from pure thought alone.
 
 - We will confront the devastating skepticism of David Hume, who demonstrated the logical limits of our knowledge, and explore the pragmatic, evidence-based leap that a _scientific worldview_{: .bold} must take to move forward.
 
-- Finally, we will dissect the modern debate between Popper and Kuhn to defend the concept of [objective]({{ "/guide/first-principles/intersubjective/" | relative_url }}) scientific progress** against its most sophisticated critics.
+- Finally, we will dissect the modern debate between Popper and Kuhn to defend the concept of [objective]({{ "/guide/first-principles/intersubjective/" | relative_url }}) scientific progress against its most sophisticated critics.
 
 The goal of this series is not to give you a new philosophy to believe in. It is to give you a toolkit for [thinking critically]({{ "/guide/" | relative_url }}) about all philosophies. It is to empower you to move beyond the ivory tower and to:
 
-> Use the best of human thought as *a practical guide* for living a more [rational]({{ "/glossary/" | relative_url }}#rational), evidence-based, and examined life*.
+> Use the best of human thought as *a practical guide* for living a more [rational]({{ "/glossary/" | relative_url }}#rational), evidence-based, and *examined life*.
