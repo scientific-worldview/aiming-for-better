@@ -70,7 +70,7 @@ _The result is a modern dependency model that is safer than historical alternati
 
 Let’s _discard the assumption_{: .warn} that children are best understood as *"passive dependents"* whose lives must be managed entirely by adults.
 
-From a _scientific standpoint_{: .neon}, children are **developing individuals with evolving capacities**, whose _autonomy_{: .cool}, competence, and social participation increase continuously with age. Any system governing childhood must be *judged against objective evidence* of children’s long-term [well-being]({{ "/glossary/" | relative_url }}#wellbeing), resilience, and integration into society.
+From a _scientific standpoint_{: .neon}, children are **developing individuals with evolving capacities**, whose _autonomy_{: .cool}, competence, and social participation increase continuously with age, rather than all at one at a ["magic midnight"]({{ "/case-studies/law/pragmatic/age-appropriate/" | relative_url }}). Any system governing childhood must be *judged against objective evidence* of children’s long-term [well-being]({{ "/glossary/" | relative_url }}#wellbeing), resilience, and integration into society.
 
 #### The Core Problem
 

@@ -68,11 +68,11 @@ Social structures are not mystical; their efficacy is [empirically testable]({{ 
 
 We must discard _nostalgic arguments_{: .bold} about ["traditional family values"]({{ "/case-studies/society/sociology/values/" | relative_url }}). The [evidence]({{ "/guide/first-principles/evidence/" | relative_url }}) clearly demonstrates that human resilience scales with connection. When we _isolate_{: .warn} the human animal, the social fabric frays. We must evaluate family structures based purely on their measurable output regarding _societal stability_{: .bold}, economic resilience, and [human flourishing]({{ "/glossary/" | relative_url }}#human-flourishing).
 
-### Step 3: Objective Consequences [of the Mismatch/Problem]
+### Step 3: Objective Consequences of the Mismatch
 
 When _the clan_{: .bold} is deleted from the social equation, the [objective]({{ "/guide/first-principles/intersubjective/" | relative_url }}) friction of the [evolutionary mismatch]({{ "/case-studies/mismatches/" | relative_url }}) becomes entirely *predictable*. By placing the total weight of human [survival]({{ "/glossary/" | relative_url }}#survival) onto the smallest possible load-bearing structure, [society]({{ "/case-studies/society/social-structures/" | relative_url }}) begins to fracture:
 
-- _The Evaporation of Redundancy:_{: .bullet} In a clan, a lost job, an illness, or a period of depression is *absorbed by the wider network*. In the modern _isolated_{: .warn} family, a single shock can trigger total systemic collapse, leading straight to [poverty]({{ "/glossary/" | relative_url }}#poverty) or homelessness*.
+- _The Evaporation of Redundancy:_{: .bullet} In a clan, a lost job, an illness, or a period of depression is *absorbed by the wider network*. In the modern _isolated_{: .warn} family, a single shock can trigger total systemic collapse, leading straight to [poverty]({{ "/glossary/" | relative_url }}#poverty) or homelessness.
 
 - _The Outsourcing of the Village:_{: .bullet} Because _the clan_{: .bold} no longer exists to provide [natural]({{ "/glossary/" | relative_url }}#natural) childcare, eldercare, or [education]({{ "/case-studies/society/social-structures/education/" | relative_url }}), these primal human functions have been _commodified_{: .warn}. Families must now purchase their "village" in the form of expensive daycares, nursing homes, and [therapists]({{ "/guide/human-history/therapy-culture/" | relative_url }}), *creating massive societal wealth traps*.
 

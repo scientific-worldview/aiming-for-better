@@ -24,13 +24,13 @@ By understanding the _adaptive functions_{: .bold} of our ancestral social behav
 
 ### The Problem: Evolved Humans in Unnatural Habitats
 
-The core problem addressed throughout this series is the pervasive and often unexamined disconnect between [Homo sapiens]({{ "/glossary/" | relative_url }}#modern-humans-homo-sapiens) (_an organism shaped by specific evolutionary pressures over millions of years_{: .mark}) and the _"[normal]({{ "/guide/human-history/natural-vs-normal/" | relative_url }})"_{: .warn} environments we have created for ourselves in the last few millennia, and especially in the last few centuries, indeed, *the last few decades*.
+The core problem addressed throughout this series is the pervasive and often unexamined disconnect between [Homo sapiens]({{ "/glossary/" | relative_url }}#modern-humans-homo-sapiens) (_an organism shaped by specific evolutionary pressures over millions of years_{: .mark}) and the "[normal]({{ "/guide/human-history/natural-vs-normal/" | relative_url }})" environments we have created for ourselves in the last few millennia, and especially in the last few centuries, indeed, *the last few decades*.
 
 - _The "Blank Slate Fallacy":_{: .bullet} A widespread _assumption_{: .warn} that human nature is infinitely pliable and that all behaviours are purely products of [culture]({{ "/glossary/" | relative_url }}#culture) and learning, ignoring genetic predispositions. _This leads to social systems designed without regard for fundamental human needs._{: .mark}
 
 - _The "Ancestral Mismatch":_{: .bullet} Our evolved psychology and physiology are largely adapted for life in small, [egalitarian]({{ "/glossary/" | relative_url }}#egalitarian), nomadic foraging bands. Modern life, with its dense populations, anonymity, sedentary lifestyles, and abstract social contracts, frequently creates "Mismatches" with these ancestral conditions.
 
-- _The "Systemic Lock-In":_{: .bullet} Many of our social structures—family units, legal systems, economic models, educational institutions—have *developed their own [inertia]({{ "/glossary/" | relative_url }}#inertia), becoming _deeply entrenched_{: .bold} and _resistant to change_{: .bold}, even when [objective]({{ "/guide/first-principles/intersubjective/" | relative_url }}) evidence demonstrates their _detrimental_{: .warn} effects. These **"Lock-Ins"** prevent adaptive change and progress.
+- _The "Systemic Lock-In":_{: .bullet} Many of our social structures—family units, legal systems, economic models, educational institutions—have *developed their own* [inertia]({{ "/glossary/" | relative_url }}#inertia), becoming _deeply entrenched_{: .bold} and _resistant to change_{: .bold}, even when [objective]({{ "/guide/first-principles/intersubjective/" | relative_url }}) evidence demonstrates their _detrimental_{: .warn} effects. These **"Lock-Ins"** prevent adaptive change and progress.
 
 These issues result in what we could term *"Mismatches of Human Habitat"*, where the very environments we inhabit clash with our evolved design, leading to measurable psychological distress, social fragmentation, and a diminished capacity for collective _flourishing_{: .cool}.
 
@@ -46,7 +46,7 @@ To address these profound challenges, we urgently need to apply a _scientific wo
 
 - _To Uncover "Lock-Ins":_{: .bullet} Expose the cultural [narratives]({{ "/case-studies/narratives/" | relative_url }}), economic incentives, vested interests and institutional inertia that _perpetuate suboptimal social structures despite clear evidence of their harm._{: .mark}
 
-- _To Encourage Objective Debate:_{: .bullet} Move beyond [ideological]({{ "/glossary/" | relative_url }}#ideology) or intuitive arguments about how [society]({{ "/case-studies/society/social-structures/" | relative_url }}) "should" be, grounding discussions in [empirical evidence]({{ "/guide/first-principles/evidence/" | relative_url }}) and _measurable outcomes_{: .bold} for human well-being*.
+- _To Encourage Objective Debate:_{: .bullet} Move beyond [ideological]({{ "/glossary/" | relative_url }}#ideology) or intuitive arguments about how [society]({{ "/case-studies/society/social-structures/" | relative_url }}) "should" be, grounding discussions in [empirical evidence]({{ "/guide/first-principles/evidence/" | relative_url }}) and _measurable outcomes_{: .bold} for human well-being.
 
 - _To Engineer for Flourishing:_{: .bullet} Use this scientific understanding _to propose and test alternative social designs that better align with our evolved human nature_{: .mark}, fostering resilience, [cooperation]({{ "/glossary/" | relative_url }}#cooperation), and widespread _flourishing_{: .cool}.
 

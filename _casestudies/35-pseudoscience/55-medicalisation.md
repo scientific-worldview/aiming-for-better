@@ -124,7 +124,7 @@ By telling perfectly healthy humans that they have a **"broken brain"** or a "ch
 
 This is the ultimate societal _gaslighting_{: .bold}:
 
-_convincing the canary that its inability to breathe is a genetic defect, rather than acknowledging the toxic gas in the coal mine._{: .subtle}
+_Convincing the canary that its inability to breathe is a genetic defect, rather than acknowledging the toxic gas in the coal mine._{: .subtle}
 
 ---
 

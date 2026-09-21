@@ -34,7 +34,7 @@ The question was not "Is Christianity true?" but "How can we use philosophy to d
 
 ### Part I: St. Augustine and the Baptism of Plato
 
-**St. Augustine (354-430 AD)** was a brilliant Roman intellectual trained in _classical philosophy_{: .bold}. His great achievement was to realise that the otherworldly philosophy of Plato and his followers (the Neo-Platonists) *provided the perfect intellectual scaffolding for Christian [doctrine]({{ "/glossary/" | relative_url }}#doctrine).
+**St. Augustine (354-430 AD)** was a brilliant Roman intellectual trained in _classical philosophy_{: .bold}. His great achievement was to realise that the otherworldly philosophy of Plato and his followers (the Neo-Platonists) *provided the perfect intellectual scaffolding* for Christian [doctrine]({{ "/glossary/" | relative_url }}#doctrine).
 
 #### The Fusion (Plato's Ideas ➔ Christian Dogma)
 
@@ -48,7 +48,7 @@ The question was not "Is Christianity true?" but "How can we use philosophy to d
 
 #### The Objective Consequence
 
-Augustine made Christianity intellectually formidable. But in doing so, he [locked]({{ "/case-studies/locked-in/" | relative_url }}) **Western thought** into a Platonic framework that was fundamentally _anti-physical_{: .bold} and [_anti-empirical_{: .bold}]({{ "/glossary/" | relative_url }}#empirical). The body *was now a prison*, the [natural]({{ "/glossary/" | relative_url }}#natural) world_{: .bold} a den of _temptation_{: .warn}, and true reality was "located elsewhere". This had *a profound and lasting chilling effect* on the _scientific study_{: .bold} of the material world and _created a legacy of sexual [shame]({{ "/glossary/" | relative_url }}#shame) that haunts Western [culture]({{ "/glossary/" | relative_url }}#culture) to this day_{: .mark}.
+Augustine made Christianity intellectually formidable. But in doing so, he [locked]({{ "/case-studies/locked-in/" | relative_url }}) **Western thought** into a Platonic framework that was fundamentally _anti-physical_{: .bold} and [_anti-empirical_{: .bold}]({{ "/glossary/" | relative_url }}#empirical). The body *was now a prison*, the [natural]({{ "/glossary/" | relative_url }}#natural) world a den of _temptation_{: .warn}, and true reality was "located elsewhere". This had *a profound and lasting chilling effect* on the _scientific study_{: .bold} of the material world and _created a legacy of sexual [shame]({{ "/glossary/" | relative_url }}#shame) that haunts Western [culture]({{ "/glossary/" | relative_url }}#culture) to this day_{: .mark}.
 
 ### Part II: St. Thomas Aquinas and the Taming of Aristotle
 

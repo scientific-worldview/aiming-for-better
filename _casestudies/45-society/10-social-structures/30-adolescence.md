@@ -51,7 +51,7 @@ Let's _discard_{: .warn} the [narrative]({{ "/case-studies/narratives/" | relati
 
 - Seek [autonomy]({{ "/glossary/" | relative_url }}#autonomy) and *meaningful contribution*  
 - Form peer bonds and social alliances  
-- Explore _identity_{: .bold} and [experiment]({{ "/glossary/" | relative_url }}#experiment) safely*  
+- Explore _identity_{: .bold} and [experiment]({{ "/glossary/" | relative_url }}#experiment) *safely*  
 - Learn complex social and practical _skills_{: .bold}  
 
 #### The Problem
@@ -107,7 +107,7 @@ Key [mismatches]({{ "/case-studies/mismatches/" | relative_url }}) between [evol
 - _Biological readiness vs. social opportunity:_{: .bullet} Adolescents are ready for _autonomy_{: .bold} but are socially _restricted_{: .warn}.  
 - _Purposeful contribution vs. passive roles:_{: .bullet} Opportunities for meaningful work are limited.  
 - _Gradual integration vs. abrupt thresholds:_{: .bullet} Modern *age cut-offs* replace traditional *rites of passage*.  
-- _Diverse mentorship vs. limited adult contact:_{: .bullet} Adolescents _lack exposure to multiple adult [role models]({{ "/glossary/" | relative_url }}#role-models).
+- _Diverse mentorship vs. limited adult contact:_{: .bullet} Adolescents *lack exposure* to multiple adult [role models]({{ "/glossary/" | relative_url }}#role-models).
 
 _Recognizing these mismatches highlights the need to design adolescent environments around purpose, autonomy, and integration._{: .subtle}
 
@@ -123,6 +123,6 @@ Adolescence is an _adaptive_{: .bold}, high-potential life stage, _not_{: .warn}
 - _Shift education toward life skills:_{: .bullet} Financial literacy, civic engagement, emotional intelligence, and [critical thinking]({{ "/guide/thinking-for-yourself/" | relative_url }}).  
 - _Support structured risk-taking:_{: .bullet} Safe environments for *exploration and challenge*.  
 - _Proactively address mental health:_{: .bullet} Integrate accessible, [evidence-based]({{ "/guide/first-principles/evidence/" | relative_url }}) support in schools and communities.  
-- _Gradual autonomy pathways:_{: .bullet} _Competency-based legal and social frameworks rather than abrupt age-based thresholds._{: .mark}
+- _Gradual autonomy pathways:_{: .bullet} _Competency-based legal and social frameworks rather than abrupt age-based thresholds._{: .mark}, as discussed in [Age Appropriate]({{ "/case-studies/law/pragmatic/age-appropriate/" | relative_url }}).
 
 > By engineering adolescent experiences *in line with their evolutionary blueprint*, we can foster **resilient, purposeful, and competent young adults**, strengthening both individual and societal [flourishing]({{ "/glossary/" | relative_url }}#human-flourishing).

@@ -128,7 +128,7 @@ To assess capability, the state would have to hand power back to local communiti
 
 #### Moral Panic
 
-The public has been _conditioned_{: .warn} to view any easing of chronological age restrictions as an inherent "danger to youth", _completely ignoring that the current system_{: .mark} **is** _the danger_{: .mark}.
+The public has been _conditioned_{: .warn} to view any easing of chronological age restrictions as an inherent "danger to youth", _completely ignoring that the current system_{: .mark} _is_{: .warn} _the danger_{: .mark}.
 
 ---
 

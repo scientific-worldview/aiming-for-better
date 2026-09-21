@@ -33,7 +33,7 @@ Human development follows a distinctive **life-history strategy**:
 - Heavy reliance on social input, _imitation_{: .bold}, and [play]({{ "/case-studies/mismatches/play/" | relative_url }})  
 - Dependence on adults *far beyond infancy*  
 
-This _strategy_{: .bold} only works under **one condition**: [children]({{ "/glossary/" | relative_url }}#role-of-children) must be supported by many caregivers, not just one or two_{: .mark}. Throughout most of our *evolutionary history*, this support came from _extended_{: .bold} kin networks and _communal_{: .bold} care systems — a pattern consistent with what we observe in other social [primate]({{ "/case-studies/who-we-are/primate-blueprint/" | relative_url }}) species.
+This _strategy_{: .bold} only works under **one condition**: [children]({{ "/glossary/" | relative_url }}#role-of-children) must be _supported by many caregivers, not just one or two_{: .mark}. Throughout most of our *evolutionary history*, this support came from _extended_{: .bold} kin networks and _communal_{: .bold} care systems — a pattern consistent with what we observe in other social [primate]({{ "/case-studies/who-we-are/primate-blueprint/" | relative_url }}) species.
 
 Extended childhood evolved alongside [alloparenting]({{ "/glossary/" | relative_url }}#alloparenting). **One does not function without the other**.
 
@@ -48,7 +48,7 @@ Extended childhood evolved alongside [alloparenting]({{ "/glossary/" | relative_
 - _Learning Through Play:_{: .bullet} Knowledge was acquired primarily through [unstructured play]({{ "/case-studies/mismatches/play/" | relative_url }}), observation, and *gradual participation* in adult life.
 - _Outcome:_{: .bullet} High learning efficiency, reduced parental strain, and rich developmental environments.
 
-Education in these societies was immersive, social, and experiential — not abstract or classroom-based, but no less sophisticated.__{: .subtle}
+_Education in these societies was immersive, social, and experiential — not abstract or classroom-based, but no less sophisticated.__{: .subtle}
 
 #### Agricultural Societies
 
@@ -105,7 +105,7 @@ Across methods and cultures, the findings are _consistent_{: .bold}: _children d
 
 #### Objective vs. Intersubjective
 
-- _Objective:_{: .bullet} Brain architecture, stress hormones, language acquisition, emotional [nm]({{ "/glossary/" | relative_url }}#regulation), long-term [mental health]({{ "/case-studies/health/mental-health/" | relative_url }})
+- _Objective:_{: .bullet} Brain architecture, stress hormones, language acquisition, emotional [regulation]({{ "/glossary/" | relative_url }}#regulation), long-term [mental health]({{ "/case-studies/health/mental-health/" | relative_url }})
 - _Intersubjective:_{: .bullet} Cultural ideas about [“good parenting”]({{ "/glossary/" | relative_url }}#intensive-parenting), success, discipline, and achievement
 
 Problems arise when [intersubjective]({{ "/guide/first-principles/intersubjective/" | relative_url }}) ideals _conflict_{: .warn} with objective outcomes — a recurring case of [Reality vs. Narrative]({{ "/case-studies/narratives/" | relative_url }}).
