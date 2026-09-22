@@ -60,7 +60,7 @@ They are quick to apply [labeling]({{ "/glossary/" | relative_url }}#labeling) t
 
 - Or whatever _label_{: .warn} is chosen by the secular priesthood, the mass (especially tabloid) media, and even unthinking Joe Public.
 
-Sociologists have long recognized that this [labeling]({{ "/glossary/" | relative_url }}#labeling) can lead to [deviance amplification]({{ "/glossary/" | relative_url }}#deviance-amplification)," where marginalised (often traumatised from childhood) individuals internalise the stigma. If they can label us, those of us who stand on the bedrock of [critical thinking]({{ "/guide/thinking-for-yourself/" | relative_url }}) and the [scientific method]({{ "/guide/first-principles/scientific-method/" | relative_url }}) have *every right to label them*.
+Sociologists have long recognized that this [labeling]({{ "/glossary/" | relative_url }}#labeling) can lead to "[deviance amplification]({{ "/glossary/" | relative_url }}#deviance-amplification)", where marginalised (often traumatised from childhood) individuals internalise the stigma. If they can label us, those of us who stand on the bedrock of [critical thinking]({{ "/guide/thinking-for-yourself/" | relative_url }}) and the [scientific method]({{ "/guide/first-principles/scientific-method/" | relative_url }}) have *every right to label them*.
 
 ---
 

@@ -28,7 +28,7 @@ This [mismatch]({{ "/case-studies/mismatches/" | relative_url }}) has *measurabl
 
 The way humans organise work has changed dramatically:
 
-#### Ancestral Foraging (Hunter-Gatherers):**
+#### Ancestral Foraging (Hunter-Gatherers):
 
 - _Broad Skills & Direct Contribution:_{: .bullet} Tasks included gathering, hunting, tool-making, childcare, and shelter-building. Most members could perform **many tasks**, and their *contributions were directly visible*.  
 
@@ -48,7 +48,7 @@ The way humans organise work has changed dramatically:
 
 #### Industrial Revolution
 
-- _Extreme Division of Labour:_{: .bullet} _Adam Smith_{: .neon}’s “pin factory” _illustrated_{: .bold} the new era of *narrow, repetitive tasks*.  
+- _Extreme Division of Labour:_{: .bullet} _Adam Smith's_{: .neon} “pin factory” _illustrated_{: .bold} the new era of *narrow, repetitive tasks*.  
 
 - _Loss of Autonomy:_{: .bullet} Factory workers had little control over pace or method, often performing small, disconnected parts of a larger process. Marx called this _“alienation”_{: .warn} — separation from the product, process, coworkers, and one’s own *sense of purpose*.  
 
@@ -115,7 +115,7 @@ The effects of _specialisation_{: .bold} and _autonomy_{: .cool} are measurable:
 #### Objective vs Intersubjective
 
 - _Objective:_{: .bullet} Job turnover, burnout, and productivity metrics.  
-- _Intersubjective:_{: .bullet} Feelings of _pride_{: .cool}, stress, or _alienation_{: .warn}; [_cultural narratives]({{ "/case-studies/narratives/" | relative_url }}) like “hard work pays off.” Scientific evaluation examines these narratives against measurable outcomes._{: .mark}
+- _Intersubjective:_{: .bullet} Feelings of _pride_{: .cool}, stress, or _alienation_{: .warn}; [cultural narratives]({{ "/case-studies/narratives/" | relative_url }}) like “hard work pays off.” _Scientific evaluation examines these narratives against measurable outcomes._{: .mark}
 
 ---
 

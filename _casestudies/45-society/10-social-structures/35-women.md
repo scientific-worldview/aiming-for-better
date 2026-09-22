@@ -43,7 +43,7 @@ From a _scientific perspective_{: .neon}, historical and widespread subordinatio
 
 #### Modern Post-Industrial Societies
 
-- _Legal & Educational Advances:_{: .bullet} Women gained *voting [rights]({{ "/case-studies/politics/governance/rights/" | relative_url }}), *property rights*, *reproductive autonomy*, and *workforce participation*.  
+- _Legal & Educational Advances:_{: .bullet} Women gained voting [rights]({{ "/case-studies/politics/governance/rights/" | relative_url }}), *property rights*, *reproductive autonomy*, and *workforce participation*.  
 - _Persistent Gaps:_{: .bullet} Pay gaps, leadership underrepresentation, and the "double burden" of work and home illustrate enduring "*Gender Role* [Mismatches]({{ "/case-studies/mismatches/" | relative_url }})".
 
 ---
@@ -101,7 +101,7 @@ _These mismatches hinder societal flourishing and individual potential._{: .subt
 
 Key mismatches highlight the _imperative_{: .bold} of *reclaiming egalitarianism*:
 
-- _Patriarchy vs. Cooperation:_{: .bullet} Concentrated male control _conflicts_{: .warn} with [evolved]({{ "/guide/human-history/evolution/" | relative_url }}) cooperative social structures*.  
+- _Patriarchy vs. Cooperation:_{: .bullet} Concentrated male control _conflicts_{: .warn} with [evolved]({{ "/guide/human-history/evolution/" | relative_url }}) cooperative *social structures*.  
 - _Confined Roles vs. Flexibility:_{: .bullet} Limiting women’s roles *undermines innovation and resilience*.  
 - _Power Imbalance vs. Shared Authority:_{: .bullet} Distributed leadership is *more adaptive than male-dominated hierarchies*.  
 - _Private Burden vs. Collective Responsibility:_{: .bullet} [Communal caregiving]({{ "/glossary/" | relative_url }}#alloparenting) *supports well-being and sustainability*.

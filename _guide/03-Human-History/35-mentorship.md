@@ -99,3 +99,5 @@ Formal schooling is _not_{: .warn} **inherently malevolent**—and the ability t
 However, a [scientific worldview]({{ "/glossary/" | relative_url }}#scientific-worldview) demands that we rethink knowledge transmission from the ground up. True education should not be about _breaking_{: .warn} a child's [autonomy]({{ "/glossary/" | relative_url }}#autonomy) to produce a better, more compliant worker. It should be guided by evolutionary insight and [hard evidence]({{ "/guide/first-principles/evidence/" | relative_url }}) of what actually fosters _human flourishing_{: .neon}. 
 
 We must dismantle the **assumption** that learning requires strict [coercion]({{ "/glossary/" | relative_url }}#coercion). By returning to the principles of _mentorship_{: .cool}—mutual *respect*, real-world *context*, and self-directed *exploration*—we can stop managing the symptoms of a broken system and start nurturing wiser, freer, more _capable_{: .bold} human beings.
+
+**See Also:** [Curricula or Curiosity?]({{ site.baseurl }}{% post_url 2026-09-05-Curiosity %})

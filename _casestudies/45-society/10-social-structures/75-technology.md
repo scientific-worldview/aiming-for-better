@@ -63,7 +63,7 @@ How does the accelerating pace and pervasive integration of modern technology cr
 #### The Required Reframing
 
 - Humans do not “adapt” biologically on technological timescales.
-- Design choices are never neutral; they *embed incentives and [values]({{ "/case-studies/society/sociology/values/" | relative_url }}).
+- Design choices are never neutral; they *embed incentives* and [values]({{ "/case-studies/society/sociology/values/" | relative_url }}).
 - Unchecked technology _exploits evolved vulnerabilities_{: .warn} rather than serving human needs.
 
 #### Prevailing Lock-In Narratives
@@ -102,7 +102,7 @@ Key questions include:
 
 - Which technological features reliably harm attention, attachment, and agency?
 - Which designs amplify tribalism, comparison, and manipulation?
-- Which interventions *measurably improve [well-being]({{ "/glossary/" | relative_url }}#wellbeing) rather than merely sounding ethical?
+- Which interventions *measurably improve* [well-being]({{ "/glossary/" | relative_url }}#wellbeing) rather than merely sounding ethical?
 
 ---
 

@@ -12,7 +12,7 @@ tags: [Inequality, Evidence, Cooperation, Fairness, Narratives, Natural, Evidenc
 
 ### Overview: An Evolutionary Paradox
 
-**Wealth & Inequality** are universal in modern societies, often _justified_{: .warn} by ideas like [meritocracy]({{ "/glossary/" | relative_url }}#meritocracy), individual effort, or the "invisible hand" of markets. The common argument is that some [inequality]({{ "/glossary/" | relative_url }}#inequality) is [natural]({{ "/guide/human-history/natural-vs-normal/" | relative_url }}) and even beneficial because it *motivates innovation* and *rewards talent*. This [narrative]({{ "/case-studies/narratives/" | relative_url }}) ignores that for most of [human history]({{ "/guide/human-history/" | relative_url }}), social [groups]({{ "/case-studies/society/social-structures/the-clan/" | relative_url }}) were relatively equal, and [humans evolved]({{ "/guide/human-history/evolution/" | relative_url }}) with **strong sensitivities** to _fairness_{: .cool} and [reciprocity]({{ "/glossary/" | relative_url }}#reciprocity). Extreme _inequality today triggers psychological stress and can destabilise communities_{: .mark}_ 
+**Wealth & Inequality** are universal in modern societies, often _justified_{: .warn} by ideas like [meritocracy]({{ "/glossary/" | relative_url }}#meritocracy), individual effort, or the "invisible hand" of markets. The common argument is that some [inequality]({{ "/glossary/" | relative_url }}#inequality) is [natural]({{ "/guide/human-history/natural-vs-normal/" | relative_url }}) and even beneficial because it *motivates innovation* and *rewards talent*. This [narrative]({{ "/case-studies/narratives/" | relative_url }}) ignores that for most of [human history]({{ "/guide/human-history/" | relative_url }}), social [groups]({{ "/case-studies/society/social-structures/the-clan/" | relative_url }}) were relatively equal, and [humans evolved]({{ "/guide/human-history/evolution/" | relative_url }}) with **strong sensitivities** to _fairness_{: .cool} and [reciprocity]({{ "/glossary/" | relative_url }}#reciprocity). Extreme _inequality today triggers psychological stress and can destabilise communities_{: .mark}.
 
 ![Wealth & Inequality]({{ "/assets/images/casestudies/society/wealth.webp" | relative_url }})
 
@@ -34,7 +34,7 @@ Inequality has evolved in different forms across human history:
 
 - _Sharing Norms:_{: .bullet} Resources were shared widely, fostering trust and cooperation. [Status]({{ "/case-studies/society/sociology/status/" | relative_url }}) often depended on generosity, skill, and social contribution, *not material possession*.
 
-- _Benefits:_{: .bullet} High cooperation, group resilience, and reduced internal conflict. *Social cohesion supported [survival]({{ "/glossary/" | relative_url }}#survival).
+- _Benefits:_{: .bullet} High cooperation, group resilience, and reduced internal conflict. *Social cohesion* supported [survival]({{ "/glossary/" | relative_url }}#survival).
 
 #### Agricultural Revolution (≈10,000 years ago)
 
@@ -48,7 +48,7 @@ Inequality has evolved in different forms across human history:
 
 #### Industrial Revolution
 
-- _Rapid Wealth Accumulation:_{: .bullet} _Industrialisation_{: .bold} created _vast fortunes_{: .warn} for factory owners, *while workers often faced [poverty]({{ "/glossary/" | relative_url }}#poverty).
+- _Rapid Wealth Accumulation:_{: .bullet} _Industrialisation_{: .bold} created _vast fortunes_{: .warn} for factory owners, while workers often faced [poverty]({{ "/glossary/" | relative_url }}#poverty).
 
 - _Middle Class Emergence:_{: .bullet} A growing middle class moderated extremes but *inequality remained high*.
 
@@ -72,7 +72,7 @@ We *cannot assume extreme inequality is [natural]({{ "/glossary/" | relative_url
 
 #### The Problem
 
-Modern wealth inequality clashes with humans’ psychological expectations of _fairness_{: .bold}, _reciprocity_{: .bold}, and _social cohesion_{: .bold}. It creates *social instability, reduced trust, and harms health and [well-being]({{ "/glossary/" | relative_url }}#wellbeing).
+Modern wealth inequality clashes with humans’ psychological expectations of _fairness_{: .bold}, _reciprocity_{: .bold}, and _social cohesion_{: .bold}. It creates **social instability**, *reduced trust*, and **harms health** and [well-being]({{ "/glossary/" | relative_url }}#wellbeing).
 
 #### The Stated Need
 
@@ -158,7 +158,7 @@ We must align economic and [social systems]({{ "/case-studies/politics/political
 
 - _Regulate Finance:_{: .bullet} *Limit speculative, non-productive wealth accumulation*.
 
-- _Support Early Development:_{: .bullet} High-quality early [education]({{ "/guide/human-history/mentorship/" | relative_url }}) and [nutrition]({{ "/case-studies/health/diet/" | relative_url }}) foster equal opportunity*.
+- _Support Early Development:_{: .bullet} High-quality early [education]({{ "/guide/human-history/mentorship/" | relative_url }}) and [nutrition]({{ "/case-studies/health/diet/" | relative_url }}) foster *equal opportunity*.
 
 - _Promote Economic Participation:_{: .bullet} Cooperatives and shared ownership *spread both profit and decision-making power*.
 

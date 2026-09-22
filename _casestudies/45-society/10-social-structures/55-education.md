@@ -32,7 +32,7 @@ Education has evolved alongside society, often reflecting _tensions_{: .warn} be
 
 - _Learning by Doing & Observation:_{: .bullet} [Children]({{ "/glossary/" | relative_url }}#role-of-children) *learned informally* through [play]({{ "/case-studies/mismatches/play/" | relative_url }}), _observation_{: .bold}, _imitation_{: .bold}, and direct _participation_{: .bold} alongside adults and peers ([Childhood & Early Development]({{ "/case-studies/society/social-structures/early-development/" | relative_url }})).
 
-- _Intrinsic Motivation & Relevance:_{: .bullet} Learning was *driven by curiosity* and *directly tied to [survival]({{ "/glossary/" | relative_url }}#survival)—tracking animals, identifying plants, making tools, and navigating social dynamics.
+- _Intrinsic Motivation & Relevance:_{: .bullet} Learning was *driven by curiosity* and *directly tied* to [survival]({{ "/glossary/" | relative_url }}#survival)—tracking animals, identifying plants, making tools, and navigating social dynamics.
 
 - _Social & Experiential:_{: .bullet} Learning *took place in multi-generational contexts*, emphasizing practical skills, social intelligence, and collaborative problem-solving.
 
@@ -193,3 +193,5 @@ Education should nurture curiosity, critical thinking, and lifelong learning, no
 - _Industrial Models Have Costs:_{: .bullet} Overemphasis on compliance and memorisation can reduce engagement, mental health, and practical skills.
 
 > *A [scientific, evidence-based approach]({{ "/guide/first-principles/scientific-method/" | relative_url }}) allows us to design education that aligns with humans’ cognitive strengths, cultivating adaptable, resilient, and curious learners capable of thriving in the 21st century.*
+
+**See Also:** [Curricula or Curiosity?]({{ site.baseurl }}{% post_url 2026-09-05-Curiosity %})

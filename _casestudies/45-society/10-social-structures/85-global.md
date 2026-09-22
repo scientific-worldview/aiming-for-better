@@ -49,7 +49,7 @@ _These traits were adaptive in small societies but scale poorly._{: .subtle}
 
 #### Early Civilisations and Expanding Identity
 
-Agriculture allowed larger populations and permanent settlements. Kingdoms and empires extended loyalty beyond kin groups by appealing to *shared myths, [religion]({{ "/glossary/" | relative_url }}#religion), or political [authority]({{ "/glossary/" | relative_url }}#authority). While these systems enabled cooperation at larger scales, they relied heavily on [hierarchy]({{ "/glossary/" | relative_url }}#hierarchies), [coercion]({{ "/glossary/" | relative_url }}#coercion), and simplified identities.
+Agriculture allowed larger populations and permanent settlements. Kingdoms and empires extended loyalty beyond kin groups by appealing to *shared myths*, [religion]({{ "/glossary/" | relative_url }}#religion), or political [authority]({{ "/glossary/" | relative_url }}#authority). While these systems enabled cooperation at larger scales, they relied heavily on [hierarchy]({{ "/glossary/" | relative_url }}#hierarchies), [coercion]({{ "/glossary/" | relative_url }}#coercion), and simplified identities.
 
 Conflict between groups remained common, and loyalty was still [framed]({{ "/glossary/" | relative_url }}#framing) as **“us versus them”**, just with larger **“us”** categories.
 
@@ -78,7 +78,7 @@ To understand global [society]({{ "/case-studies/society/social-structures/" | r
 
 Instead, we start from a simpler question:
 
-**What happens when instincts shaped for small, face-to-face groups are placed inside vast, abstract, and emotionally distant systems?**
+_What happens when instincts shaped for small, face-to-face groups are placed inside vast, abstract, and emotionally distant systems?_{: .subtle}
 
 ---
 
@@ -156,9 +156,9 @@ Human history reveals two equally important truths:
 Large-scale cooperation has historically emerged when:
 
 - Groups face *shared external threats*  
-- Institutions enforce *fair and predictable [rules]({{ "/glossary/" | relative_url }}#rules)  
+- Institutions enforce _fair_{: .cool} and *predictable* [rules]({{ "/glossary/" | relative_url }}#rules)  
 - Identities are *broadened rather than narrowed*  
-- Cooperation is rewarded and _defection_{: .warn} penalised  
+- Cooperation is _rewarded_{: .bold} and _defection_{: .warn} penalised  
 
 _The challenge today is not that global cooperation is impossible, but that we are attempting it without redesigning systems around human psychology._{: .subtle}
 

@@ -83,7 +83,7 @@ How do *lingering ideas that treat people as assets*, combined with modern econo
 #### The Prevailing Narratives
 
 - *"Freedom is already achieved in developed nations"*.
-- *"Children are naturally the 'property' of [parents]({{ "/glossary/" | relative_url }}#parental-ownership).
+- "Children are naturally the _'property'_{: .warn} of [parents]({{ "/glossary/" | relative_url }}#parental-ownership).
 - "Economic success guarantees freedom".
 - "Technological convenience enhances freedom".
 
@@ -154,7 +154,7 @@ These effects are not abstract. *They show up in health, innovation, stability, 
 
 ### Step 4: Reflect on Human History – Freedom Expands When Systems Change
 
-Across history, [emancipation]{{ "/glossary/" | relative_url }}#emancipation has *rarely arrived through moral insight alone*. It has expanded when institutions changed: when *laws shifted*, when *economic structures changed*, when *education became accessible*, when *power became contestable*, and when *people gained tools to resist control*.
+Across history, [emancipation]({{ "/glossary/" | relative_url }}#emancipation) has *rarely arrived through moral insight alone*. It has expanded when institutions changed: when *laws shifted*, when *economic structures changed*, when *education became accessible*, when *power became contestable*, and when *people gained tools to resist control*.
 
 Several recurring tensions appear:
 
@@ -197,4 +197,4 @@ True emancipation is not only about removing old constraints. It is also about p
 
 
 
-![Emancipation]({{ "/assets/images/casestudies/emancipation2.webp" | relative_url }})
+![Emancipation]({{ "/assets/images/casestudies/emancipation.webp" | relative_url }}) 

@@ -18,7 +18,7 @@ Male roles [evolved]({{ "/guide/human-history/evolution/" | relative_url }}) pri
 
 ![Men]({{ "/assets/images/casestudies/society/men.webp" | relative_url }})
 
-Historical shifts and persistent *rigid expectations* can lead to _negative_{: .warn} consequences for men, including *higher rates* of _suicide_{: .warn}, substance abuse, [mental health challenges]({{ "/case-studies/health/mental-health/" | relative_url }}), and *feelings of [aimlessness]({{ "/glossary/" | relative_url }}#aimlessness). By examining the evolutionary origins of male roles, societal transformations, and their real-world effects, we can *move beyond stereotypes* and identify ways to support men's _well-being_{: .bold} and _contribution_{: .bold} in the 21st century.
+Historical shifts and persistent *rigid expectations* can lead to _negative_{: .warn} consequences for men, including *higher rates* of _suicide_{: .warn}, substance abuse, [mental health challenges]({{ "/case-studies/health/mental-health/" | relative_url }}), and feelings of [aimlessness]({{ "/glossary/" | relative_url }}#aimlessness). By examining the evolutionary origins of male roles, societal transformations, and their real-world effects, we can *move beyond stereotypes* and identify ways to support men's _well-being_{: .bold} and _contribution_{: .bold} in the 21st century.
 
 ---
 
