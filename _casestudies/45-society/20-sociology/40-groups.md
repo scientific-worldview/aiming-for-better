@@ -28,15 +28,15 @@ The enduring power of groups, identity, and tribalism is a constant thread throu
 
 - _Ancestral Survival:_{: .bullet} In the Environment of Evolutionary Adaptedness (EEA), survival depended on belonging to a *cohesive in-group* for protection, resource sharing, and cooperative hunting/gathering. Out-groups, particularly those competing for scarce resources, were often perceived as threats, leading to a *strong adaptive advantage* for tribal loyalties and suspicion.
 
-- _The Rise of Agriculture & Civilisation:_{: .bullet} As groups grew larger with agriculture, tribal identities often scaled up, evolving into larger ethnic, [clan]({{ "/glossary/" | relative_url }}#the-clan), or national identities. The ability to unite disparate smaller groups under a shared, _superordinate identity_{: .bold} (often facilitated by shared narratives, myths, and religions – linking to "Myth vs. Myth") was crucial for building early states and empires.
+- _The Rise of Agriculture & Civilisation:_{: .bullet} As groups grew larger with agriculture, tribal identities often scaled up, evolving into larger ethnic, [clan]({{ "/glossary/" | relative_url }}#the-clan), or national identities. The ability to unite disparate smaller groups under a shared, _superordinate identity_{: .bold} (often facilitated by shared narratives, myths, and religions – linking to [Myth vs. Myth]({{ "/case-studies/us-vs-them/myth-vs-myth/" | relative_url }})) was crucial for building early states and empires.
 
 - _Feudalism & Colonialism:_{: .bullet} Medieval Europe's feudal system reinforced identities based on land, lord, and vassal. Colonial powers often [exploited]({{ "/glossary/" | relative_url }}#exploitation) existing tribal divisions or imposed new identities to **"divide and conquer"** colonized populations, demonstrating the *malleability and power* of identity construction for political gain.
 
-- _Nationalism:_{: .bullet} The 18th-20th centuries saw the potent rise of [nationalism]({{ "/glossary/" | relative_url }}#nationalism), a powerful form of tribalism scaled to the nation-state. Shared language, history, and cultural narratives created *strong in-group identities* that fueled both collective action and destructive world wars (linking to "Myth vs. Myth").
+- _Nationalism:_{: .bullet} The 18th-20th centuries saw the potent rise of [nationalism]({{ "/glossary/" | relative_url }}#nationalism), a powerful form of tribalism scaled to the nation-state. Shared language, history, and cultural narratives created *strong in-group identities* that fueled both collective action and destructive world wars (linking to [Myth vs. Myth]({{ "/case-studies/us-vs-them/myth-vs-myth/" | relative_url }})).
 
-- _Modern Political & Social Movements:_{: .bullet} Contemporary political movements, social [justice]({{ "/glossary/" | relative_url }}#justice-and-injustice) groups, and even online communities continue to rely on strong in-group identities, shared narratives, and often stark delineations between **"us"** and **"them"** to mobilise adherents and pursue collective goals. (linking to "Political Tribalism", "The Culture Wars").
+- _Modern Political & Social Movements:_{: .bullet} Contemporary political movements, social [justice]({{ "/glossary/" | relative_url }}#justice-and-injustice) groups, and even online communities continue to rely on strong in-group identities, shared narratives, and often stark delineations between **"us"** and **"them"** to mobilise adherents and pursue collective goals. (linking to [Political Tribalism]({{ "/case-studies/politics/political-dynamics/tribalism/" | relative_url }}), [The Culture Wars]({{ "/case-studies/politics/dysfunction/culture-wars/" | relative_url }})).
 
-- _Digital Age:_{: .bullet} The internet and social media have created new, often global, avenues for identity formation and tribal affiliation, accelerating the formation of both beneficial communities and deeply entrenched, polarized [echo chambers]({{ "/case-studies/politics/dysfunction/echo-chambers/" | relative_url }}) (linking to "Echo Chambers & Filter Bubbles").
+- _Digital Age:_{: .bullet} The internet and social media have created new, often global, avenues for identity formation and tribal affiliation, accelerating the formation of both beneficial communities and deeply entrenched, polarized [echo chambers]({{ "/case-studies/politics/dysfunction/echo-chambers/" | relative_url }}).
 
 This history reveals the pervasive, often adaptive, and frequently *destructive nature* of our deep-seated need to belong to groups and identify with our _tribe_{: .bold}.
 
@@ -68,7 +68,7 @@ Let’s discard the notion that tribalism is simply an unfortunate byproduct of 
 
   - _Just educating people will end prejudice:_{: .bullet} Overlooking the emotional and cognitive depth of tribal instincts.
 
-These narratives create an **"Idealistic Blindness Lock-In"** and reinforce the **"Blank Slate Mismatch"**, hindering a *truly scientific analysis* of group dynamics and intergroup relations.
+Ultimately, these popular stories make us _ignore reality_{: .warn} simply because *we want a perfect world*. They push the **false idea** that humans are born without any natural tribal instincts. By clinging to these _comforting myths_{: .bold}, we stop ourselves from looking at the hard, scientific facts about *how groups actually behave* and **why** [us-versus-them]({{ "/case-studies/us-vs-them/" | relative_url }}) conflicts really happen.
 
 ---
 
@@ -223,7 +223,7 @@ Historically, threats usually came from rival groups nearby. Today, major risks 
 
 - economic instability  
 
-_Treating these as tribe-versus-tribe conflicts reduces *effective coordination*._{: .subtle}
+_Treating these as tribe-versus-tribe conflicts reduces effective coordination._{: .subtle}
 
 #### Fixed Labels vs. Multiple Roles
 
