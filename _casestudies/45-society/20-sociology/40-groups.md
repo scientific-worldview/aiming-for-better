@@ -187,7 +187,7 @@ Certain beliefs become tied to identity and treated as sacred. When that happens
 
 - dialogue turns into moral confrontation  
 
-(Linking to “Myth vs. Myth”)
+([Myth vs. Myth]({{ "/case-studies/us-vs-them/myth-vs-myth/" | relative_url }}))
 
 **Overall consequence:**  
 
