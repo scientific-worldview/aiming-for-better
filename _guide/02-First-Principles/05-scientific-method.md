@@ -85,7 +85,7 @@ We’ve seen this play out again and again:
 
 > **Why does this happen?** Because policies are frequently shaped *not by facts*, but by [fear]({{ "/glossary/" | relative_url }}#fear), public image, self-interest, or _ideology_{: .warn}. 
 
-Institutions will actively *suppress* [uncomfortable truths]({{ "/glossary/" | relative_url }}#uncomfortable-truths) if those truths cost them votes, money, or influence. Furthermore, many political decision-makers are trained purely in [_the humanities_{: .bold}]({{ "/articles/science/two-cultures/" | relative_url }}) and have very *little understanding of science*—a dangerous disconnect famously known as [→ The Two Cultures]({{ "/articles/science/two-cultures/" | relative_url }}).
+Institutions will actively *suppress* [uncomfortable truths]({{ "/glossary/" | relative_url }}#uncomfortable-truths) if those truths cost them votes, money, or influence. Furthermore, many political decision-makers are trained purely in _the humanities_ and have very *little understanding of science*—a dangerous disconnect famously known as [→ The Two Cultures]({{ "/articles/science/two-cultures/" | relative_url }}).
 
 The consequences? Preventable deaths, *misinformed* [laws]({{ "/case-studies/law/theory/" | relative_url }}), environmental damage, and a public left completely confused about who to trust. 
 

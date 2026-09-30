@@ -37,13 +37,13 @@ Before sentencing, courts rely on pre-sentence reports written by probation offi
 
 But stripped of its authority, much of this is simply humanities-based rhetoric and sophistry. It is pseudoscience masquerading as empirical fact. These professionals frequently project their own biases onto the offender. Many enter the criminal justice system because they were victims themselves, or knew victims, leading to a highly adversarial, even hostile, approach to the people they are supposed to be objectively assessing. 
 
-They do not genuinely care if an offence was a terrible mistake committed in the throes of addiction, an epigenetic trauma response, or a genuine display of anti-social character. They exist to process human beings through the bureaucracy of the Offender Treatment Industry.
+They do not genuinely care if an offence was a terrible mistake committed in the throes of addiction, an epigenetic trauma response, or a genuine display of anti-social character. They exist to process human beings through the bureaucracy of the [Offender Treatment Industry]({{ "/case-studies/pseudoscience/offender-treatment-industry/" | relative_url }}).
 
 ### The Biological Baseline: Dunbar’s Justice
 
 Is the idea of communal justice just a romantic vision? No. It is the evidence-based baseline of our species.
 
-For over 95% of human history, humans lived in groups of roughly 150 individuals [Dunbar's number]({{ "/glossary/" | relative_url }}#dunbars-number). In these clans, justice was not administered by strangers. It was arbitrated by the community who actually knew the person. If someone offended, the community had the entire context of that person's life. They knew if the offender's parents were neglectful. They knew if the offender was grieving, addicted, or unwell. 
+For over 99.5% of human history, humans lived in groups of roughly 150 individuals [Dunbar's number]({{ "/glossary/" | relative_url }}#dunbars-number). In these clans, justice was not administered by strangers. It was arbitrated by the community who actually knew the person. If someone offended, the community had the entire context of that person's life. They knew if the offender's parents were neglectful. They knew if the offender was grieving, addicted, or unwell. 
 
 Because the community actually had a stake in the offender's future, the goal was almost always *restitution*, not retribution. A community has members who will fiercely advocate for the offender, and members who will advocate for the victim. Together, they arbitrate a fair outcome designed to put things right and reintegrate the individual.
 

@@ -10,7 +10,7 @@ permalink: "/guide/human-history/learning-difficulties/"
 
 ### Overview
 
-The modern world diagnoses growing numbers of [children]({{ "/glossary/" | relative_url }}#role-of-children) with [learning difficulties]({{ "/glossary/" | relative_url }}#learning-difficulties)”. Labels like **ADHD**, [dyslexia]({{ "/glossary/" | relative_url }}#dyslexia), and **autism spectrum disorder** are now part of the everyday educational landscape.
+The modern world diagnoses growing numbers of [children]({{ "/glossary/" | relative_url }}#role-of-children) with "[learning difficulties]({{ "/glossary/" | relative_url }}#learning-difficulties)”. Labels like **ADHD**, [dyslexia]({{ "/glossary/" | relative_url }}#dyslexia), and **autism spectrum disorder** are now part of the everyday educational landscape.
 
 But what if some of these [learning difficulties]({{ "/glossary/" | relative_url }}#learning-difficulties) are not signs of "pathology"—but signs of [mismatch]({{ "/case-studies/mismatches/" | relative_url }})?
 
