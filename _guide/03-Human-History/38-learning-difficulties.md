@@ -136,6 +136,6 @@ Instead of asking, **“What’s wrong with this child?”**, should we ask, *�
 
 A _scientific worldview_{: .bold} pushes us to see difference (rather than impairment) not as defect—but as a signal that _something deeper needs to change_{: .mark}.
 
-This project rejects the [medicalisation]({{ "/glossary/" | relative_url }}#medicalisation) of _natural diversity_{: .bold}. "Treatment" should only ever be for **genuine"" cognitive impairment, and even then it must be credible and evidence-based.
+This project rejects the [medicalisation]({{ "/glossary/" | relative_url }}#medicalisation) of _natural diversity_{: .bold}. "Treatment" should only ever be for *genuine* cognitive impairment, and even then it must be credible and evidence-based.
 
 Every diverse child should be able to say (or sing!): _"I am what I am, I am my own special creation"._{: .mark}

@@ -16,7 +16,7 @@ This was the description we gave of the **Praetorian Guard** as we reflected on 
 
 But much more "benign" institutions can still become _parasitic_{: .warn}. Throughout our exploration of "_Lock-Ins_{: .neon}", a persistent and often unexamined dynamic has emerged: the *inherent tendency of institutions to **perpetuate themselves***. This isn't always a conscious conspiracy, but a powerful, almost biological, drive for organizational _survival_{: .bold} that can subtly *shape priorities*, *distort information*, and create profound [inertia]({{ "/glossary/" | relative_url }}#inertia), often _at the expense of addressing the root problems they were created to solve_{: .mark}.
 
-Every institution comes into being to manage a perceived problem or meet a specific need. Its members, often genuinely dedicated, derive their *livelihood*, [status]({{ "/case-studies/society/sociology/status/" | relative_url }}), and *sense of purpose* from this _"mission"_{: .cool}. This creates an powerful dynamic:
+Every institution comes into being to manage a perceived problem or meet a specific need. Its members, often genuinely dedicated, derive their *livelihood*, [status]({{ "/case-studies/society/sociology/status/" | relative_url }}), and *sense of purpose* from this _"mission"_{: .cool}. This creates a powerful dynamic:
 
 _The institution's continued existence becomes inextricably linked to the ongoing relevance of the problem it manages._{: .subtle}
 

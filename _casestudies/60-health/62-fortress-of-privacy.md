@@ -16,7 +16,7 @@ In modern society, the ultimate marker of success is a large, detached home surr
 
 We view this structure as the natural pinnacle of comfortable living. But this _architectural model_{: .bold} is not natural; it is a profound [Evolutionary Mismatch]({{ "/case-studies/mismatches/" | relative_url }}). By engineering our physical environments for maximum isolation, we have stripped away the *passive, ambient socialization* that human [biology]({{ "/glossary/" | relative_url }}#biology) relies upon to regulate the nervous system. 
 
-![The Fortress of Privacy]({{ "/assets/images/casestudies/society/fortress-privacy.webp" | relative_url }})
+![The Fortress of Privacy]({{ "/assets/images/casestudies/health/fortress-privacy.webp" | relative_url }})
 
 The resulting [modern loneliness epidemic]({{ "/case-studies/society/social-structures/community-and-anonymity/" | relative_url }}) is rarely a failure of individual social skills; it is an _architectural certainty_{: .warn}. We mistake the very *natural desire* for a quiet room with an *unnatural demand* to be completely walled off from [the tribe]({{ "/case-studies/society/social-structures/the-clan/" | relative_url }}). In our pursuit of the "private castle", _we have accidentally built millions of comfortable solitary confinement cells_{: .mark}.
 
