@@ -30,7 +30,7 @@ Philosophers have grappled with power for millennia:
 
 #### Enlightenment and Modernity
 
-Thinkers like Hobbes, Locke, and Rousseau (as discussed in [The Social Contract]({{ "/case-studies/politics/governance/social-contract/" | relative_url }})) *focused on how to legitimate power and establish authority*. They sought to constrain absolute power through [law]({{ "/case-studies/law/theory/" | relative_url }}) and consent. Karl Marx viewed power primarily through an economic lens, *seeing it as the tool of the ruling class to _oppress_{: .warn} the proletariat*.
+Thinkers like Hobbes, Locke, and Rousseau (as discussed in [The Social Contract]({{ "/case-studies/politics/governance/social-contract/" | relative_url }})) *focused on how to legitimate power and establish authority*. They sought to constrain absolute power through [law]({{ "/case-studies/law/theory/" | relative_url }}) and consent. Karl Marx viewed power primarily through an economic lens, *seeing it as the tool of the ruling class* to _oppress_{: .warn} the proletariat*.
 
 #### 20th Century and Beyond
 
@@ -50,7 +50,7 @@ Let’s shed the abstract theories and consider power from a blank slate, observ
 
 #### The Problem
 
-In any group of social animals, *individuals will compete* for resources, mates, and influence. *This competition inevitably leads to some individuals having greater sway over others.*
+In any group of social animals, *individuals will compete* for resources, mates, and influence. _This competition inevitably leads to some individuals having greater sway over others._{: .mark}
 
 #### The Stated Need
 
@@ -120,7 +120,7 @@ Once established, _power structures tend to become self-perpetuating_{: .mark}. 
 
 #### The Illusion of Legitimacy
 
-As Foucault argued, power often works most effectively not through brute force, but by shaping our desires, beliefs, and behaviours such that we willingly comply. We **internalise** the [norms]({{ "/case-studies/society/sociology/norms/" | relative_url }}) and [values]({{ "/case-studies/society/sociology/values/" | relative_url }}) of the dominant power structure, *making its exercise seem [mn]({{ "/glossary/" | relative_url }}#natural) and legitimate*.
+As Foucault argued, power often works most effectively not through brute force, but by shaping our desires, beliefs, and behaviours such that we willingly comply. We **internalise** the [norms]({{ "/case-studies/society/sociology/norms/" | relative_url }}) and [values]({{ "/case-studies/society/sociology/values/" | relative_url }}) of the dominant power structure, making its exercise *seem* [natural]({{ "/glossary/" | relative_url }}#natural) and legitimate.
 
 _This leads to a "behaviour-control" lock-in where individuals self-regulate according to the dictates of power._{: .subtle}
 

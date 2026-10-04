@@ -40,20 +40,15 @@ The overarching goal of this '"Normal" Living' series is to:
 
 Ultimately, we aim to strip away the cultural [normalisation]({{ "/glossary/" | relative_url }}#normalisation) of these _high-risk_{: .warn} _social experiments_{: .bold}. By _understanding_{: .cool} what *our biology actually requires*, we can stop measuring [well-being]({{ "/glossary/" | relative_url }}#wellbeing) by **arbitrary** social [consensus]({{ "/glossary/" | relative_url }}#consensus) and start building systems designed for *genuine* [human flourishing]({{ "/glossary/" | relative_url }}#human-flourishing).
 
+---
 
-In this '"Normal" Living' series, we will dissect the foundational structures of modern domestic life:
-
-- The Nuclear Family: An Experiment We Never Agreed To
-
-- Redefining Neglect and Abuse: Are we measuring harm by scientific evidence, or by social convention?
-- 
 ### What Follows
 
 In this '"Normal" Living' series, we will dissect the foundational structures of modern domestic life:
 
+- _Marriage_{: .bullet} Why Modern Marriage Fails
 - _The Nuclear Family:_{: .bullet} An Experiment We Never Agreed To
 - _Redefining Neglect and Abuse:_{: .bullet} Are we measuring harm by scientific evidence, or by social convention?
-- _Marriage_{: .bullet}
 - _School:_{: .bullet} A Place for Learning or a Factory for Conformity?
 - _The Productivity Trap_{: .bullet}
 - _The 8-Hour Sleep:_{: .bullet} How Industrialisation Pathologised the Human Night

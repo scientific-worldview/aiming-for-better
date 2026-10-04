@@ -51,9 +51,9 @@ We justify the modern treadmill using deeply entrenched intersubjective stories:
 - _The Moral Virtue of the Grind:_{: .bullet} The belief that human beings are naturally lazy and must be disciplined by a 9-to-5 schedule to contribute to society.
 - _Time Equals Value:_{: .bullet} The assumption that sitting at a desk for 40 hours a week inherently produces more value than focused, task-driven bursts of effort.
 - _Retirement as the Ultimate Reward:_{: .bullet} The illusion that decades of exhaustion are justified by a "golden" period at the end of life, ignoring that humans require purpose and social utility at *every* stage of development.
-- _Elders as a Burden:_{: .bullet} The cultural framing that older individuals are economically useless and should step aside into specialized leisure communities (or care facilities).
+- _Elders as a Burden:_{: .bullet} The cultural framing that older individuals are economically useless and should step aside into specialised leisure communities (or care facilities).
 
-_When we hold these myths up to our biological reality, we realize the 40-hour week and the retirement cliff are not human achievements—they are systemic forms of structural [Lock-In]({{ "/case-studies/locked-in/" | relative_url }})._{: .subtle}
+_When we hold these myths up to our biological reality, we realize the 40-hour week and the retirement cliff are not human achievements—they are systemic forms of structural [Lock-In]({{ "/case-studies/locked-in/" | relative_url }})._{: .subtle}...perhapsd even [neglect and abuse]({{ "/case-studies/society/normal-living/neglect-and-abuse" | relative_url }})
 
 ---
 
@@ -83,7 +83,7 @@ Where cultural norms demand constant productivity, [evidence]({{ "/guide/first-p
 By forcing human biology into industrial timelines, we generate predictable, *systemic harms*:
 
 - _The Burnout Epidemic:_{: .bullet} Operating a "pulse-driven" primate on a continuous treadmill creates widespread neurological exhaustion. We treat burnout as a personal failure of resilience or time-management, rather than a _structural certainty_{: .warn} of the modern workweek.
-- _The "Retirement Cliff":_{: .bullet} Abruptly severing an individual from their routine, social network, and sense of utility triggers a devastating loss of identity. We pathologize the resulting depression instead of recognizing the structural deprivation of _purpose_{: .bold}.
+- _The "Retirement Cliff":_{: .bullet} Abruptly severing an individual from their routine, social network, and sense of utility triggers a devastating loss of identity. We pathologise the resulting depression instead of recognising the structural deprivation of _purpose_{: .bold}.
 - _Erosion of Intergenerational Value:_{: .bullet} By pushing elders out of the active social and economic sphere, we rob society of their synthesized wisdom and patience, while simultaneously isolating the nuclear family from vital alloparenting support.
 - _The Deferral of Life:_{: .bullet} The current model demands that we sacrifice our peak physical years to the grind, deferring autonomy, leisure, and genuine living until a culturally sanctioned age when our health is already beginning to fail.
 

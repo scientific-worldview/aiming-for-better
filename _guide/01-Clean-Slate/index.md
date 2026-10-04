@@ -69,7 +69,7 @@ If your life (or something equally important) depended on it, you'd have to set 
 
 - _Religious beliefs and dogma_{: .bullet} – [sacred]({{ "/glossary/" | relative_url }}#sacred) texts, divine authority, supernatural claims
 - _Cultural conditioning_{: .bullet} – *upbringing*, customs, community *values*
-- _Political bias_{: .bullet} – party loyalty, [ideological]({{ "/glossary/" | relative_url }}#ideology) spin, winning votes, *staying in [power]({{ "/case-studies/politics/governance/power/" | relative_url }})
+- _Political bias_{: .bullet} – party loyalty, [ideological]({{ "/glossary/" | relative_url }}#ideology) spin, winning votes, staying in [power]({{ "/case-studies/politics/governance/power/" | relative_url }})
 - _Nationalism or patriotism_{: .bullet} – prioritizing one's country over [objective]({{ "/guide/first-principles/intersubjective/" | relative_url }}) [facts]({{ "/guide/first-principles/correct-answers/" | relative_url }})
 - _Legal frameworks_{: .bullet} – outdated, unjust or politically correct [laws]({{ "/case-studies/law/theory/" | relative_url }})
 - _Career interests_{: .bullet} – career stability, *job security*, industry [norms]({{ "/case-studies/society/sociology/norms/" | relative_url }})

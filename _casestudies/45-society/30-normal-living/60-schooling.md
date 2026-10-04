@@ -14,7 +14,7 @@ But this progress has come at a cost. The system we've built, *while powerful*, 
 
 ![Conformity Factory]({{ "/assets/images/casestudies/society/conformity-factory.webp" | relative_url }})
 
-This case study will **not** argue for a return to a pre-literate world. Instead, it will ask *a crucial question*: Have we designed the _best possible syste_{: .cool}m for fostering _curiosity, [critical thinking]({{ "/guide/thinking-for-yourself/" | relative_url }}), and _lifelong learning_{: .bold}, or have we created a _factory_{: .warn} for *producing* **compliant workers**, accidentally _sacrificing the very things we claim to value?_{: .mark}
+This case study will **not** argue for a return to a pre-literate world. Instead, it will ask *a crucial question*: Have we designed the _best possible system_{: .cool} for fostering _curiosity_{: .cool}, [critical thinking]({{ "/guide/thinking-for-yourself/" | relative_url }}), and _lifelong learning_{: .cool}, or have we created a _factory_{: .warn} for *producing* **compliant workers**, accidentally _sacrificing the very things we claim to value?_{: .mark}
 
 ---
 
@@ -42,7 +42,7 @@ _The history of schooling is the history of elites designing systems to produce 
 
 ### Step 1: Wipe the Slate Clean
 
-Let's set aside the familiar image of desks in rows, [standardized]({{ "/glossary/" | relative_url }}#standardisation) tests, age-segregated classrooms and compulsory attendance. Let's discard the assumption that this is the only or best way to educate a human being.
+Let's set aside the familiar image of desks in rows, [standardised]({{ "/glossary/" | relative_url }}#standardisation) tests, age-segregated classrooms and compulsory attendance. Let's discard the assumption that this is the only or best way to educate a human being.
 
 We start with a fundamental question: What is the [natural]({{ "/guide/human-history/natural-vs-normal/" | relative_url }}) human learning process?
 
@@ -54,7 +54,7 @@ For 99.5% of our history, learning was not a separate activity confined to a spe
 
 - _Imitation & Observation:_{: .bullet} They watched and mimicked the adults and older peers in their multi-age community, acquiring essential skills organically.
 
-- _Intrinsic Motivation:_{: .bullet} They learned what was relevant to their lives, driven by their own curiosity, not an external [curriculum]({{ "/posts/2026-09-05-Curiosity" | relative_url }}).
+- _Intrinsic Motivation:_{: .bullet} They learned what was relevant to their lives, driven by their own curiosity, not an external [curriculum]({{ site.baseurl }}{% post_url 2026-09-05-Curiosity %}).
 
 - _Autonomy:_{: .bullet} Hunter-gatherer children had immense [freedom]({{ "/glossary/" | relative_url }}#autonomy) to explore, take risks, and direct their own learning.
 
@@ -66,11 +66,11 @@ _This is our evolutionary baseline: a model of active, self-directed, and social
 
 #### Testability
 
-Yes, we can [test]({{ "/guide/first-principles/testability/" | relative_url }}) the outcomes of different educational models. We can measure rates of student engagement, creativity, and long-term retention of knowledge. We can objectively measure rates of school-related anxiety and ADHD diagnoses. We can compare the results of standardized, instruction-based systems with those of alternative models like Montessori or Sudbury.
+Yes, we can [test]({{ "/guide/first-principles/testability/" | relative_url }}) the outcomes of different educational models. We can measure rates of student engagement, creativity, and long-term retention of knowledge. We can objectively measure rates of school-related anxiety and ADHD diagnoses. We can compare the results of standardised, instruction-based systems with those of alternative models like Montessori or Sudbury.
 
 #### Objective vs. Intersubjective
 
-Is the system objective? No. It is based on a powerful [intersubjective]({{ "/guide/first-principles/intersubjective/" | relative_url }}) belief: that a centralized authority (the state) knows best what every child should learn, how they should learn it, and when. We must test this [belief]({{ "/glossary/" | relative_url }}#beliefs) against the [evidence]({{ "/guide/first-principles/evidence/" | relative_url }}).
+Is the system objective? No. It is based on a powerful [intersubjective]({{ "/guide/first-principles/intersubjective/" | relative_url }}) belief: that a centralised authority (the state) knows best what every child should learn, how they should learn it, and when. We must test this [belief]({{ "/glossary/" | relative_url }}#beliefs) against the [evidence]({{ "/guide/first-principles/evidence/" | relative_url }}).
 
 #### Only EVIDENCE Matters
 
@@ -104,7 +104,7 @@ When we place our naturally curious, active, and social children into the artifi
 
 - _The Pathologizing of Natural Behaviour:_{: .bullet} The system demands prolonged stillness and uniform attention. Children who cannot [conform]({{ "/glossary/" | relative_url }}#conformity) to this unnatural demand are often diagnosed with [disorders]({{ "/glossary/" | relative_url }}#disorder) like ADHD. We are essentially medicating children to help them tolerate a mismatched environment.
 
-- _The Rise in School-Related Anxiety & Depression:_{: .bullet} The high-stakes pressure of standardized testing, constant social comparison, and a profound lack of _autonomy_{: .cool} over their own lives are measurable contributors to the youth [mental health]({{ "/case-studies/health/mental-health/" | relative_url }}) crisis.
+- _The Rise in School-Related Anxiety & Depression:_{: .bullet} The high-stakes pressure of standardised testing, constant social comparison, and a profound lack of _autonomy_{: .cool} over their own lives are measurable contributors to the youth [mental health]({{ "/case-studies/health/mental-health/" | relative_url }}) crisis.
 
 - _The Extinguishing of Intrinsic Motivation:_{: .bullet} Studies objectively show that when you take an activity a child enjoys and turn it into a requirement with external rewards (grades), their intrinsic motivation to do it _plummets_{: .warn}. The system is often designed to kill the love of learning.
 
