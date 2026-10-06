@@ -77,7 +77,7 @@ One famous example comes from economists **John Donohue** and **Steven Levitt**.
 
 _Their controversial conclusion?_{: .subtle}
 
-> _Legalised abortion_{: .cool} led to _unwanted children_{: .warn}, and therefore **lower crime rates** 15–20 years later.
+> _Legalised abortion_{: .cool} led to far less _unwanted children_{: .warn}, which in turn led to **lower crime rates** 15–20 years later.
 
 It’s not just about crime. A broad body of evidence shows:
 
