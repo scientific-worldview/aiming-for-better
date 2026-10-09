@@ -181,7 +181,7 @@ But not blindly. Decriminalisation must be:
 
 Drug prohibition causes _enormous suffering_{: .warn}, fuels cartels, and fills prisons — all while failing to stop addiction. It's a policy built not on evidence, but *on fear and moral* [panic]({{ "/glossary/" | relative_url }}#panic).
 
-_The evidence suggests that thoughtful decriminalisation, paired with education, regulation, and healthcare, offers a far more rational, humane, and effective way forward._{: .mark}
+_The evidence suggests that thoughtful decriminalisation, paired with education, regulation, and healthcare, offers a far more rational, humane, and effective way forward._{: .subtle}
 
 _We owe it to ourselves — and to future generations — to at least try._{: .mark}
 

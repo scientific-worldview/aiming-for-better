@@ -12,7 +12,7 @@ tags: [Domestic Violence, Shared Eyes, Nuclear Family, Evolutionary Mismatch, Is
 
 ### Overview: The Paradox of the Sanctuary
 
-In modern society, we are raised with a powerful cultural [narrative]({{ "/casestudies/narratives" | relative_url }}): the home is our ultimate sanctuary. It is *supposed* to be the "safe haven" we retreat to, a [private fortress]({{ "/case-studies/health/fortress-of-privacy/" | relative_url }}) shielding us from the dangers of the outside world. 
+In modern society, we are raised with a powerful cultural [narrative]({{ "/case-studies/narratives" | relative_url }}): the home is our ultimate sanctuary. It is *supposed* to be the "safe haven" we retreat to, a [private fortress]({{ "/case-studies/health/fortress-of-privacy/" | relative_url }}) shielding us from the dangers of the outside world. 
 
 Yet, objective data reveals _a starkly different reality_{: .bold}. For **millions** of women, children, and vulnerable adults, _the home is statistically the most dangerous place on earth_{: .mark}. What modern society loosely labels as "domestic violence" or "abuse" is a pervasive issue, often flourishing for years or even decades before any external intervention occurs.
 

@@ -22,7 +22,7 @@ For too long, political ideologies have been treated as articles of faith, defen
 
 ### The Pervasive Power of Political Narratives
 
-From the moment we are born into a society, we are *immersed in a dominant political narrative*. It **shapes our understanding** of [justice]({{ "/glossary/" | relative_url }}#justice-and-injustice), [liberty]({{ "/case-studies/law/pragmatic/liberty/" | relative_url }}), *equality, and progress*. These **ideologies** provide us with a sense of belonging, a framework for interpreting the world, and a clear vision of how [society] should be organised. They offer [comfort in their certainty]({{ "/glossary/" | relative_url }}#certainty) and *purpose in their pursuit*.
+From the moment we are born into a society, we are *immersed in a dominant political narrative*. It **shapes our understanding** of [justice]({{ "/glossary/" | relative_url }}#justice-and-injustice), [liberty]({{ "/case-studies/law/pragmatic/liberty/" | relative_url }}), *equality, and progress*. These **ideologies** provide us with a sense of belonging, a framework for interpreting the world, and a clear vision of how [society]({{ "/case-studies/society/social-structures/" | relative_url }}) should be organised. They offer [comfort in their certainty]({{ "/glossary/" | relative_url }}#certainty) and *purpose in their pursuit*.
 
 But this very [power]({{ "/case-studies/politics/governance/power/" | relative_url }}) makes them dangerous **if left unexamined**. When an ideology becomes a "Narrative Lock-In", it can blind us to [evidence]({{ "/guide/first-principles/evidence/" | relative_url }}), *justify inhumane actions*, and prevent _pragmatic adaptation_{: .cool} to changing circumstances.
 

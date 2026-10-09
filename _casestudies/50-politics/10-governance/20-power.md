@@ -30,7 +30,7 @@ Philosophers have grappled with power for millennia:
 
 #### Enlightenment and Modernity
 
-Thinkers like Hobbes, Locke, and Rousseau (as discussed in [The Social Contract]({{ "/case-studies/politics/governance/social-contract/" | relative_url }})) *focused on how to legitimate power and establish authority*. They sought to constrain absolute power through [law]({{ "/case-studies/law/theory/" | relative_url }}) and consent. Karl Marx viewed power primarily through an economic lens, *seeing it as the tool of the ruling class* to _oppress_{: .warn} the proletariat*.
+Thinkers like Hobbes, Locke, and Rousseau (as discussed in [The Social Contract]({{ "/case-studies/politics/governance/social-contract/" | relative_url }})) *focused on how to legitimate power and establish authority*. They sought to constrain absolute power through [law]({{ "/case-studies/law/theory/" | relative_url }}) and consent. Karl Marx viewed power primarily through an economic lens, *seeing it as the tool of the ruling class* to _oppress_{: .warn} the proletariat.
 
 #### 20th Century and Beyond
 

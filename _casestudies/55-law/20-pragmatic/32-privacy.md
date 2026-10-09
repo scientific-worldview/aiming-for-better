@@ -87,9 +87,19 @@ _Only Evidence Matters:_{: .cool} We must reject arguments from [authority]({{ "
 
 We can [test]({{ "/guide/first-principles/testability/" | relative_url }}) the competing claims against the historical and contemporary record.
 
-- _The Claim for Surveillance:_{: .bullet} *\"We need access to data to prevent serious harm\".*\n\n  - _Evidence (The EncroChat Takedown):_{: .bullet} In 2020, law enforcement infiltrated an encrypted network used by organized crime. The operation led to thousands of arrests and the disruption of violent plots. This is a clear, objective example of targeted surveillance (on a system known to be used for illicit activity) producing a positive outcome in preventing physical harm.
+- _The Claim for Surveillance:_{: .bullet} *"We need access to data to prevent serious harm".
 
-- _The Claim for Privacy:_{: .bullet} *\"Mass surveillance, once normalized, will inevitably be used for* [social control]({{ "/glossary/" | relative_url }}#social-control) *and the* [suppression]({{ "/glossary/" | relative_url }}#suppression) *of dissent\".*\n\n  - _Evidence (Snowden & the NSA):_{: .bullet} The 2013 revelations by Edward Snowden were not a hypothetical warning; *they were proof*. They showed a global surveillance apparatus built in secret, collecting data on millions of innocent people, and *operating far beyond its legal mandate*.\n\n  - _Evidence (China's Social Credit System):_{: .bullet} This is the endgame of *the surveillance state*. It is a system of total social control where private behaviour is monitored, scored, and used to determine a citizen's access to [basic rights]({{ "/case-studies/politics/governance/rights/" | relative_url }}) like travel and employment. It is a direct tool for enforcing [conformity]({{ "/glossary/" | relative_url }}#conformity) and punishing dissent.\n\n  - _Evidence (Hong Kong Protests):_{: .bullet} During the pro-[democracy]({{ "/case-studies/politics/democracy/" | relative_url }}) protests, activists relied heavily on encrypted messaging apps to organise and communicate. This demonstrates that strong privacy is not a luxury, but *a vital tool for citizens resisting authoritarian control*.\n\n  - _Evidence from the UK's Online Safety Act:_{: .bullet} This new law is a real-time case study. It aims to force tech companies to scan private messages for illegal content. Critics argue this is technically impossible to do without breaking end-to-end encryption for everyone, creating a massive security risk and *a tool for mass surveillance that could easily be abused in the future*.
+  - _Evidence (The EncroChat Takedown):_{: .bullet} In 2020, law enforcement infiltrated an encrypted network used by organized crime. The operation led to thousands of arrests and the disruption of violent plots. This is a clear, objective example of targeted surveillance (on a system known to be used for illicit activity) producing a positive outcome in preventing physical harm.
+
+- _The Claim for Privacy:_{: .bullet} *"Mass surveillance, once normalized, will inevitably be used for* [social control]({{ "/glossary/" | relative_url }}#social-control) and the [suppression]({{ "/glossary/" | relative_url }}#suppression) of dissent".
+
+  - _Evidence (Snowden & the NSA):_{: .bullet} The 2013 revelations by Edward Snowden were not a hypothetical warning; *they were proof*. They showed a global surveillance apparatus built in secret, collecting data on millions of innocent people, and *operating far beyond its legal mandate*.
+
+  - _Evidence (China's Social Credit System):_{: .bullet} This is the endgame of *the surveillance state*. It is a system of total social control where private behaviour is monitored, scored, and used to determine a citizen's access to [basic rights]({{ "/case-studies/politics/governance/rights/" | relative_url }}) like travel and employment. It is a direct tool for enforcing [conformity]({{ "/glossary/" | relative_url }}#conformity) and punishing dissent.
+
+  - _Evidence (Hong Kong Protests):_{: .bullet} During the pro-[democracy]({{ "/case-studies/politics/democracy/" | relative_url }}) protests, activists relied heavily on encrypted messaging apps to organise and communicate. This demonstrates that strong privacy is not a luxury, but *a vital tool for citizens resisting authoritarian control*.
+
+  - _Evidence from the UK's Online Safety Act:_{: .bullet} This new law is a real-time case study. It aims to force tech companies to scan private messages for illegal content. Critics argue this is technically impossible to do without breaking end-to-end encryption for everyone, creating a massive security risk and *a tool for mass surveillance that could easily be abused in the future* (by fraudsters or a possible future fascist state).
 
 ---
 
@@ -153,12 +163,14 @@ The principle of privacy, like the principle of free speech, cannot be compromis
 
 - The state's power to intrude upon this right must be an extremely rare exception, granted only under the most limited and transparent conditions:
 
-- It must be targeted at a specific individual, *never a population*.
+  - It must be targeted at a specific individual, *never a population*.
 
-- It must be based on a warrant from _an independent judiciary_{: .cool}, based on *evidence of a credible threat* of serious physical harm, not moral or ideological transgressions.
+  - It must be based on a warrant from _an independent judiciary_{: .cool}, based on *evidence of a credible threat* of serious physical harm, not moral or ideological transgressions.
 
-- It must be *temporary and subject to oversight*.
+  - It must be *temporary and subject to oversight*.
 
 Any law, like the UK's Online Safety Act, that seeks to create a system of mass scanning of private communications fails this test. It creates **a tool of totalitarian control** in the hope of catching a few, fundamentally misunderstanding that a free society is defined *not by the criminals it catches*, but by **the rights it guarantees for everyone else**.
+
+Futhermore, bad actors always find new evasion methods leaving only ordinary citizens as the real target of surveillance, fraud/crime and possible totalitarian control.
 
 _A free society is measured by the privacy it secures, never by the surveillance it inflicts._{: .mark}
